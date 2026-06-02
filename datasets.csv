@@ -1,0 +1,88 @@
+category,subcategory,dataset
+Monetary System,Money Supply,Monthly Monetary Aggregates (M1 M2 M3)
+Monetary System,Money Supply,Annual Monetary Aggregates (M1 M2 M3)
+Monetary System,Money Supply,Monthly Narrow Money (M1)
+Monetary System,Money Supply,Monthly Narrow Quasi-Money (M2)
+Monetary System,Money Supply,Monthly Broad Money (M3)
+Monetary System,Money Supply,Monthly Factors Affecting M3
+Monetary System,Currency in Circulation,Monthly Currency in Circulation by Denomination
+Monetary System,Currency in Circulation,Annual Currency in Circulation by Denomination
+Monetary System,BNM Balance Sheet,BNM Statement of Assets Capital and Liabilities
+Monetary System,Liquidity & Reserves,Reserve Money
+Monetary System,Liquidity & Reserves,Statutory Reserve Requirement and Liquidity Ratio
+Monetary System,Liquidity & Reserves,Statutory Reserve and Liquid Asset Requirement
+Monetary System,Liquidity & Reserves,New Liquidity Framework
+Monetary System,Liquidity & Reserves,Liquidity Coverage Ratio
+Banking System,Balance Sheets,Assets Capital and Liabilities of Banking System
+Banking System,Balance Sheets,Assets Capital and Liabilities of Islamic Banking System
+Banking System,Credit & Financing,Credit to the Private Sector
+Banking System,Credit & Financing,MSME Loan and Financing by MSME Size
+Banking System,Credit & Financing,MSME Loan and Financing by Sector
+Banking System,Credit & Financing,MSME Loan and Financing by Purpose
+Banking System,Credit & Financing,MSME Loan and Financing by Loan Size
+Banking System,Deposits & Funding,Banking Deposits by Type
+Banking System,Deposits & Funding,Banking Deposits by Holder
+Banking System,Deposits & Funding,Islamic Banking Deposits by Type
+Banking System,Deposits & Funding,Islamic Banking Deposits by Holder
+Banking System,Payments,Credit Card Operations
+Banking System,Payments,Debit Card Transactions
+Banking System,Payments,Payment Instruments
+Banking System,Payments,Payment Systems
+Banking System,Payments,Payment Channels
+Banking System,Asset Quality & Provisions,Impaired Banking Loan and Financing by Purpose
+Banking System,Asset Quality & Provisions,Impaired Banking Loan and Financing by Sector
+Banking System,Asset Quality & Provisions,Impaired Banking Loan and Financing by Type
+Banking System,Asset Quality & Provisions,Impaired SME Loan/Financing by Sector
+Banking System,Asset Quality & Provisions,Impaired SME Loan/Financing by SME Size
+Banking System,Asset Quality & Provisions,MFRS9: Financing
+Banking System,Asset Quality & Provisions,MFRS9: Financing (Islamic)
+Financial Markets,Interest Rates,Overnight Policy Rate Decisions
+Financial Markets,Interest Rates,Statutory Reserve Rate Decisions
+Financial Markets,Interest Rates,Monthly Interest Rates
+Financial Markets,Interest Rates,Annual Interest Rates
+Financial Markets,Exchange Rates,Daily Exchange Rates (0900)
+Financial Markets,Exchange Rates,Daily Exchange Rates (1130)
+Financial Markets,Exchange Rates,Daily Exchange Rates (1200)
+Financial Markets,Exchange Rates,Daily Exchange Rates (1700)
+Financial Markets,Exchange Rates,Daily MYR/USD Reference Rate (1530)
+Financial Markets,Exchange Rates,Daily MYR/USD Rate (OHLC)
+Financial Markets,Exchange Rates,Monthly Exchange Rates
+Financial Markets,Money Market Activity,Interbank Money Market Transaction Volume
+Financial Markets,Money Market Activity,Kuala Lumpur Foreign Exchange Market Interbank Transactions Volume
+Financial Markets,Money Market Activity,Conventional and Islamic Money Market Turnover
+Financial Markets,Money Market Activity,Foreign Currency Market Transactions Turnover
+Financial Markets,Bond & Sukuk,Corporate Bond and Sukuk Issues
+Financial Markets,Bond & Sukuk,Debt Securities and Sukuk Turnover
+Financial Markets,Bond & Sukuk,Foreign Holdings in Debt Securities and Sukuk
+Financial Markets,Derivatives,Derivatives Transactions Turnover
+Financial Markets,Capital Raising,Public Sector Capital Raise
+Financial Markets,Capital Raising,Private Sector Capital Raise
+Financial Markets,Kijang Emas,Daily Kijang Emas Prices by Weight
+Financial Markets,Kijang Emas,Monthly Kijang Emas Prices by Weight
+Insurance & Takaful,Balance Sheets,Insurance Assets and Liabilities
+Insurance & Takaful,Balance Sheets,Takaful Assets and Liabilities
+Insurance & Takaful,Balance Sheets,Insurance Capital Adequacy Ratio
+Insurance & Takaful,Balance Sheets,Takaful Capital Adequacy Ratio
+Insurance & Takaful,Life & Family,Life Insurance Funds
+Insurance & Takaful,Life & Family,Family Takaful Funds
+Insurance & Takaful,General Insurance & Takaful,General Insurance Funds
+Insurance & Takaful,General Insurance & Takaful,General Takaful Funds
+Insurance & Takaful,General Insurance & Takaful,General Insurance Reserves
+Insurance & Takaful,General Insurance & Takaful,General Takaful Reserves
+Insurance & Takaful,Intermediaries,Operating Results of Insurance Brokers
+Insurance & Takaful,Intermediaries,Total Insurance Premiums Transaction
+Insurance & Takaful,Intermediaries,Loss Adjusting Business by Operating Results
+Insurance & Takaful,Intermediaries,Loss Adjusting Business by Cases Handled
+Institutions & Access,Institutions,Active Commercial Banks
+Institutions & Access,Institutions,Active Islamic Banks
+Institutions & Access,Institutions,Active Insurance & Takaful Operators
+Institutions & Access,Branches & ATMs,Location of ATMs
+Institutions & Access,Employment,Employment Hiring and Separation
+Institutions & Access,Employment,Job Vacancies and Creation
+Data Dictionaries,International,Currency Codes (ISO 4217)
+Data Dictionaries,National,MSIC
+Data Dictionaries,Internal (Site-Specific),Lookup Table: Money & Banking
+Platform,Release Calendar,NSDP Release Calendar
+Platform,Usage Metrics,Data Catalogue Download
+Platform,Usage Metrics,Dashboard View Count
+Platform,Site Content,List of Datasets
