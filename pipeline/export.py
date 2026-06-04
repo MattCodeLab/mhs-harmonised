@@ -265,11 +265,12 @@ def export_harmonised_tables(
     con: duckdb.DuckDBPyConnection,
     domain_tables: list[str],  # unused — kept for API compat with run.py
     logger: RunLogger,
+    out_dir: Path | None = None,
 ) -> None:
     """Write CSV + Parquet + JSON for each configured dataset."""
     logger.section("Export Stage 2 — dataset outputs")
 
-    out_root = OUTPUTS_DIR / "stage2_harmonised"
+    out_root = out_dir if out_dir is not None else OUTPUTS_DIR / "stage2_harmonised"
     ok = skipped = errors = 0
 
     for cfg in DATASET_CONFIGS:

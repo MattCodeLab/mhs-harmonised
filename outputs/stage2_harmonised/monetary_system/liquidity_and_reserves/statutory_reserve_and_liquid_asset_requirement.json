@@ -1,0 +1,2346 @@
+{
+  "metadata": {
+    "category": "monetary_system",
+    "subcategory": "liquidity_and_reserves",
+    "dataset": "statutory_reserve_and_liquid_asset_requirement",
+    "source_table": "m_1_27_statutory_reserve_liquid_asset",
+    "exported_at": "2026-06-04T04:55:16.157951+00:00",
+    "total_rows": 232,
+    "date_min": "2007-01-01",
+    "date_max": "2026-04-01",
+    "columns": [
+      "date",
+      "frequency",
+      "statutory_reserve",
+      "rm_eligible_liabilities",
+      "ibs_statutory_reserve",
+      "ibs_rm_eligible_liabilities",
+      "inv_banks_statutory_reserve",
+      "inv_banks_rm_eligible_liabilities"
+    ],
+    "source": "Bank Negara Malaysia Monthly Highlights Statistics",
+    "url": "https://www.bnm.gov.my/publications/mhs"
+  },
+  "data": [
+    {
+      "date": "2007-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 17498.939,
+      "rm_eligible_liabilities": 454616.088576,
+      "ibs_statutory_reserve": 1468.127,
+      "ibs_rm_eligible_liabilities": 38484.467712,
+      "inv_banks_statutory_reserve": 603.257,
+      "inv_banks_rm_eligible_liabilities": 12509.185024
+    },
+    {
+      "date": "2007-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 17237.5,
+      "rm_eligible_liabilities": 449266.54524,
+      "ibs_statutory_reserve": 1539.533,
+      "ibs_rm_eligible_liabilities": 39294.70046,
+      "inv_banks_statutory_reserve": 630.46,
+      "inv_banks_rm_eligible_liabilities": 18033.86821
+    },
+    {
+      "date": "2007-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18078.043,
+      "rm_eligible_liabilities": 463273.04568,
+      "ibs_statutory_reserve": 1670.992,
+      "ibs_rm_eligible_liabilities": 39339.64496,
+      "inv_banks_statutory_reserve": 662.152,
+      "inv_banks_rm_eligible_liabilities": 19168.43927
+    },
+    {
+      "date": "2007-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18059.964,
+      "rm_eligible_liabilities": 456588.42218,
+      "ibs_statutory_reserve": 1656.606,
+      "ibs_rm_eligible_liabilities": 41404.42802,
+      "inv_banks_statutory_reserve": 657.813,
+      "inv_banks_rm_eligible_liabilities": 18599.97276
+    },
+    {
+      "date": "2007-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18092.787,
+      "rm_eligible_liabilities": 471387.0442,
+      "ibs_statutory_reserve": 1589.147,
+      "ibs_rm_eligible_liabilities": 41352.37228,
+      "inv_banks_statutory_reserve": 707.83,
+      "inv_banks_rm_eligible_liabilities": 17940.19369
+    },
+    {
+      "date": "2007-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18580.607,
+      "rm_eligible_liabilities": 478122.92951,
+      "ibs_statutory_reserve": 1633.077,
+      "ibs_rm_eligible_liabilities": 41388.21596,
+      "inv_banks_statutory_reserve": 657.035,
+      "inv_banks_rm_eligible_liabilities": 16215.18322
+    },
+    {
+      "date": "2007-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18275.01,
+      "rm_eligible_liabilities": 472896.91736,
+      "ibs_statutory_reserve": 1649.581,
+      "ibs_rm_eligible_liabilities": 42009.73065,
+      "inv_banks_statutory_reserve": 648.507,
+      "inv_banks_rm_eligible_liabilities": 15393.68996
+    },
+    {
+      "date": "2007-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 19129.612,
+      "rm_eligible_liabilities": 488633.25032,
+      "ibs_statutory_reserve": 1643.838,
+      "ibs_rm_eligible_liabilities": 41619.50948,
+      "inv_banks_statutory_reserve": 644.211,
+      "inv_banks_rm_eligible_liabilities": 15680.82034
+    },
+    {
+      "date": "2007-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18754.089,
+      "rm_eligible_liabilities": 487244.14321,
+      "ibs_statutory_reserve": 1711.983,
+      "ibs_rm_eligible_liabilities": 42628.67947,
+      "inv_banks_statutory_reserve": 648.854,
+      "inv_banks_rm_eligible_liabilities": 15977.47708
+    },
+    {
+      "date": "2007-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 17823.425,
+      "rm_eligible_liabilities": 479831.28776,
+      "ibs_statutory_reserve": 1664.915,
+      "ibs_rm_eligible_liabilities": 42903.99843,
+      "inv_banks_statutory_reserve": 622.419,
+      "inv_banks_rm_eligible_liabilities": 15337.66183
+    },
+    {
+      "date": "2007-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 19488.742,
+      "rm_eligible_liabilities": 494173.48082,
+      "ibs_statutory_reserve": 1701.301,
+      "ibs_rm_eligible_liabilities": 43304.03728,
+      "inv_banks_statutory_reserve": 638.406,
+      "inv_banks_rm_eligible_liabilities": 15624.37476
+    },
+    {
+      "date": "2007-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 19169.921,
+      "rm_eligible_liabilities": 494019.38561,
+      "ibs_statutory_reserve": 1737.256,
+      "ibs_rm_eligible_liabilities": 43323.98151,
+      "inv_banks_statutory_reserve": 645.368,
+      "inv_banks_rm_eligible_liabilities": 15768.26083
+    },
+    {
+      "date": "2008-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18556.088,
+      "rm_eligible_liabilities": 498383.88487,
+      "ibs_statutory_reserve": 3241.492,
+      "ibs_rm_eligible_liabilities": 44880.47302,
+      "inv_banks_statutory_reserve": 637.809,
+      "inv_banks_rm_eligible_liabilities": 15642.03758
+    },
+    {
+      "date": "2008-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 17838.313,
+      "rm_eligible_liabilities": 471773.48618,
+      "ibs_statutory_reserve": 3955.557,
+      "ibs_rm_eligible_liabilities": 64563.54099,
+      "inv_banks_statutory_reserve": 652.509,
+      "inv_banks_rm_eligible_liabilities": 15718.34051
+    },
+    {
+      "date": "2008-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 17416.494,
+      "rm_eligible_liabilities": 469280.14121,
+      "ibs_statutory_reserve": 2599.177,
+      "ibs_rm_eligible_liabilities": 66755.36759,
+      "inv_banks_statutory_reserve": 608.833,
+      "inv_banks_rm_eligible_liabilities": 15035.72651
+    },
+    {
+      "date": "2008-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18018.091,
+      "rm_eligible_liabilities": 473629.61964,
+      "ibs_statutory_reserve": 2700.919,
+      "ibs_rm_eligible_liabilities": 66195.44339,
+      "inv_banks_statutory_reserve": 616.037,
+      "inv_banks_rm_eligible_liabilities": 14979.67327
+    },
+    {
+      "date": "2008-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 19585.449,
+      "rm_eligible_liabilities": 487018.43394,
+      "ibs_statutory_reserve": 2719.311,
+      "ibs_rm_eligible_liabilities": 68136.6111,
+      "inv_banks_statutory_reserve": 467.874,
+      "inv_banks_rm_eligible_liabilities": 11384.48369
+    },
+    {
+      "date": "2008-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 19784.099,
+      "rm_eligible_liabilities": 487326.168,
+      "ibs_statutory_reserve": 2700.888,
+      "ibs_rm_eligible_liabilities": 70074.94264,
+      "inv_banks_statutory_reserve": 480.163,
+      "inv_banks_rm_eligible_liabilities": 11891.24239
+    },
+    {
+      "date": "2008-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18553.216,
+      "rm_eligible_liabilities": 486721.32994,
+      "ibs_statutory_reserve": 2755.76,
+      "ibs_rm_eligible_liabilities": 71410.38642,
+      "inv_banks_statutory_reserve": 524.886,
+      "inv_banks_rm_eligible_liabilities": 12916.86437
+    },
+    {
+      "date": "2008-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18853.144,
+      "rm_eligible_liabilities": 483104.49549,
+      "ibs_statutory_reserve": 3010.242,
+      "ibs_rm_eligible_liabilities": 72424.45133,
+      "inv_banks_statutory_reserve": 577.725,
+      "inv_banks_rm_eligible_liabilities": 13318.92827
+    },
+    {
+      "date": "2008-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18158.909,
+      "rm_eligible_liabilities": 472089.69976,
+      "ibs_statutory_reserve": 3062.51,
+      "ibs_rm_eligible_liabilities": 76722.79289,
+      "inv_banks_statutory_reserve": 602.323,
+      "inv_banks_rm_eligible_liabilities": 14751.05813
+    },
+    {
+      "date": "2008-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18737.302,
+      "rm_eligible_liabilities": 480316.32956,
+      "ibs_statutory_reserve": 3191.01,
+      "ibs_rm_eligible_liabilities": 79924.37228,
+      "inv_banks_statutory_reserve": 595.05,
+      "inv_banks_rm_eligible_liabilities": 14661.07867
+    },
+    {
+      "date": "2008-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 18576.86,
+      "rm_eligible_liabilities": 484695.80786,
+      "ibs_statutory_reserve": 3332.261,
+      "ibs_rm_eligible_liabilities": 83994.36658,
+      "inv_banks_statutory_reserve": 596.657,
+      "inv_banks_rm_eligible_liabilities": 14901.62101
+    },
+    {
+      "date": "2008-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 16269.313,
+      "rm_eligible_liabilities": 486781.85154,
+      "ibs_statutory_reserve": 3410.644,
+      "ibs_rm_eligible_liabilities": 96107.45856,
+      "inv_banks_statutory_reserve": 538.508,
+      "inv_banks_rm_eligible_liabilities": 15084.38163
+    },
+    {
+      "date": "2009-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 16124.899,
+      "rm_eligible_liabilities": 493876.78411,
+      "ibs_statutory_reserve": 3587.309,
+      "ibs_rm_eligible_liabilities": 102182.73933,
+      "inv_banks_statutory_reserve": 512.027,
+      "inv_banks_rm_eligible_liabilities": 14641.27652
+    },
+    {
+      "date": "2009-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 9219.564,
+      "rm_eligible_liabilities": 499428.23486,
+      "ibs_statutory_reserve": 2047.416,
+      "ibs_rm_eligible_liabilities": 102244.93337,
+      "inv_banks_statutory_reserve": 287.252,
+      "inv_banks_rm_eligible_liabilities": 14207.88575
+    },
+    {
+      "date": "2009-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 4939.136,
+      "rm_eligible_liabilities": 489950.99393,
+      "ibs_statutory_reserve": 1086.82,
+      "ibs_rm_eligible_liabilities": 102880.61487,
+      "inv_banks_statutory_reserve": 145.669,
+      "inv_banks_rm_eligible_liabilities": 14353.40294
+    },
+    {
+      "date": "2009-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 4751.601,
+      "rm_eligible_liabilities": 490852.35869,
+      "ibs_statutory_reserve": 1066.136,
+      "ibs_rm_eligible_liabilities": 102934.0675,
+      "inv_banks_statutory_reserve": 170.382,
+      "inv_banks_rm_eligible_liabilities": 16594.59163
+    },
+    {
+      "date": "2009-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 5301.516,
+      "rm_eligible_liabilities": 499724.37426,
+      "ibs_statutory_reserve": 1066.889,
+      "ibs_rm_eligible_liabilities": 104559.49815,
+      "inv_banks_statutory_reserve": 167.456,
+      "inv_banks_rm_eligible_liabilities": 16504.80648
+    },
+    {
+      "date": "2009-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 5308.207,
+      "rm_eligible_liabilities": 497029.16935,
+      "ibs_statutory_reserve": 1086.384,
+      "ibs_rm_eligible_liabilities": 106995.85975,
+      "inv_banks_statutory_reserve": 172.928,
+      "inv_banks_rm_eligible_liabilities": 17188.11508
+    },
+    {
+      "date": "2009-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3128.511,
+      "rm_eligible_liabilities": 501167.33921,
+      "ibs_statutory_reserve": 792.391,
+      "ibs_rm_eligible_liabilities": 108548.45988,
+      "inv_banks_statutory_reserve": 182.019,
+      "inv_banks_rm_eligible_liabilities": 17452.55456
+    },
+    {
+      "date": "2009-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3027.372,
+      "rm_eligible_liabilities": 501685.71675,
+      "ibs_statutory_reserve": 779.0,
+      "ibs_rm_eligible_liabilities": 113880.41355,
+      "inv_banks_statutory_reserve": 188.754,
+      "inv_banks_rm_eligible_liabilities": 18502.44332
+    },
+    {
+      "date": "2009-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3034.04,
+      "rm_eligible_liabilities": 507990.69208,
+      "ibs_statutory_reserve": 775.27,
+      "ibs_rm_eligible_liabilities": 116964.64555,
+      "inv_banks_statutory_reserve": 190.101,
+      "inv_banks_rm_eligible_liabilities": 18692.68944
+    },
+    {
+      "date": "2009-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3066.77,
+      "rm_eligible_liabilities": 513008.45227,
+      "ibs_statutory_reserve": 773.634,
+      "ibs_rm_eligible_liabilities": 119291.05221,
+      "inv_banks_statutory_reserve": 194.321,
+      "inv_banks_rm_eligible_liabilities": 18685.56884
+    },
+    {
+      "date": "2009-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3193.184,
+      "rm_eligible_liabilities": 516838.91775,
+      "ibs_statutory_reserve": 802.773,
+      "ibs_rm_eligible_liabilities": 119503.60019,
+      "inv_banks_statutory_reserve": 198.495,
+      "inv_banks_rm_eligible_liabilities": 19418.93068
+    },
+    {
+      "date": "2009-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2751.195,
+      "rm_eligible_liabilities": 518627.66487,
+      "ibs_statutory_reserve": 863.973,
+      "ibs_rm_eligible_liabilities": 124737.03,
+      "inv_banks_statutory_reserve": 205.234,
+      "inv_banks_rm_eligible_liabilities": 20187.19459
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3167.741,
+      "rm_eligible_liabilities": 518559.20821,
+      "ibs_statutory_reserve": 937.638,
+      "ibs_rm_eligible_liabilities": 127907.13761,
+      "inv_banks_statutory_reserve": 200.645,
+      "inv_banks_rm_eligible_liabilities": 19272.7722
+    },
+    {
+      "date": "2010-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3424.209,
+      "rm_eligible_liabilities": 525478.10501,
+      "ibs_statutory_reserve": 803.955,
+      "ibs_rm_eligible_liabilities": 128459.20576,
+      "inv_banks_statutory_reserve": 196.694,
+      "inv_banks_rm_eligible_liabilities": 19102.80171
+    },
+    {
+      "date": "2010-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3325.307,
+      "rm_eligible_liabilities": 524238.53884,
+      "ibs_statutory_reserve": 819.912,
+      "ibs_rm_eligible_liabilities": 131545.75469,
+      "inv_banks_statutory_reserve": 206.129,
+      "inv_banks_rm_eligible_liabilities": 20045.46517
+    },
+    {
+      "date": "2010-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3322.783,
+      "rm_eligible_liabilities": 537110.72286,
+      "ibs_statutory_reserve": 859.999,
+      "ibs_rm_eligible_liabilities": 136115.6557,
+      "inv_banks_statutory_reserve": 205.726,
+      "inv_banks_rm_eligible_liabilities": 19716.99745
+    },
+    {
+      "date": "2010-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3650.73,
+      "rm_eligible_liabilities": 543588.12162,
+      "ibs_statutory_reserve": 873.888,
+      "ibs_rm_eligible_liabilities": 137441.13179,
+      "inv_banks_statutory_reserve": 201.195,
+      "inv_banks_rm_eligible_liabilities": 19744.16002
+    },
+    {
+      "date": "2010-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3349.775,
+      "rm_eligible_liabilities": 548455.6955,
+      "ibs_statutory_reserve": 945.974,
+      "ibs_rm_eligible_liabilities": 141700.20527,
+      "inv_banks_statutory_reserve": 198.604,
+      "inv_banks_rm_eligible_liabilities": 19494.72251
+    },
+    {
+      "date": "2010-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3319.764,
+      "rm_eligible_liabilities": 549317.36047,
+      "ibs_statutory_reserve": 946.812,
+      "ibs_rm_eligible_liabilities": 146321.84114,
+      "inv_banks_statutory_reserve": 218.326,
+      "inv_banks_rm_eligible_liabilities": 20677.15689
+    },
+    {
+      "date": "2010-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3338.545,
+      "rm_eligible_liabilities": 553788.96426,
+      "ibs_statutory_reserve": 966.21,
+      "ibs_rm_eligible_liabilities": 149138.12777,
+      "inv_banks_statutory_reserve": 216.825,
+      "inv_banks_rm_eligible_liabilities": 21106.05038
+    },
+    {
+      "date": "2010-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3887.721,
+      "rm_eligible_liabilities": 560179.52257,
+      "ibs_statutory_reserve": 994.415,
+      "ibs_rm_eligible_liabilities": 152017.88262,
+      "inv_banks_statutory_reserve": 220.97,
+      "inv_banks_rm_eligible_liabilities": 21457.62195
+    },
+    {
+      "date": "2010-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3580.682,
+      "rm_eligible_liabilities": 562197.26413,
+      "ibs_statutory_reserve": 1044.09,
+      "ibs_rm_eligible_liabilities": 151864.01006,
+      "inv_banks_statutory_reserve": 227.98,
+      "inv_banks_rm_eligible_liabilities": 22407.14182
+    },
+    {
+      "date": "2010-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3505.276,
+      "rm_eligible_liabilities": 578926.05882,
+      "ibs_statutory_reserve": 1036.863,
+      "ibs_rm_eligible_liabilities": 154516.41006,
+      "inv_banks_statutory_reserve": 247.553,
+      "inv_banks_rm_eligible_liabilities": 24369.90276
+    },
+    {
+      "date": "2010-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 4144.671,
+      "rm_eligible_liabilities": 588189.52307,
+      "ibs_statutory_reserve": 1069.296,
+      "ibs_rm_eligible_liabilities": 156514.13687,
+      "inv_banks_statutory_reserve": 269.943,
+      "inv_banks_rm_eligible_liabilities": 25724.20261
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3615.436,
+      "rm_eligible_liabilities": 585940.73591,
+      "ibs_statutory_reserve": 1076.811,
+      "ibs_rm_eligible_liabilities": 159781.57832,
+      "inv_banks_statutory_reserve": 252.789,
+      "inv_banks_rm_eligible_liabilities": 24699.76445
+    },
+    {
+      "date": "2011-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3797.114,
+      "rm_eligible_liabilities": 598435.9046,
+      "ibs_statutory_reserve": 1110.644,
+      "ibs_rm_eligible_liabilities": 158975.08855,
+      "inv_banks_statutory_reserve": 242.069,
+      "inv_banks_rm_eligible_liabilities": 23363.33738
+    },
+    {
+      "date": "2011-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 4708.223,
+      "rm_eligible_liabilities": 601105.11738,
+      "ibs_statutory_reserve": 1235.951,
+      "ibs_rm_eligible_liabilities": 161415.26523,
+      "inv_banks_statutory_reserve": 247.243,
+      "inv_banks_rm_eligible_liabilities": 22116.38339
+    },
+    {
+      "date": "2011-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 9631.101,
+      "rm_eligible_liabilities": 604129.84974,
+      "ibs_statutory_reserve": 2805.42,
+      "ibs_rm_eligible_liabilities": 164136.46088,
+      "inv_banks_statutory_reserve": 448.792,
+      "inv_banks_rm_eligible_liabilities": 21340.87948
+    },
+    {
+      "date": "2011-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 15189.757,
+      "rm_eligible_liabilities": 627357.99895,
+      "ibs_statutory_reserve": 4345.755,
+      "ibs_rm_eligible_liabilities": 168796.59388,
+      "inv_banks_statutory_reserve": 670.743,
+      "inv_banks_rm_eligible_liabilities": 22068.47488
+    },
+    {
+      "date": "2011-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 15143.139,
+      "rm_eligible_liabilities": 630428.01137,
+      "ibs_statutory_reserve": 4016.741,
+      "ibs_rm_eligible_liabilities": 168393.72095,
+      "inv_banks_statutory_reserve": 752.339,
+      "inv_banks_rm_eligible_liabilities": 24874.90345
+    },
+    {
+      "date": "2011-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22624.464,
+      "rm_eligible_liabilities": 640831.06461,
+      "ibs_statutory_reserve": 5845.417,
+      "ibs_rm_eligible_liabilities": 171106.97939,
+      "inv_banks_statutory_reserve": 1006.036,
+      "inv_banks_rm_eligible_liabilities": 24819.3357
+    },
+    {
+      "date": "2011-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22854.073,
+      "rm_eligible_liabilities": 657857.53144,
+      "ibs_statutory_reserve": 5771.258,
+      "ibs_rm_eligible_liabilities": 176234.93551,
+      "inv_banks_statutory_reserve": 1060.388,
+      "inv_banks_rm_eligible_liabilities": 25498.40945
+    },
+    {
+      "date": "2011-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22041.219,
+      "rm_eligible_liabilities": 647477.71299,
+      "ibs_statutory_reserve": 5989.363,
+      "ibs_rm_eligible_liabilities": 181483.48649,
+      "inv_banks_statutory_reserve": 1080.199,
+      "inv_banks_rm_eligible_liabilities": 26605.91413
+    },
+    {
+      "date": "2011-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22341.19,
+      "rm_eligible_liabilities": 646749.45387,
+      "ibs_statutory_reserve": 6108.669,
+      "ibs_rm_eligible_liabilities": 185525.87135,
+      "inv_banks_statutory_reserve": 1041.277,
+      "inv_banks_rm_eligible_liabilities": 25883.04742
+    },
+    {
+      "date": "2011-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22286.238,
+      "rm_eligible_liabilities": 642851.84906,
+      "ibs_statutory_reserve": 5911.673,
+      "ibs_rm_eligible_liabilities": 187256.56348,
+      "inv_banks_statutory_reserve": 1011.144,
+      "inv_banks_rm_eligible_liabilities": 24988.99946
+    },
+    {
+      "date": "2011-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 25517.741,
+      "rm_eligible_liabilities": 648951.51501,
+      "ibs_statutory_reserve": 7826.679,
+      "ibs_rm_eligible_liabilities": 189866.28448,
+      "inv_banks_statutory_reserve": 1002.749,
+      "inv_banks_rm_eligible_liabilities": 24584.2663
+    },
+    {
+      "date": "2012-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 25519.647,
+      "rm_eligible_liabilities": 654525.65132,
+      "ibs_statutory_reserve": 8125.777,
+      "ibs_rm_eligible_liabilities": 196964.02789,
+      "inv_banks_statutory_reserve": 960.507,
+      "inv_banks_rm_eligible_liabilities": 23916.40777
+    },
+    {
+      "date": "2012-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 26553.357,
+      "rm_eligible_liabilities": 668870.88124,
+      "ibs_statutory_reserve": 8418.762,
+      "ibs_rm_eligible_liabilities": 204668.93596,
+      "inv_banks_statutory_reserve": 977.735,
+      "inv_banks_rm_eligible_liabilities": 24219.17438
+    },
+    {
+      "date": "2012-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 26402.143,
+      "rm_eligible_liabilities": 670148.68999,
+      "ibs_statutory_reserve": 8451.158,
+      "ibs_rm_eligible_liabilities": 207231.5752,
+      "inv_banks_statutory_reserve": 941.218,
+      "inv_banks_rm_eligible_liabilities": 22805.29245
+    },
+    {
+      "date": "2012-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 26531.413,
+      "rm_eligible_liabilities": 679692.23394,
+      "ibs_statutory_reserve": 8450.077,
+      "ibs_rm_eligible_liabilities": 209944.03506,
+      "inv_banks_statutory_reserve": 967.657,
+      "inv_banks_rm_eligible_liabilities": 22870.66615
+    },
+    {
+      "date": "2012-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27235.682,
+      "rm_eligible_liabilities": 696583.69036,
+      "ibs_statutory_reserve": 8437.138,
+      "ibs_rm_eligible_liabilities": 208868.9063,
+      "inv_banks_statutory_reserve": 950.913,
+      "inv_banks_rm_eligible_liabilities": 23433.16461
+    },
+    {
+      "date": "2012-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27787.606,
+      "rm_eligible_liabilities": 703400.73603,
+      "ibs_statutory_reserve": 8534.546,
+      "ibs_rm_eligible_liabilities": 211154.21447,
+      "inv_banks_statutory_reserve": 883.754,
+      "inv_banks_rm_eligible_liabilities": 21901.27474
+    },
+    {
+      "date": "2012-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27091.928,
+      "rm_eligible_liabilities": 706780.34018,
+      "ibs_statutory_reserve": 8478.827,
+      "ibs_rm_eligible_liabilities": 214595.13769,
+      "inv_banks_statutory_reserve": 845.855,
+      "inv_banks_rm_eligible_liabilities": 21026.15029
+    },
+    {
+      "date": "2012-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27899.582,
+      "rm_eligible_liabilities": 714664.93913,
+      "ibs_statutory_reserve": 8719.54,
+      "ibs_rm_eligible_liabilities": 216293.42905,
+      "inv_banks_statutory_reserve": 834.6,
+      "inv_banks_rm_eligible_liabilities": 20421.45021
+    },
+    {
+      "date": "2012-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28425.814,
+      "rm_eligible_liabilities": 716007.80517,
+      "ibs_statutory_reserve": 8934.767,
+      "ibs_rm_eligible_liabilities": 220970.64642,
+      "inv_banks_statutory_reserve": 829.085,
+      "inv_banks_rm_eligible_liabilities": 20245.72058
+    },
+    {
+      "date": "2012-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28653.831,
+      "rm_eligible_liabilities": 723615.80768,
+      "ibs_statutory_reserve": 9002.38,
+      "ibs_rm_eligible_liabilities": 223259.89974,
+      "inv_banks_statutory_reserve": 838.266,
+      "inv_banks_rm_eligible_liabilities": 20691.35208
+    },
+    {
+      "date": "2012-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28971.802,
+      "rm_eligible_liabilities": 732872.30986,
+      "ibs_statutory_reserve": 9081.073,
+      "ibs_rm_eligible_liabilities": 228296.95294,
+      "inv_banks_statutory_reserve": 883.315,
+      "inv_banks_rm_eligible_liabilities": 21278.79855
+    },
+    {
+      "date": "2012-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28384.919,
+      "rm_eligible_liabilities": 733924.19032,
+      "ibs_statutory_reserve": 9205.792,
+      "ibs_rm_eligible_liabilities": 231865.03988,
+      "inv_banks_statutory_reserve": 893.663,
+      "inv_banks_rm_eligible_liabilities": 21770.89762
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28691.665016,
+      "rm_eligible_liabilities": 739387.62129,
+      "ibs_statutory_reserve": 9354.00618,
+      "ibs_rm_eligible_liabilities": 233861.73071,
+      "inv_banks_statutory_reserve": 859.970511,
+      "inv_banks_rm_eligible_liabilities": 21402.39121
+    },
+    {
+      "date": "2013-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28961.882016,
+      "rm_eligible_liabilities": 748732.18917887,
+      "ibs_statutory_reserve": 10005.655081,
+      "ibs_rm_eligible_liabilities": 238577.135968,
+      "inv_banks_statutory_reserve": 830.523611,
+      "inv_banks_rm_eligible_liabilities": 20578.177644
+    },
+    {
+      "date": "2013-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29821.155016,
+      "rm_eligible_liabilities": 750341.405523688,
+      "ibs_statutory_reserve": 9805.897081,
+      "ibs_rm_eligible_liabilities": 243532.935525,
+      "inv_banks_statutory_reserve": 794.04449,
+      "inv_banks_rm_eligible_liabilities": 19600.2182888692
+    },
+    {
+      "date": "2013-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29233.439016,
+      "rm_eligible_liabilities": 755830.853694457,
+      "ibs_statutory_reserve": 9763.234081,
+      "ibs_rm_eligible_liabilities": 245473.103711919,
+      "inv_banks_statutory_reserve": 834.470861,
+      "inv_banks_rm_eligible_liabilities": 19945.304610245
+    },
+    {
+      "date": "2013-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29734.589016,
+      "rm_eligible_liabilities": 770521.943245653,
+      "ibs_statutory_reserve": 10001.923081,
+      "ibs_rm_eligible_liabilities": 246562.936222,
+      "inv_banks_statutory_reserve": 809.579861,
+      "inv_banks_rm_eligible_liabilities": 20040.932762
+    },
+    {
+      "date": "2013-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30737.552206,
+      "rm_eligible_liabilities": 778643.101522327,
+      "ibs_statutory_reserve": 10181.744081,
+      "ibs_rm_eligible_liabilities": 250966.483847,
+      "inv_banks_statutory_reserve": 810.419861,
+      "inv_banks_rm_eligible_liabilities": 20010.636439
+    },
+    {
+      "date": "2013-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30111.194016,
+      "rm_eligible_liabilities": 774563.339889232,
+      "ibs_statutory_reserve": 9990.740581,
+      "ibs_rm_eligible_liabilities": 253682.09993,
+      "inv_banks_statutory_reserve": 831.963861,
+      "inv_banks_rm_eligible_liabilities": 20619.74978686
+    },
+    {
+      "date": "2013-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30264.352976,
+      "rm_eligible_liabilities": 772804.438852875,
+      "ibs_statutory_reserve": 10455.520581,
+      "ibs_rm_eligible_liabilities": 258599.126338,
+      "inv_banks_statutory_reserve": 852.865861,
+      "inv_banks_rm_eligible_liabilities": 20896.542246
+    },
+    {
+      "date": "2013-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30236.347976,
+      "rm_eligible_liabilities": 775637.18521525,
+      "ibs_statutory_reserve": 10679.401581,
+      "ibs_rm_eligible_liabilities": 262683.454948,
+      "inv_banks_statutory_reserve": 863.310861,
+      "inv_banks_rm_eligible_liabilities": 21199.2522809494
+    },
+    {
+      "date": "2013-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30243.741824,
+      "rm_eligible_liabilities": 783685.655346667,
+      "ibs_statutory_reserve": 10756.698997,
+      "ibs_rm_eligible_liabilities": 267916.836213,
+      "inv_banks_statutory_reserve": 878.333861,
+      "inv_banks_rm_eligible_liabilities": 21619.628121
+    },
+    {
+      "date": "2013-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30900.196824,
+      "rm_eligible_liabilities": 796877.308332938,
+      "ibs_statutory_reserve": 11110.325565,
+      "ibs_rm_eligible_liabilities": 272135.277021,
+      "inv_banks_statutory_reserve": 897.206861,
+      "inv_banks_rm_eligible_liabilities": 22084.16977
+    },
+    {
+      "date": "2013-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30458.791324,
+      "rm_eligible_liabilities": 791336.2388382,
+      "ibs_statutory_reserve": 11225.904531,
+      "ibs_rm_eligible_liabilities": 276234.687242,
+      "inv_banks_statutory_reserve": 936.992861,
+      "inv_banks_rm_eligible_liabilities": 22347.919804
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31398.145979,
+      "rm_eligible_liabilities": 793396.810716312,
+      "ibs_statutory_reserve": 11524.472531,
+      "ibs_rm_eligible_liabilities": 282519.292548986,
+      "inv_banks_statutory_reserve": 933.550861,
+      "inv_banks_rm_eligible_liabilities": 23098.5437399425
+    },
+    {
+      "date": "2014-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31755.896979,
+      "rm_eligible_liabilities": 809738.397154875,
+      "ibs_statutory_reserve": 11676.833531,
+      "ibs_rm_eligible_liabilities": 285336.834725,
+      "inv_banks_statutory_reserve": 921.161861,
+      "inv_banks_rm_eligible_liabilities": 22734.606935
+    },
+    {
+      "date": "2014-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31777.361679,
+      "rm_eligible_liabilities": 812933.798416615,
+      "ibs_statutory_reserve": 11579.772531,
+      "ibs_rm_eligible_liabilities": 286832.609407835,
+      "inv_banks_statutory_reserve": 920.321861,
+      "inv_banks_rm_eligible_liabilities": 22934.090905
+    },
+    {
+      "date": "2014-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31694.262306,
+      "rm_eligible_liabilities": 811172.069108563,
+      "ibs_statutory_reserve": 11685.572531,
+      "ibs_rm_eligible_liabilities": 289566.720848611,
+      "inv_banks_statutory_reserve": 907.674861,
+      "inv_banks_rm_eligible_liabilities": 22228.215214
+    },
+    {
+      "date": "2014-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32000.559526,
+      "rm_eligible_liabilities": 820441.8137482,
+      "ibs_statutory_reserve": 11788.997531,
+      "ibs_rm_eligible_liabilities": 290686.407801,
+      "inv_banks_statutory_reserve": 941.429861,
+      "inv_banks_rm_eligible_liabilities": 23015.4054087333
+    },
+    {
+      "date": "2014-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32594.643163,
+      "rm_eligible_liabilities": 820672.048903813,
+      "ibs_statutory_reserve": 11813.245531,
+      "ibs_rm_eligible_liabilities": 292073.622624,
+      "inv_banks_statutory_reserve": 914.152861,
+      "inv_banks_rm_eligible_liabilities": 22680.031127
+    },
+    {
+      "date": "2014-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31697.105163,
+      "rm_eligible_liabilities": 820023.7664548,
+      "ibs_statutory_reserve": 11824.986031,
+      "ibs_rm_eligible_liabilities": 297519.522320733,
+      "inv_banks_statutory_reserve": 920.364861,
+      "inv_banks_rm_eligible_liabilities": 22762.766519
+    },
+    {
+      "date": "2014-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32971.764136,
+      "rm_eligible_liabilities": 824610.268012,
+      "ibs_statutory_reserve": 12177.458031,
+      "ibs_rm_eligible_liabilities": 300507.471489,
+      "inv_banks_statutory_reserve": 901.496861,
+      "inv_banks_rm_eligible_liabilities": 22306.862805
+    },
+    {
+      "date": "2014-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33101.252163,
+      "rm_eligible_liabilities": 820890.914705,
+      "ibs_statutory_reserve": 12481.593031,
+      "ibs_rm_eligible_liabilities": 306553.180998,
+      "inv_banks_statutory_reserve": 903.118861,
+      "inv_banks_rm_eligible_liabilities": 22718.829021
+    },
+    {
+      "date": "2014-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32663.272489,
+      "rm_eligible_liabilities": 824202.583133,
+      "ibs_statutory_reserve": 12657.670031,
+      "ibs_rm_eligible_liabilities": 310617.597255,
+      "inv_banks_statutory_reserve": 889.901861,
+      "inv_banks_rm_eligible_liabilities": 21903.279512
+    },
+    {
+      "date": "2014-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33033.302489,
+      "rm_eligible_liabilities": 830987.332203,
+      "ibs_statutory_reserve": 12974.823031,
+      "ibs_rm_eligible_liabilities": 317979.164834,
+      "inv_banks_statutory_reserve": 877.377861,
+      "inv_banks_rm_eligible_liabilities": 21683.144559
+    },
+    {
+      "date": "2014-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32651.328549,
+      "rm_eligible_liabilities": 828501.565137,
+      "ibs_statutory_reserve": 13011.115031,
+      "ibs_rm_eligible_liabilities": 324874.530342,
+      "inv_banks_statutory_reserve": 869.586861,
+      "inv_banks_rm_eligible_liabilities": 21404.035092
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34589.063436,
+      "rm_eligible_liabilities": 846721.656687,
+      "ibs_statutory_reserve": 13628.727031,
+      "ibs_rm_eligible_liabilities": 334315.577441,
+      "inv_banks_statutory_reserve": 874.92092,
+      "inv_banks_rm_eligible_liabilities": 21302.083305
+    },
+    {
+      "date": "2015-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34127.862615,
+      "rm_eligible_liabilities": 855029.523211,
+      "ibs_statutory_reserve": 13592.368031,
+      "ibs_rm_eligible_liabilities": 336350.150861,
+      "inv_banks_statutory_reserve": 843.48992,
+      "inv_banks_rm_eligible_liabilities": 20807.854619
+    },
+    {
+      "date": "2015-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33767.502071,
+      "rm_eligible_liabilities": 858233.956364,
+      "ibs_statutory_reserve": 14245.304031,
+      "ibs_rm_eligible_liabilities": 344131.892589,
+      "inv_banks_statutory_reserve": 863.76492,
+      "inv_banks_rm_eligible_liabilities": 21651.385883
+    },
+    {
+      "date": "2015-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34084.23707,
+      "rm_eligible_liabilities": 849555.816905,
+      "ibs_statutory_reserve": 14388.803031,
+      "ibs_rm_eligible_liabilities": 348848.954968,
+      "inv_banks_statutory_reserve": 858.786948,
+      "inv_banks_rm_eligible_liabilities": 21302.642162
+    },
+    {
+      "date": "2015-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34097.58307,
+      "rm_eligible_liabilities": 847377.820627,
+      "ibs_statutory_reserve": 14121.405031,
+      "ibs_rm_eligible_liabilities": 351421.657945,
+      "inv_banks_statutory_reserve": 842.884948,
+      "inv_banks_rm_eligible_liabilities": 20955.504182
+    },
+    {
+      "date": "2015-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33408.26507,
+      "rm_eligible_liabilities": 842680.179202,
+      "ibs_statutory_reserve": 14024.705031,
+      "ibs_rm_eligible_liabilities": 354253.051615,
+      "inv_banks_statutory_reserve": 879.665948,
+      "inv_banks_rm_eligible_liabilities": 21599.902294
+    },
+    {
+      "date": "2015-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33557.74407,
+      "rm_eligible_liabilities": 839155.954729,
+      "ibs_statutory_reserve": 14251.347031,
+      "ibs_rm_eligible_liabilities": 356827.092616,
+      "inv_banks_statutory_reserve": 883.057948,
+      "inv_banks_rm_eligible_liabilities": 21641.53504
+    },
+    {
+      "date": "2015-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34568.86207,
+      "rm_eligible_liabilities": 850820.076984,
+      "ibs_statutory_reserve": 14055.686031,
+      "ibs_rm_eligible_liabilities": 344035.785473,
+      "inv_banks_statutory_reserve": 877.055948,
+      "inv_banks_rm_eligible_liabilities": 21173.83139
+    },
+    {
+      "date": "2015-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34233.71207,
+      "rm_eligible_liabilities": 854126.392911,
+      "ibs_statutory_reserve": 13671.468031,
+      "ibs_rm_eligible_liabilities": 345859.279367,
+      "inv_banks_statutory_reserve": 869.668948,
+      "inv_banks_rm_eligible_liabilities": 21428.135238
+    },
+    {
+      "date": "2015-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34487.050043,
+      "rm_eligible_liabilities": 866448.775716,
+      "ibs_statutory_reserve": 13841.667031,
+      "ibs_rm_eligible_liabilities": 348202.391284,
+      "inv_banks_statutory_reserve": 924.648948,
+      "inv_banks_rm_eligible_liabilities": 22991.524433
+    },
+    {
+      "date": "2015-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33727.967043,
+      "rm_eligible_liabilities": 863575.750709,
+      "ibs_statutory_reserve": 13903.590031,
+      "ibs_rm_eligible_liabilities": 351094.462453,
+      "inv_banks_statutory_reserve": 873.024948,
+      "inv_banks_rm_eligible_liabilities": 21585.297655
+    },
+    {
+      "date": "2015-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 34128.934043,
+      "rm_eligible_liabilities": 867176.488801,
+      "ibs_statutory_reserve": 13731.859652,
+      "ibs_rm_eligible_liabilities": 343835.878938,
+      "inv_banks_statutory_reserve": 868.549548,
+      "inv_banks_rm_eligible_liabilities": 21521.760744
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 35076.573043,
+      "rm_eligible_liabilities": 863760.507739,
+      "ibs_statutory_reserve": 13929.021652,
+      "ibs_rm_eligible_liabilities": 341107.3912,
+      "inv_banks_statutory_reserve": 850.123748,
+      "inv_banks_rm_eligible_liabilities": 21240.280778
+    },
+    {
+      "date": "2016-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29780.638043,
+      "rm_eligible_liabilities": 860360.808214,
+      "ibs_statutory_reserve": 11373.921652,
+      "ibs_rm_eligible_liabilities": 336212.130319,
+      "inv_banks_statutory_reserve": 741.413748,
+      "inv_banks_rm_eligible_liabilities": 21006.797931
+    },
+    {
+      "date": "2016-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28920.504043,
+      "rm_eligible_liabilities": 864601.702848,
+      "ibs_statutory_reserve": 11862.955402,
+      "ibs_rm_eligible_liabilities": 334920.176969,
+      "inv_banks_statutory_reserve": 696.890748,
+      "inv_banks_rm_eligible_liabilities": 19886.723839
+    },
+    {
+      "date": "2016-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30936.218043,
+      "rm_eligible_liabilities": 870672.569746,
+      "ibs_statutory_reserve": 11721.552402,
+      "ibs_rm_eligible_liabilities": 333358.464772,
+      "inv_banks_statutory_reserve": 693.979748,
+      "inv_banks_rm_eligible_liabilities": 20055.790812
+    },
+    {
+      "date": "2016-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28699.195043,
+      "rm_eligible_liabilities": 868923.426825,
+      "ibs_statutory_reserve": 11720.062402,
+      "ibs_rm_eligible_liabilities": 333637.390793,
+      "inv_banks_statutory_reserve": 707.689257,
+      "inv_banks_rm_eligible_liabilities": 20014.638993
+    },
+    {
+      "date": "2016-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29238.708243,
+      "rm_eligible_liabilities": 865387.448754,
+      "ibs_statutory_reserve": 12034.989402,
+      "ibs_rm_eligible_liabilities": 332030.791192,
+      "inv_banks_statutory_reserve": 733.774182,
+      "inv_banks_rm_eligible_liabilities": 20688.192098
+    },
+    {
+      "date": "2016-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30698.124243,
+      "rm_eligible_liabilities": 868851.059223,
+      "ibs_statutory_reserve": 11904.467402,
+      "ibs_rm_eligible_liabilities": 332408.358871,
+      "inv_banks_statutory_reserve": 769.290182,
+      "inv_banks_rm_eligible_liabilities": 21684.009844
+    },
+    {
+      "date": "2016-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30192.435243,
+      "rm_eligible_liabilities": 870215.335649,
+      "ibs_statutory_reserve": 11842.967402,
+      "ibs_rm_eligible_liabilities": 333132.483316,
+      "inv_banks_statutory_reserve": 754.399969,
+      "inv_banks_rm_eligible_liabilities": 21579.68423
+    },
+    {
+      "date": "2016-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29950.161444,
+      "rm_eligible_liabilities": 871759.640058,
+      "ibs_statutory_reserve": 12028.249213,
+      "ibs_rm_eligible_liabilities": 335504.747768,
+      "inv_banks_statutory_reserve": 730.923182,
+      "inv_banks_rm_eligible_liabilities": 21188.367376
+    },
+    {
+      "date": "2016-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29578.883958,
+      "rm_eligible_liabilities": 868496.4235,
+      "ibs_statutory_reserve": 11994.972598,
+      "ibs_rm_eligible_liabilities": 340842.517163,
+      "inv_banks_statutory_reserve": 720.023182,
+      "inv_banks_rm_eligible_liabilities": 20470.846636
+    },
+    {
+      "date": "2016-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30117.265216,
+      "rm_eligible_liabilities": 870498.330029,
+      "ibs_statutory_reserve": 12091.887021,
+      "ibs_rm_eligible_liabilities": 306360.219624,
+      "inv_banks_statutory_reserve": 711.086182,
+      "inv_banks_rm_eligible_liabilities": 20095.819536
+    },
+    {
+      "date": "2016-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29781.505063,
+      "rm_eligible_liabilities": 881958.405829,
+      "ibs_statutory_reserve": 12421.721405,
+      "ibs_rm_eligible_liabilities": 344779.871007,
+      "inv_banks_statutory_reserve": 764.968182,
+      "inv_banks_rm_eligible_liabilities": 21331.265107
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29262.684975,
+      "rm_eligible_liabilities": 883634.52335,
+      "ibs_statutory_reserve": 12449.427919,
+      "ibs_rm_eligible_liabilities": 351858.529391,
+      "inv_banks_statutory_reserve": 771.909182,
+      "inv_banks_rm_eligible_liabilities": 21671.41978
+    },
+    {
+      "date": "2017-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 26808.255749,
+      "rm_eligible_liabilities": 885934.305667,
+      "ibs_statutory_reserve": 11740.6942,
+      "ibs_rm_eligible_liabilities": 352347.881426,
+      "inv_banks_statutory_reserve": 788.993182,
+      "inv_banks_rm_eligible_liabilities": 22139.771188
+    },
+    {
+      "date": "2017-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 26962.86985,
+      "rm_eligible_liabilities": 874670.646986,
+      "ibs_statutory_reserve": 11718.221423,
+      "ibs_rm_eligible_liabilities": 352522.864472,
+      "inv_banks_statutory_reserve": 784.809182,
+      "inv_banks_rm_eligible_liabilities": 22239.446773
+    },
+    {
+      "date": "2017-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27616.69094,
+      "rm_eligible_liabilities": 862813.132396,
+      "ibs_statutory_reserve": 11972.6391,
+      "ibs_rm_eligible_liabilities": 359608.290141,
+      "inv_banks_statutory_reserve": 810.276482,
+      "inv_banks_rm_eligible_liabilities": 22616.409159
+    },
+    {
+      "date": "2017-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 25752.245577,
+      "rm_eligible_liabilities": 849458.613091,
+      "ibs_statutory_reserve": 12033.728243,
+      "ibs_rm_eligible_liabilities": 362995.800818,
+      "inv_banks_statutory_reserve": 808.115482,
+      "inv_banks_rm_eligible_liabilities": 23189.068472
+    },
+    {
+      "date": "2017-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 26707.925964,
+      "rm_eligible_liabilities": 854823.231036,
+      "ibs_statutory_reserve": 11923.673593,
+      "ibs_rm_eligible_liabilities": 361648.628301,
+      "inv_banks_statutory_reserve": 849.733286,
+      "inv_banks_rm_eligible_liabilities": 23410.486908
+    },
+    {
+      "date": "2017-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27316.885056,
+      "rm_eligible_liabilities": 860963.66721,
+      "ibs_statutory_reserve": 11828.651362,
+      "ibs_rm_eligible_liabilities": 368483.032248,
+      "inv_banks_statutory_reserve": 831.743482,
+      "inv_banks_rm_eligible_liabilities": 24007.312183
+    },
+    {
+      "date": "2017-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27745.143082,
+      "rm_eligible_liabilities": 854613.837381,
+      "ibs_statutory_reserve": 12404.796371,
+      "ibs_rm_eligible_liabilities": 374111.704833,
+      "inv_banks_statutory_reserve": 836.689898,
+      "inv_banks_rm_eligible_liabilities": 23560.900932
+    },
+    {
+      "date": "2017-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28039.253357,
+      "rm_eligible_liabilities": 861470.523223,
+      "ibs_statutory_reserve": 12691.927325,
+      "ibs_rm_eligible_liabilities": 376644.920863,
+      "inv_banks_statutory_reserve": 780.650604,
+      "inv_banks_rm_eligible_liabilities": 22285.361239
+    },
+    {
+      "date": "2017-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27897.147285,
+      "rm_eligible_liabilities": 880004.159032,
+      "ibs_statutory_reserve": 12212.603239,
+      "ibs_rm_eligible_liabilities": 376178.378919,
+      "inv_banks_statutory_reserve": 799.87938,
+      "inv_banks_rm_eligible_liabilities": 22351.767653
+    },
+    {
+      "date": "2017-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27790.300358,
+      "rm_eligible_liabilities": 884821.656219,
+      "ibs_statutory_reserve": 12484.738923,
+      "ibs_rm_eligible_liabilities": 379553.910334,
+      "inv_banks_statutory_reserve": 826.308722,
+      "inv_banks_rm_eligible_liabilities": 23266.035318
+    },
+    {
+      "date": "2017-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 29326.46804,
+      "rm_eligible_liabilities": 895384.877234,
+      "ibs_statutory_reserve": 13087.365329,
+      "ibs_rm_eligible_liabilities": 385684.651333,
+      "inv_banks_statutory_reserve": 833.079757,
+      "inv_banks_rm_eligible_liabilities": 23855.408255
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 30268.585563,
+      "rm_eligible_liabilities": 900048.847959,
+      "ibs_statutory_reserve": 13571.168287,
+      "ibs_rm_eligible_liabilities": 392264.014619,
+      "inv_banks_statutory_reserve": 821.633801,
+      "inv_banks_rm_eligible_liabilities": 23621.181972
+    },
+    {
+      "date": "2018-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31165.088334,
+      "rm_eligible_liabilities": 914837.102045,
+      "ibs_statutory_reserve": 14395.843403,
+      "ibs_rm_eligible_liabilities": 397335.067874,
+      "inv_banks_statutory_reserve": 818.847648,
+      "inv_banks_rm_eligible_liabilities": 23216.247421
+    },
+    {
+      "date": "2018-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31655.965366,
+      "rm_eligible_liabilities": 923905.858746,
+      "ibs_statutory_reserve": 15199.467602,
+      "ibs_rm_eligible_liabilities": 400649.991484,
+      "inv_banks_statutory_reserve": 777.727997,
+      "inv_banks_rm_eligible_liabilities": 22019.281656
+    },
+    {
+      "date": "2018-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32305.139165,
+      "rm_eligible_liabilities": 930916.913304,
+      "ibs_statutory_reserve": 15138.877109,
+      "ibs_rm_eligible_liabilities": 407014.581247,
+      "inv_banks_statutory_reserve": 765.850837,
+      "inv_banks_rm_eligible_liabilities": 21845.548079
+    },
+    {
+      "date": "2018-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31982.80137,
+      "rm_eligible_liabilities": 935745.34685,
+      "ibs_statutory_reserve": 16865.380517,
+      "ibs_rm_eligible_liabilities": 441046.145509,
+      "inv_banks_statutory_reserve": 811.801818,
+      "inv_banks_rm_eligible_liabilities": 22408.166073
+    },
+    {
+      "date": "2018-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32455.788809,
+      "rm_eligible_liabilities": 927157.120396,
+      "ibs_statutory_reserve": 16626.844557,
+      "ibs_rm_eligible_liabilities": 445276.232263,
+      "inv_banks_statutory_reserve": 832.531237,
+      "inv_banks_rm_eligible_liabilities": 21893.965863
+    },
+    {
+      "date": "2018-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31865.690106,
+      "rm_eligible_liabilities": 926430.779939,
+      "ibs_statutory_reserve": 16680.257255,
+      "ibs_rm_eligible_liabilities": 450896.633785,
+      "inv_banks_statutory_reserve": 823.27104,
+      "inv_banks_rm_eligible_liabilities": 23374.692029
+    },
+    {
+      "date": "2018-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32558.983826,
+      "rm_eligible_liabilities": 927982.975174,
+      "ibs_statutory_reserve": 16404.399444,
+      "ibs_rm_eligible_liabilities": 455405.389684,
+      "inv_banks_statutory_reserve": 817.09287,
+      "inv_banks_rm_eligible_liabilities": 23153.194803
+    },
+    {
+      "date": "2018-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32731.362928,
+      "rm_eligible_liabilities": 921224.561321,
+      "ibs_statutory_reserve": 16232.760056,
+      "ibs_rm_eligible_liabilities": 459372.679211,
+      "inv_banks_statutory_reserve": 807.709453,
+      "inv_banks_rm_eligible_liabilities": 23023.698157
+    },
+    {
+      "date": "2018-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32497.720822,
+      "rm_eligible_liabilities": 921380.696444,
+      "ibs_statutory_reserve": 15786.303973,
+      "ibs_rm_eligible_liabilities": 462267.401424,
+      "inv_banks_statutory_reserve": 820.243075,
+      "inv_banks_rm_eligible_liabilities": 23094.656047
+    },
+    {
+      "date": "2018-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32640.203198,
+      "rm_eligible_liabilities": 919474.441751,
+      "ibs_statutory_reserve": 16570.874879,
+      "ibs_rm_eligible_liabilities": 467091.052365,
+      "inv_banks_statutory_reserve": 836.906882,
+      "inv_banks_rm_eligible_liabilities": 23044.665117
+    },
+    {
+      "date": "2018-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 31224.570262,
+      "rm_eligible_liabilities": 926009.072728,
+      "ibs_statutory_reserve": 16469.459234,
+      "ibs_rm_eligible_liabilities": 471515.394079,
+      "inv_banks_statutory_reserve": 863.296599,
+      "inv_banks_rm_eligible_liabilities": 24020.848681
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32609.284204,
+      "rm_eligible_liabilities": 934589.476337,
+      "ibs_statutory_reserve": 16922.707084,
+      "ibs_rm_eligible_liabilities": 476011.007922,
+      "inv_banks_statutory_reserve": 872.155564,
+      "inv_banks_rm_eligible_liabilities": 24578.768147
+    },
+    {
+      "date": "2019-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32528.739896,
+      "rm_eligible_liabilities": 937952.026091,
+      "ibs_statutory_reserve": 17172.072296,
+      "ibs_rm_eligible_liabilities": 482599.810789,
+      "inv_banks_statutory_reserve": 879.881732,
+      "inv_banks_rm_eligible_liabilities": 24935.282183
+    },
+    {
+      "date": "2019-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32934.923458,
+      "rm_eligible_liabilities": 929048.639811,
+      "ibs_statutory_reserve": 17387.769077,
+      "ibs_rm_eligible_liabilities": 486649.612108,
+      "inv_banks_statutory_reserve": 876.442319,
+      "inv_banks_rm_eligible_liabilities": 24757.275822
+    },
+    {
+      "date": "2019-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32971.605583,
+      "rm_eligible_liabilities": 945341.175832,
+      "ibs_statutory_reserve": 17509.723097,
+      "ibs_rm_eligible_liabilities": 489357.190712,
+      "inv_banks_statutory_reserve": 839.779068,
+      "inv_banks_rm_eligible_liabilities": 23881.093226
+    },
+    {
+      "date": "2019-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33745.137165,
+      "rm_eligible_liabilities": 950698.103625,
+      "ibs_statutory_reserve": 17471.411354,
+      "ibs_rm_eligible_liabilities": 496335.435859,
+      "inv_banks_statutory_reserve": 821.527252,
+      "inv_banks_rm_eligible_liabilities": 23034.914331
+    },
+    {
+      "date": "2019-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33568.262322,
+      "rm_eligible_liabilities": 944916.481574,
+      "ibs_statutory_reserve": 17739.724778,
+      "ibs_rm_eligible_liabilities": 498663.516797,
+      "inv_banks_statutory_reserve": 799.889063,
+      "inv_banks_rm_eligible_liabilities": 22776.623744
+    },
+    {
+      "date": "2019-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32498.942608,
+      "rm_eligible_liabilities": 952980.052533,
+      "ibs_statutory_reserve": 17906.863259,
+      "ibs_rm_eligible_liabilities": 503394.069231,
+      "inv_banks_statutory_reserve": 797.621411,
+      "inv_banks_rm_eligible_liabilities": 22806.763531
+    },
+    {
+      "date": "2019-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 33711.928962,
+      "rm_eligible_liabilities": 951168.205687,
+      "ibs_statutory_reserve": 18013.041516,
+      "ibs_rm_eligible_liabilities": 509413.098322,
+      "inv_banks_statutory_reserve": 798.866303,
+      "inv_banks_rm_eligible_liabilities": 22632.845544
+    },
+    {
+      "date": "2019-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32275.48164,
+      "rm_eligible_liabilities": 943816.506096,
+      "ibs_statutory_reserve": 18493.049881,
+      "ibs_rm_eligible_liabilities": 514713.716607,
+      "inv_banks_statutory_reserve": 743.729848,
+      "inv_banks_rm_eligible_liabilities": 21171.936159
+    },
+    {
+      "date": "2019-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 32910.130881,
+      "rm_eligible_liabilities": 945550.320136,
+      "ibs_statutory_reserve": 19629.039232,
+      "ibs_rm_eligible_liabilities": 525987.421791,
+      "inv_banks_statutory_reserve": 711.915966,
+      "inv_banks_rm_eligible_liabilities": 20491.010264
+    },
+    {
+      "date": "2019-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27773.434701,
+      "rm_eligible_liabilities": 941624.156098,
+      "ibs_statutory_reserve": 16112.512265,
+      "ibs_rm_eligible_liabilities": 524897.026594,
+      "inv_banks_statutory_reserve": 616.510007,
+      "inv_banks_rm_eligible_liabilities": 20553.767309
+    },
+    {
+      "date": "2019-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 27954.826083,
+      "rm_eligible_liabilities": 944607.794441,
+      "ibs_statutory_reserve": 15943.333674,
+      "ibs_rm_eligible_liabilities": 526352.179577,
+      "inv_banks_statutory_reserve": 627.081234,
+      "inv_banks_rm_eligible_liabilities": 20492.092977
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28141.136931,
+      "rm_eligible_liabilities": 958533.353131,
+      "ibs_statutory_reserve": 15623.155109,
+      "ibs_rm_eligible_liabilities": 520124.768045,
+      "inv_banks_statutory_reserve": 630.456202,
+      "inv_banks_rm_eligible_liabilities": 20686.968761
+    },
+    {
+      "date": "2020-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 28550.800667,
+      "rm_eligible_liabilities": 963196.613998,
+      "ibs_statutory_reserve": 15956.026658,
+      "ibs_rm_eligible_liabilities": 521882.039584,
+      "inv_banks_statutory_reserve": 593.227012,
+      "inv_banks_rm_eligible_liabilities": 19569.228878
+    },
+    {
+      "date": "2020-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 10788.154444,
+      "rm_eligible_liabilities": 960154.689382,
+      "ibs_statutory_reserve": 6386.299901,
+      "ibs_rm_eligible_liabilities": 527729.085694,
+      "inv_banks_statutory_reserve": 478.673371,
+      "inv_banks_rm_eligible_liabilities": 20338.302512
+    },
+    {
+      "date": "2020-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 10275.890335,
+      "rm_eligible_liabilities": 953175.108398,
+      "ibs_statutory_reserve": 5437.189261,
+      "ibs_rm_eligible_liabilities": 521197.456215,
+      "inv_banks_statutory_reserve": 405.074403,
+      "inv_banks_rm_eligible_liabilities": 19978.80445
+    },
+    {
+      "date": "2020-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2240.380172,
+      "rm_eligible_liabilities": 938005.822315,
+      "ibs_statutory_reserve": 947.981828,
+      "ibs_rm_eligible_liabilities": 513927.393575,
+      "inv_banks_statutory_reserve": 176.747258,
+      "inv_banks_rm_eligible_liabilities": 19494.028343
+    },
+    {
+      "date": "2020-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1431.742504,
+      "rm_eligible_liabilities": 935963.553346,
+      "ibs_statutory_reserve": 690.280247,
+      "ibs_rm_eligible_liabilities": 509610.362304,
+      "inv_banks_statutory_reserve": 185.162665,
+      "inv_banks_rm_eligible_liabilities": 18986.937499
+    },
+    {
+      "date": "2020-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1330.618719,
+      "rm_eligible_liabilities": 936542.614937,
+      "ibs_statutory_reserve": 641.468573,
+      "ibs_rm_eligible_liabilities": 514994.34383,
+      "inv_banks_statutory_reserve": 190.884251,
+      "inv_banks_rm_eligible_liabilities": 18807.516296
+    },
+    {
+      "date": "2020-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1583.963225,
+      "rm_eligible_liabilities": 941405.090213,
+      "ibs_statutory_reserve": 910.863202,
+      "ibs_rm_eligible_liabilities": 527381.499742,
+      "inv_banks_statutory_reserve": 202.323019,
+      "inv_banks_rm_eligible_liabilities": 18894.916583
+    },
+    {
+      "date": "2020-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1760.808142,
+      "rm_eligible_liabilities": 942584.613054,
+      "ibs_statutory_reserve": 828.426372,
+      "ibs_rm_eligible_liabilities": 534346.793019,
+      "inv_banks_statutory_reserve": 199.04471,
+      "inv_banks_rm_eligible_liabilities": 19196.008212
+    },
+    {
+      "date": "2020-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1826.139736,
+      "rm_eligible_liabilities": 950944.228573,
+      "ibs_statutory_reserve": 831.584117,
+      "ibs_rm_eligible_liabilities": 530778.634709,
+      "inv_banks_statutory_reserve": 197.47592,
+      "inv_banks_rm_eligible_liabilities": 19095.499895
+    },
+    {
+      "date": "2020-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1908.653525,
+      "rm_eligible_liabilities": 951031.85077,
+      "ibs_statutory_reserve": 981.312749,
+      "ibs_rm_eligible_liabilities": 531563.034817,
+      "inv_banks_statutory_reserve": 206.656932,
+      "inv_banks_rm_eligible_liabilities": 19351.216377
+    },
+    {
+      "date": "2020-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1729.97037,
+      "rm_eligible_liabilities": 944693.770757,
+      "ibs_statutory_reserve": 700.135827,
+      "ibs_rm_eligible_liabilities": 535343.05944,
+      "inv_banks_statutory_reserve": 220.790359,
+      "inv_banks_rm_eligible_liabilities": 19224.606267
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1691.482,
+      "rm_eligible_liabilities": 944806.358102,
+      "ibs_statutory_reserve": 729.479289,
+      "ibs_rm_eligible_liabilities": 531128.109364,
+      "inv_banks_statutory_reserve": 219.916538,
+      "inv_banks_rm_eligible_liabilities": 19844.969195
+    },
+    {
+      "date": "2021-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2031.592028,
+      "rm_eligible_liabilities": 945604.517683,
+      "ibs_statutory_reserve": 990.432497,
+      "ibs_rm_eligible_liabilities": 535598.853744,
+      "inv_banks_statutory_reserve": 213.218667,
+      "inv_banks_rm_eligible_liabilities": 19964.417577
+    },
+    {
+      "date": "2021-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1921.180806,
+      "rm_eligible_liabilities": 940134.156548,
+      "ibs_statutory_reserve": 817.490332,
+      "ibs_rm_eligible_liabilities": 535560.887922,
+      "inv_banks_statutory_reserve": 216.828734,
+      "inv_banks_rm_eligible_liabilities": 20635.956157
+    },
+    {
+      "date": "2021-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1582.887348,
+      "rm_eligible_liabilities": 936922.084106,
+      "ibs_statutory_reserve": 841.056307,
+      "ibs_rm_eligible_liabilities": 537846.644633,
+      "inv_banks_statutory_reserve": 232.540383,
+      "inv_banks_rm_eligible_liabilities": 21833.161532
+    },
+    {
+      "date": "2021-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1765.966456,
+      "rm_eligible_liabilities": 932817.112714,
+      "ibs_statutory_reserve": 775.176799,
+      "ibs_rm_eligible_liabilities": 539249.73654,
+      "inv_banks_statutory_reserve": 219.873741,
+      "inv_banks_rm_eligible_liabilities": 21639.488526
+    },
+    {
+      "date": "2021-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2008.795499,
+      "rm_eligible_liabilities": 931007.737873,
+      "ibs_statutory_reserve": 709.463702,
+      "ibs_rm_eligible_liabilities": 537701.358751,
+      "inv_banks_statutory_reserve": 208.653584,
+      "inv_banks_rm_eligible_liabilities": 21058.099407
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1607.684699,
+      "rm_eligible_liabilities": 929841.166517,
+      "ibs_statutory_reserve": 861.664333,
+      "ibs_rm_eligible_liabilities": 538253.276013,
+      "inv_banks_statutory_reserve": 210.248377,
+      "inv_banks_rm_eligible_liabilities": 20606.532875
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1688.371776,
+      "rm_eligible_liabilities": 930022.314426,
+      "ibs_statutory_reserve": 811.861065,
+      "ibs_rm_eligible_liabilities": 536309.805346,
+      "inv_banks_statutory_reserve": 208.76116,
+      "inv_banks_rm_eligible_liabilities": 21349.540266
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1554.183612,
+      "rm_eligible_liabilities": 929701.13418,
+      "ibs_statutory_reserve": 780.848456,
+      "ibs_rm_eligible_liabilities": 536647.155293,
+      "inv_banks_statutory_reserve": 207.863975,
+      "inv_banks_rm_eligible_liabilities": 21598.89486
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1671.173071,
+      "rm_eligible_liabilities": 939754.195482,
+      "ibs_statutory_reserve": 854.414655,
+      "ibs_rm_eligible_liabilities": 539779.429513,
+      "inv_banks_statutory_reserve": 204.191266,
+      "inv_banks_rm_eligible_liabilities": 21678.341949
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2022.478435,
+      "rm_eligible_liabilities": 942175.338969,
+      "ibs_statutory_reserve": 704.647364,
+      "ibs_rm_eligible_liabilities": 544122.952602,
+      "inv_banks_statutory_reserve": 208.510858,
+      "inv_banks_rm_eligible_liabilities": 21856.767681
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1757.551411,
+      "rm_eligible_liabilities": 952723.392402,
+      "ibs_statutory_reserve": 811.960947,
+      "ibs_rm_eligible_liabilities": 548307.178295,
+      "inv_banks_statutory_reserve": 199.051962,
+      "inv_banks_rm_eligible_liabilities": 22098.926769
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1673.529354,
+      "rm_eligible_liabilities": 958004.827953,
+      "ibs_statutory_reserve": 1046.559128,
+      "ibs_rm_eligible_liabilities": 554865.983685,
+      "inv_banks_statutory_reserve": 194.528627,
+      "inv_banks_rm_eligible_liabilities": 21709.424532
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1807.127349,
+      "rm_eligible_liabilities": 952644.88867,
+      "ibs_statutory_reserve": 921.274537,
+      "ibs_rm_eligible_liabilities": 560060.169523,
+      "inv_banks_statutory_reserve": 192.256291,
+      "inv_banks_rm_eligible_liabilities": 21316.351259
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1675.798969,
+      "rm_eligible_liabilities": 948688.043723,
+      "ibs_statutory_reserve": 953.338135,
+      "ibs_rm_eligible_liabilities": 561931.679417,
+      "inv_banks_statutory_reserve": 198.757259,
+      "inv_banks_rm_eligible_liabilities": 21531.613808
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2089.818945,
+      "rm_eligible_liabilities": 953110.558642,
+      "ibs_statutory_reserve": 1112.793486,
+      "ibs_rm_eligible_liabilities": 565942.372567,
+      "inv_banks_statutory_reserve": 196.024141,
+      "inv_banks_rm_eligible_liabilities": 21394.707382
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1680.439828,
+      "rm_eligible_liabilities": 956140.66154,
+      "ibs_statutory_reserve": 761.428696,
+      "ibs_rm_eligible_liabilities": 566235.191172,
+      "inv_banks_statutory_reserve": 201.316482,
+      "inv_banks_rm_eligible_liabilities": 21753.254601
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2124.342552,
+      "rm_eligible_liabilities": 947976.010489,
+      "ibs_statutory_reserve": 890.010349,
+      "ibs_rm_eligible_liabilities": 574758.752599,
+      "inv_banks_statutory_reserve": 207.320933,
+      "inv_banks_rm_eligible_liabilities": 22946.456683
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1962.279947,
+      "rm_eligible_liabilities": 948639.367374,
+      "ibs_statutory_reserve": 880.562572,
+      "ibs_rm_eligible_liabilities": 577606.224476,
+      "inv_banks_statutory_reserve": 217.439067,
+      "inv_banks_rm_eligible_liabilities": 23345.405073
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 1802.229018,
+      "rm_eligible_liabilities": 953499.807786,
+      "ibs_statutory_reserve": 909.487851,
+      "ibs_rm_eligible_liabilities": 589154.552742,
+      "inv_banks_statutory_reserve": 205.308067,
+      "inv_banks_rm_eligible_liabilities": 22451.419883
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 2394.606578,
+      "rm_eligible_liabilities": 959419.783527,
+      "ibs_statutory_reserve": 1489.648683,
+      "ibs_rm_eligible_liabilities": 601768.884997,
+      "inv_banks_statutory_reserve": 196.402746,
+      "inv_banks_rm_eligible_liabilities": 22158.244151
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 3088.536468,
+      "rm_eligible_liabilities": 965933.789084,
+      "ibs_statutory_reserve": 1050.061003,
+      "ibs_rm_eligible_liabilities": 614198.402656,
+      "inv_banks_statutory_reserve": 201.154954,
+      "inv_banks_rm_eligible_liabilities": 21919.055803
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 4915.246227,
+      "rm_eligible_liabilities": 977221.339592,
+      "ibs_statutory_reserve": 1688.830459,
+      "ibs_rm_eligible_liabilities": 628473.580957,
+      "inv_banks_statutory_reserve": 236.050497,
+      "inv_banks_rm_eligible_liabilities": 24502.495226
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20374.112912,
+      "rm_eligible_liabilities": 980605.927422,
+      "ibs_statutory_reserve": 13180.821443,
+      "ibs_rm_eligible_liabilities": 629124.898043,
+      "inv_banks_statutory_reserve": 501.174892,
+      "inv_banks_rm_eligible_liabilities": 24932.804583
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20384.820208,
+      "rm_eligible_liabilities": 983250.538703,
+      "ibs_statutory_reserve": 13189.503654,
+      "ibs_rm_eligible_liabilities": 640904.886546,
+      "inv_banks_statutory_reserve": 496.18979,
+      "inv_banks_rm_eligible_liabilities": 24551.084606
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20596.934697,
+      "rm_eligible_liabilities": 1001845.50999,
+      "ibs_statutory_reserve": 13202.03566,
+      "ibs_rm_eligible_liabilities": 651311.76291,
+      "inv_banks_statutory_reserve": 490.598206,
+      "inv_banks_rm_eligible_liabilities": 24228.37677
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20290.60649,
+      "rm_eligible_liabilities": 998236.425525,
+      "ibs_statutory_reserve": 13361.942828,
+      "ibs_rm_eligible_liabilities": 655188.538876,
+      "inv_banks_statutory_reserve": 492.748764,
+      "inv_banks_rm_eligible_liabilities": 24076.294965
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20995.100927,
+      "rm_eligible_liabilities": 1013842.833917,
+      "ibs_statutory_reserve": 13403.729731,
+      "ibs_rm_eligible_liabilities": 656243.57945,
+      "inv_banks_statutory_reserve": 500.922224,
+      "inv_banks_rm_eligible_liabilities": 24704.98606
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21535.164946,
+      "rm_eligible_liabilities": 1034529.415851,
+      "ibs_statutory_reserve": 13680.908621,
+      "ibs_rm_eligible_liabilities": 662487.761108,
+      "inv_banks_statutory_reserve": 490.329857,
+      "inv_banks_rm_eligible_liabilities": 24361.528116
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21173.796564,
+      "rm_eligible_liabilities": 1035809.293345,
+      "ibs_statutory_reserve": 13515.2207,
+      "ibs_rm_eligible_liabilities": 660811.417856,
+      "inv_banks_statutory_reserve": 494.879838,
+      "inv_banks_rm_eligible_liabilities": 23843.764636
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20844.494912,
+      "rm_eligible_liabilities": 1035479.987632,
+      "ibs_statutory_reserve": 13786.300935,
+      "ibs_rm_eligible_liabilities": 671702.513839,
+      "inv_banks_statutory_reserve": 501.54032,
+      "inv_banks_rm_eligible_liabilities": 24676.152607
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21049.136828,
+      "rm_eligible_liabilities": 1029759.871225,
+      "ibs_statutory_reserve": 14036.909257,
+      "ibs_rm_eligible_liabilities": 673835.179332,
+      "inv_banks_statutory_reserve": 524.959092,
+      "inv_banks_rm_eligible_liabilities": 25732.088969
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21537.775173,
+      "rm_eligible_liabilities": 1032368.809066,
+      "ibs_statutory_reserve": 14036.249241,
+      "ibs_rm_eligible_liabilities": 679521.817603,
+      "inv_banks_statutory_reserve": 565.91006,
+      "inv_banks_rm_eligible_liabilities": 27035.065033
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20808.638517,
+      "rm_eligible_liabilities": 1034495.09528,
+      "ibs_statutory_reserve": 14018.824956,
+      "ibs_rm_eligible_liabilities": 689044.603658,
+      "inv_banks_statutory_reserve": 579.218734,
+      "inv_banks_rm_eligible_liabilities": 28374.437912
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20495.927799,
+      "rm_eligible_liabilities": 1039703.113126,
+      "ibs_statutory_reserve": 14359.227022,
+      "ibs_rm_eligible_liabilities": 692578.439124,
+      "inv_banks_statutory_reserve": 597.137813,
+      "inv_banks_rm_eligible_liabilities": 29585.559882
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21264.25751,
+      "rm_eligible_liabilities": 1049704.738519,
+      "ibs_statutory_reserve": 14145.069922,
+      "ibs_rm_eligible_liabilities": 691813.239268,
+      "inv_banks_statutory_reserve": 597.572821,
+      "inv_banks_rm_eligible_liabilities": 29260.589995
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 20690.865389,
+      "rm_eligible_liabilities": 1058136.646081,
+      "ibs_statutory_reserve": 14151.138463,
+      "ibs_rm_eligible_liabilities": 690629.834398,
+      "inv_banks_statutory_reserve": 591.873327,
+      "inv_banks_rm_eligible_liabilities": 28792.940051
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21229.469281,
+      "rm_eligible_liabilities": 1055083.985925,
+      "ibs_statutory_reserve": 14271.247687,
+      "ibs_rm_eligible_liabilities": 694352.634003,
+      "inv_banks_statutory_reserve": 593.121144,
+      "inv_banks_rm_eligible_liabilities": 29187.878673
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21433.627987,
+      "rm_eligible_liabilities": 1064152.739709,
+      "ibs_statutory_reserve": 14500.76485,
+      "ibs_rm_eligible_liabilities": 705244.75135,
+      "inv_banks_statutory_reserve": 583.896731,
+      "inv_banks_rm_eligible_liabilities": 28418.452992
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21215.832851,
+      "rm_eligible_liabilities": 1079177.42539,
+      "ibs_statutory_reserve": 14556.476468,
+      "ibs_rm_eligible_liabilities": 715343.909909,
+      "inv_banks_statutory_reserve": 557.078029,
+      "inv_banks_rm_eligible_liabilities": 27730.663167
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21287.800208,
+      "rm_eligible_liabilities": 1082883.578581,
+      "ibs_statutory_reserve": 14623.644449,
+      "ibs_rm_eligible_liabilities": 714106.797977,
+      "inv_banks_statutory_reserve": 554.503489,
+      "inv_banks_rm_eligible_liabilities": 27035.457276
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21868.06617,
+      "rm_eligible_liabilities": 1079550.580533,
+      "ibs_statutory_reserve": 14933.101866,
+      "ibs_rm_eligible_liabilities": 723739.320653,
+      "inv_banks_statutory_reserve": 583.328257,
+      "inv_banks_rm_eligible_liabilities": 27654.987546
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21244.764429,
+      "rm_eligible_liabilities": 1072925.040194,
+      "ibs_statutory_reserve": 14820.015936,
+      "ibs_rm_eligible_liabilities": 727191.26967,
+      "inv_banks_statutory_reserve": 574.085231,
+      "inv_banks_rm_eligible_liabilities": 28355.135479
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21383.449615,
+      "rm_eligible_liabilities": 1054922.419598,
+      "ibs_statutory_reserve": 15046.61162,
+      "ibs_rm_eligible_liabilities": 732865.118915,
+      "inv_banks_statutory_reserve": 579.539273,
+      "inv_banks_rm_eligible_liabilities": 28201.561626
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21735.631347,
+      "rm_eligible_liabilities": 1059519.791072,
+      "ibs_statutory_reserve": 14940.927624,
+      "ibs_rm_eligible_liabilities": 731423.508343,
+      "inv_banks_statutory_reserve": 578.65913,
+      "inv_banks_rm_eligible_liabilities": 28546.347902
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22190.853012,
+      "rm_eligible_liabilities": 1088879.317061,
+      "ibs_statutory_reserve": 15073.605454,
+      "ibs_rm_eligible_liabilities": 730802.171513,
+      "inv_banks_statutory_reserve": 575.453752,
+      "inv_banks_rm_eligible_liabilities": 28527.804824
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22216.29759,
+      "rm_eligible_liabilities": 1082179.464643,
+      "ibs_statutory_reserve": 15018.207319,
+      "ibs_rm_eligible_liabilities": 732551.190563,
+      "inv_banks_statutory_reserve": 581.405484,
+      "inv_banks_rm_eligible_liabilities": 28544.010352
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21102.983234,
+      "rm_eligible_liabilities": 1087987.143002,
+      "ibs_statutory_reserve": 15181.966313,
+      "ibs_rm_eligible_liabilities": 739659.334241,
+      "inv_banks_statutory_reserve": 585.731046,
+      "inv_banks_rm_eligible_liabilities": 28939.820548
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21904.612373,
+      "rm_eligible_liabilities": 1088313.487302,
+      "ibs_statutory_reserve": 15226.127556,
+      "ibs_rm_eligible_liabilities": 743989.612646,
+      "inv_banks_statutory_reserve": 585.901992,
+      "inv_banks_rm_eligible_liabilities": 29227.203201
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 21969.711405,
+      "rm_eligible_liabilities": 1081731.043334,
+      "ibs_statutory_reserve": 15272.058608,
+      "ibs_rm_eligible_liabilities": 746385.394863,
+      "inv_banks_statutory_reserve": 595.53849,
+      "inv_banks_rm_eligible_liabilities": 28983.048819
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22140.527718,
+      "rm_eligible_liabilities": 1092884.698433,
+      "ibs_statutory_reserve": 15308.094261,
+      "ibs_rm_eligible_liabilities": 747430.567129,
+      "inv_banks_statutory_reserve": 589.439814,
+      "inv_banks_rm_eligible_liabilities": 29115.78953
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 22169.378382,
+      "rm_eligible_liabilities": 1094782.628006,
+      "ibs_statutory_reserve": 15481.705603,
+      "ibs_rm_eligible_liabilities": 754539.336158,
+      "inv_banks_statutory_reserve": 594.00295,
+      "inv_banks_rm_eligible_liabilities": 29168.141479
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11222.126143,
+      "rm_eligible_liabilities": 1092036.366213,
+      "ibs_statutory_reserve": 7974.127623,
+      "ibs_rm_eligible_liabilities": 754337.241768,
+      "inv_banks_statutory_reserve": 290.515552,
+      "inv_banks_rm_eligible_liabilities": 28138.749251
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11886.892314,
+      "rm_eligible_liabilities": 1084139.647804,
+      "ibs_statutory_reserve": 7856.788665,
+      "ibs_rm_eligible_liabilities": 745110.32748,
+      "inv_banks_statutory_reserve": 278.118314,
+      "inv_banks_rm_eligible_liabilities": 27155.926587
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11373.673534,
+      "rm_eligible_liabilities": 1080317.901429,
+      "ibs_statutory_reserve": 7795.425683,
+      "ibs_rm_eligible_liabilities": 745636.901202,
+      "inv_banks_statutory_reserve": 278.126909,
+      "inv_banks_rm_eligible_liabilities": 26794.845922
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 10924.404471,
+      "rm_eligible_liabilities": 1076089.408699,
+      "ibs_statutory_reserve": 7844.219505,
+      "ibs_rm_eligible_liabilities": 753131.485938,
+      "inv_banks_statutory_reserve": 274.828473,
+      "inv_banks_rm_eligible_liabilities": 26381.584734
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11309.253432,
+      "rm_eligible_liabilities": 1058675.926454,
+      "ibs_statutory_reserve": 7933.420687,
+      "ibs_rm_eligible_liabilities": 753855.824623,
+      "inv_banks_statutory_reserve": 254.416772,
+      "inv_banks_rm_eligible_liabilities": 24690.670941
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11021.058024,
+      "rm_eligible_liabilities": 1070693.303182,
+      "ibs_statutory_reserve": 7878.531186,
+      "ibs_rm_eligible_liabilities": 757472.085278,
+      "inv_banks_statutory_reserve": 266.768653,
+      "inv_banks_rm_eligible_liabilities": 25280.265136
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11001.335295,
+      "rm_eligible_liabilities": 1075020.701541,
+      "ibs_statutory_reserve": 7989.142409,
+      "ibs_rm_eligible_liabilities": 762488.219798,
+      "inv_banks_statutory_reserve": 270.920125,
+      "inv_banks_rm_eligible_liabilities": 25730.891526
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11227.726871,
+      "rm_eligible_liabilities": 1088506.653027,
+      "ibs_statutory_reserve": 8028.610525,
+      "ibs_rm_eligible_liabilities": 770138.653405,
+      "inv_banks_statutory_reserve": 267.547899,
+      "inv_banks_rm_eligible_liabilities": 25565.23509
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11468.845378,
+      "rm_eligible_liabilities": 1098351.748373,
+      "ibs_statutory_reserve": 8137.003751,
+      "ibs_rm_eligible_liabilities": 778612.912594,
+      "inv_banks_statutory_reserve": 266.731075,
+      "inv_banks_rm_eligible_liabilities": 25438.024135
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11314.326727,
+      "rm_eligible_liabilities": 1095725.541379,
+      "ibs_statutory_reserve": 8145.973723,
+      "ibs_rm_eligible_liabilities": 785321.438968,
+      "inv_banks_statutory_reserve": 269.992244,
+      "inv_banks_rm_eligible_liabilities": 25163.943118
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11950.207799,
+      "rm_eligible_liabilities": 1104269.358015,
+      "ibs_statutory_reserve": 8581.14878,
+      "ibs_rm_eligible_liabilities": 790888.038491,
+      "inv_banks_statutory_reserve": 264.221862,
+      "inv_banks_rm_eligible_liabilities": 25171.563061
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "statutory_reserve": 11587.793817,
+      "rm_eligible_liabilities": 1132797.646792,
+      "ibs_statutory_reserve": 8341.936278,
+      "ibs_rm_eligible_liabilities": 757112.665907,
+      "inv_banks_statutory_reserve": 255.481692,
+      "inv_banks_rm_eligible_liabilities": 24675.059403
+    }
+  ]
+}

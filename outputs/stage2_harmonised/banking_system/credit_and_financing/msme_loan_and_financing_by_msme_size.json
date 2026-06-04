@@ -1,0 +1,2926 @@
+{
+  "metadata": {
+    "category": "banking_system",
+    "subcategory": "credit_and_financing",
+    "dataset": "msme_loan_and_financing_by_msme_size",
+    "source_table": "m_1_35_sme_loans_by_size",
+    "exported_at": "2026-06-04T04:55:16.308217+00:00",
+    "total_rows": 290,
+    "date_min": "2021-07-01",
+    "date_max": "2026-04-01",
+    "columns": [
+      "date",
+      "frequency",
+      "sme_size",
+      "individual_for_business",
+      "micro",
+      "small",
+      "medium",
+      "financing"
+    ],
+    "source": "Bank Negara Malaysia Monthly Highlights Statistics",
+    "url": "https://www.bnm.gov.my/publications/mhs"
+  },
+  "data": [
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 459.19431069999973,
+      "micro": 56846.349255020024,
+      "small": 101622.04075548997,
+      "medium": 54468.57188298998,
+      "financing": 213396.15620419997
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 236.0824579999999,
+      "micro": 28979.740215279995,
+      "small": 39140.61558634002,
+      "medium": 22984.643594189994,
+      "financing": 91341.08185381001
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.84921149,
+      "micro": 946.3710990499999,
+      "small": 203.59863211000004,
+      "medium": 170.61286928,
+      "financing": 1358.4318119299999
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 212.03633545999998,
+      "micro": 5828.494033250003,
+      "small": 6169.177563800003,
+      "medium": 6789.993942489997,
+      "financing": 18999.701875000002
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 945.1623156499996,
+      "micro": 92600.95460260003,
+      "small": 147135.43253773998,
+      "medium": 84413.82228894996,
+      "financing": 325095.37174494
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 456.37207109999986,
+      "micro": 56542.12559194999,
+      "small": 102077.47010992002,
+      "medium": 54673.45875137001,
+      "financing": 213749.42652434
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 235.02883531000012,
+      "micro": 28650.96321449,
+      "small": 39528.67511519,
+      "medium": 23150.503368070007,
+      "financing": 91565.17053306001
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.83429906,
+      "micro": 1086.44416463,
+      "small": 202.31164258,
+      "medium": 309.77553272999995,
+      "financing": 1636.3656389999994
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 212.1911285199999,
+      "micro": 5878.172339570005,
+      "small": 6226.6992564,
+      "medium": 6801.577381720001,
+      "financing": 19118.64010621001
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 941.4263339899998,
+      "micro": 92157.70531063998,
+      "small": 148035.15612409002,
+      "medium": 84935.31503389002,
+      "financing": 326069.6028026099
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 448.35638475000025,
+      "micro": 56940.18348728005,
+      "small": 102779.66550458013,
+      "medium": 55127.628713900034,
+      "financing": 215295.83409051027
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 236.11943031000004,
+      "micro": 29114.054231510003,
+      "small": 40477.76988348,
+      "medium": 23233.631032829984,
+      "financing": 93061.57457813
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.87638089,
+      "micro": 1103.82489701,
+      "small": 179.70827728,
+      "medium": 307.16593651999995,
+      "financing": 1628.5754917000002
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 214.32646282000007,
+      "micro": 5943.999188979998,
+      "small": 6215.58969848,
+      "medium": 6774.401924499999,
+      "financing": 19148.31727478
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 936.6786587700003,
+      "micro": 93102.06180478004,
+      "small": 149652.73336382012,
+      "medium": 85442.82760775002,
+      "financing": 329134.3014351202
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 461.72306509000003,
+      "micro": 56757.85224791002,
+      "small": 103338.91370301007,
+      "medium": 54203.63655148997,
+      "financing": 214762.12556750007
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 237.06431768000002,
+      "micro": 29499.83306875999,
+      "small": 41474.98773024,
+      "medium": 22986.75382797001,
+      "financing": 94198.63894465
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 36.41467767,
+      "micro": 1108.45847276,
+      "small": 133.36032648,
+      "medium": 306.65871701,
+      "financing": 1584.8921939200004
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 216.9688560099999,
+      "micro": 5851.802636360002,
+      "small": 6290.313123460003,
+      "medium": 6766.79823455,
+      "financing": 19125.882850380003
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 952.1709164499999,
+      "micro": 93217.94642579001,
+      "small": 151237.57488319007,
+      "medium": 84263.84733101999,
+      "financing": 329671.53955645004
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 456.48490321,
+      "micro": 57822.94313038003,
+      "small": 103640.72451274005,
+      "medium": 54214.86781374001,
+      "financing": 216135.02036007008
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 235.85713095000003,
+      "micro": 29770.25952255,
+      "small": 42227.585854009994,
+      "medium": 23459.69802459,
+      "financing": 95693.40053209999
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 36.40181883,
+      "micro": 1143.3242007800002,
+      "small": 132.02797713,
+      "medium": 303.79178170999995,
+      "financing": 1615.5457784500004
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 218.72166843,
+      "micro": 5883.459200469996,
+      "small": 6315.902736649996,
+      "medium": 6787.657231129998,
+      "financing": 19205.740836679994
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 947.4655214200001,
+      "micro": 94619.98605418003,
+      "small": 152316.24108053002,
+      "medium": 84766.01485117001,
+      "financing": 332649.7075073001
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 470.79653921000016,
+      "micro": 58699.15118011002,
+      "small": 104287.91419685009,
+      "medium": 54232.84321876005,
+      "financing": 217690.70513493012
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 237.76325212999998,
+      "micro": 30469.204708829995,
+      "small": 42686.07823919,
+      "medium": 24132.272688009998,
+      "financing": 97525.31888816
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 36.40042763,
+      "micro": 1081.6804099900003,
+      "small": 133.31763442,
+      "medium": 302.42366179999993,
+      "financing": 1553.8221338399999
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 220.16247953000007,
+      "micro": 5912.096080500006,
+      "small": 6402.5991733,
+      "medium": 6744.37911694,
+      "financing": 19279.236850270005
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 965.1226985000002,
+      "micro": 96162.13237943003,
+      "small": 153509.9092437601,
+      "medium": 85411.91868551004,
+      "financing": 336049.0830072001
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 485.3353926299999,
+      "micro": 59386.82608074004,
+      "small": 105454.66261911996,
+      "medium": 53822.899242950014,
+      "financing": 219149.72333543995
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 234.1198446199999,
+      "micro": 30830.724792719993,
+      "small": 43491.861742119996,
+      "medium": 23819.97454565,
+      "financing": 98376.68092510999
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 34.38499939999999,
+      "micro": 1082.4434145400003,
+      "small": 133.41878509000003,
+      "medium": 301.85249763999997,
+      "financing": 1552.0996966699997
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 221.31557681,
+      "micro": 5955.111010470004,
+      "small": 6399.790206760001,
+      "medium": 6809.912048019998,
+      "financing": 19386.128842060007
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 975.1558134599996,
+      "micro": 97255.10529847004,
+      "small": 155479.73335308998,
+      "medium": 84754.63833426002,
+      "financing": 338464.63279928005
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 493.28807858999977,
+      "micro": 60351.99110628002,
+      "small": 105215.83213937003,
+      "medium": 53901.89746871998,
+      "financing": 219963.00879296
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 232.27166431000012,
+      "micro": 30784.655555410005,
+      "small": 43730.64864930003,
+      "medium": 23916.33303262999,
+      "financing": 98663.90890165004
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 34.35860717,
+      "micro": 1085.91356885,
+      "small": 136.08535752,
+      "medium": 299.39552588000004,
+      "financing": 1555.75305942
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 222.13092974999992,
+      "micro": 5990.303991409999,
+      "small": 6360.331565849998,
+      "medium": 6759.629602319998,
+      "financing": 19332.39608933
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 982.0492798199999,
+      "micro": 98212.86422195002,
+      "small": 155442.89771204005,
+      "medium": 84877.25562954995,
+      "financing": 339515.06684335996
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 505.5966226299999,
+      "micro": 60042.47860595002,
+      "small": 105459.49736924,
+      "medium": 53830.385351670004,
+      "financing": 219837.95794949005
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 232.80481957000003,
+      "micro": 31103.532328239995,
+      "small": 44850.94746773,
+      "medium": 24066.364105409997,
+      "financing": 100253.64872095002
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 34.377097219999996,
+      "micro": 1044.3631595200002,
+      "small": 116.17585416000001,
+      "medium": 298.7276198800001,
+      "financing": 1493.6437307800004
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 220.46499571,
+      "micro": 6010.336026059995,
+      "small": 6433.071081360003,
+      "medium": 6767.120629600002,
+      "financing": 19430.992732729996
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 993.2435351299998,
+      "micro": 98200.71011977002,
+      "small": 156859.69177248998,
+      "medium": 84962.59770656,
+      "financing": 341016.24313395005
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 497.29390405000015,
+      "micro": 59260.77618170001,
+      "small": 105093.08830556,
+      "medium": 53767.08671993002,
+      "financing": 218618.24511124
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 234.42410230999994,
+      "micro": 31509.200007930012,
+      "small": 45114.71075631998,
+      "medium": 24053.092077799993,
+      "financing": 100911.42694435999
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.615487,
+      "micro": 1073.1689899300002,
+      "small": 116.1007623,
+      "medium": 297.54265446000005,
+      "financing": 1518.4278936900002
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 218.04125879000006,
+      "micro": 6059.041994680001,
+      "small": 6444.195906620002,
+      "medium": 6796.4176750800025,
+      "financing": 19517.696835170005
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 981.3747521500001,
+      "micro": 97902.18717424003,
+      "small": 156768.09573079998,
+      "medium": 84914.13912727001,
+      "financing": 340565.79678446
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 502.54155150000014,
+      "micro": 59283.687197850006,
+      "small": 105293.54813381999,
+      "medium": 53828.02441424999,
+      "financing": 218907.80129741997
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 236.12350401000003,
+      "micro": 31819.377525789983,
+      "small": 45643.52344712,
+      "medium": 24180.320986900006,
+      "financing": 101879.34546381996
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.623938210000002,
+      "micro": 1087.7849858999998,
+      "small": 138.95800757,
+      "medium": 297.70028255,
+      "financing": 1556.0672142299998
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 215.89592161,
+      "micro": 6090.099362050007,
+      "small": 6417.1280926399995,
+      "medium": 6804.3571117,
+      "financing": 19527.480488000005
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 986.1849153300002,
+      "micro": 98280.94907159,
+      "small": 157493.15768114998,
+      "medium": 85110.40279539999,
+      "financing": 341870.6944634699
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 497.8418983000001,
+      "micro": 58542.58303240001,
+      "small": 105925.90285966004,
+      "medium": 55029.08635190001,
+      "financing": 219995.41414225998
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 237.85395346999996,
+      "micro": 32023.46896544,
+      "small": 46736.14844290002,
+      "medium": 24648.735262719998,
+      "financing": 103646.20662453002
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 46.589935149999995,
+      "micro": 1082.71625075,
+      "small": 129.7100273,
+      "medium": 296.06233212,
+      "financing": 1555.0785453199996
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 214.95220149,
+      "micro": 6146.247675399997,
+      "small": 6396.77253053,
+      "medium": 6859.697691650002,
+      "financing": 19617.670099069997
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 997.2379884100001,
+      "micro": 97795.01592399001,
+      "small": 159188.53386039005,
+      "medium": 86833.58163839001,
+      "financing": 344814.36941117997
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 492.9530377400002,
+      "micro": 58552.573007260035,
+      "small": 105980.56473689998,
+      "medium": 54518.63565244999,
+      "financing": 219544.72643435004
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 238.35072597999996,
+      "micro": 32340.07759331,
+      "small": 47091.237103560015,
+      "medium": 24836.51720913999,
+      "financing": 104506.18263199
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 43.98926066,
+      "micro": 1064.4436151700002,
+      "small": 138.08121635999998,
+      "medium": 295.24244524,
+      "financing": 1541.75653743
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 214.16400561000006,
+      "micro": 6195.029758280005,
+      "small": 6332.54553243,
+      "medium": 6987.428544280001,
+      "financing": 19729.167840600006
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 989.4570299900001,
+      "micro": 98152.12397402005,
+      "small": 159542.42858925,
+      "medium": 86637.82385110999,
+      "financing": 345321.83344437013
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 490.4659188299999,
+      "micro": 59211.891761390034,
+      "small": 106524.69226518001,
+      "medium": 54089.0888927,
+      "financing": 220316.13883810004
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 237.38900098000013,
+      "micro": 32664.255985139986,
+      "small": 47852.21761505,
+      "medium": 25048.763539329993,
+      "financing": 105802.62614050001
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 43.99076248,
+      "micro": 1068.5972273399998,
+      "small": 104.04968293,
+      "medium": 294.31596803,
+      "financing": 1510.9536407799997
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 214.03880489999992,
+      "micro": 6213.291825989995,
+      "small": 6382.205005160003,
+      "medium": 7032.769083300002,
+      "financing": 19842.30471935
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 985.88448719,
+      "micro": 99158.03679986001,
+      "small": 160863.16456832,
+      "medium": 86464.93748335999,
+      "financing": 347472.02333873016
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 475.1191098999998,
+      "micro": 59580.05199578001,
+      "small": 106220.66416868012,
+      "medium": 53977.83912409001,
+      "financing": 220253.67439845012
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 245.45503984000007,
+      "micro": 33046.55563564997,
+      "small": 48682.39673969,
+      "medium": 25615.8602719,
+      "financing": 107590.26768707996
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 44.01954155000001,
+      "micro": 1073.47132295,
+      "small": 96.56833547000001,
+      "medium": 322.35497265000004,
+      "financing": 1536.41417262
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 212.43037764,
+      "micro": 6224.760613110001,
+      "small": 6456.11729334,
+      "medium": 7074.24441371,
+      "financing": 19967.5526978
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 977.02406893,
+      "micro": 99924.83956749,
+      "small": 161455.74653718012,
+      "medium": 86990.29878235,
+      "financing": 349347.90895595006
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 484.7567851199999,
+      "micro": 59767.372297029964,
+      "small": 106054.67519751003,
+      "medium": 54446.244228040014,
+      "financing": 220753.0485077
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 246.4136594400001,
+      "micro": 33064.78177841001,
+      "small": 49381.53801393,
+      "medium": 25899.751685890005,
+      "financing": 108592.48513767001
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 42.102502720000004,
+      "micro": 1088.47418695,
+      "small": 97.57089598999998,
+      "medium": 187.8599092,
+      "financing": 1416.00749486
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 211.53687451999997,
+      "micro": 6271.230091450001,
+      "small": 6448.93570857,
+      "medium": 7025.34631665,
+      "financing": 19957.04899119
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 984.8098218,
+      "micro": 100191.85835383997,
+      "small": 161982.71981600003,
+      "medium": 87559.20213978003,
+      "financing": 350718.59013142006
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 545.40503432,
+      "micro": 60116.159938589975,
+      "small": 106017.86500315003,
+      "medium": 53770.41413849,
+      "financing": 220449.84411454998
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 245.98155490000005,
+      "micro": 33187.197481,
+      "small": 49939.87484186997,
+      "medium": 25862.378047029993,
+      "financing": 109235.43192479995
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 42.057154600000004,
+      "micro": 1075.48169946,
+      "small": 101.89437026999998,
+      "medium": 185.87987603999997,
+      "financing": 1405.3131003699998
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 208.44033792000002,
+      "micro": 6326.139012519999,
+      "small": 6560.284221430003,
+      "medium": 7265.248902869999,
+      "financing": 20360.11247474
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1041.8840817400003,
+      "micro": 100704.97813156998,
+      "small": 162619.91843672,
+      "medium": 87083.92096443,
+      "financing": 351450.70161446
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 537.27280804,
+      "micro": 60103.14568095001,
+      "small": 106901.59394267005,
+      "medium": 54379.558572099995,
+      "financing": 221921.57100376004
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 247.62450436000006,
+      "micro": 34013.63626351001,
+      "small": 50986.74927136,
+      "medium": 25989.096695239998,
+      "financing": 111237.10673447001
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 42.046843980000006,
+      "micro": 1086.04947902,
+      "small": 106.54689672999997,
+      "medium": 175.32997888999998,
+      "financing": 1409.9731986200002
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 208.12509807,
+      "micro": 6432.457663660004,
+      "small": 6728.919887109999,
+      "medium": 7295.667724319998,
+      "financing": 20665.17037316
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1035.06925445,
+      "micro": 101635.28908714003,
+      "small": 164723.80999787006,
+      "medium": 87839.65297054999,
+      "financing": 355233.8213100101
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 519.7688208099999,
+      "micro": 60091.80038907003,
+      "small": 106730.67197478004,
+      "medium": 54250.596259609956,
+      "financing": 221592.8374442701
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 246.80523286000002,
+      "micro": 34055.40730401001,
+      "small": 51134.063113399985,
+      "medium": 26071.05545383999,
+      "financing": 111507.33110411
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 40.037538940000005,
+      "micro": 1084.7299157399996,
+      "small": 110.78601440999999,
+      "medium": 174.44829141999998,
+      "financing": 1410.0017605099997
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 980.9983118699995,
+      "micro": 6424.095536820004,
+      "small": 6925.095194230002,
+      "medium": 7319.859940660001,
+      "financing": 21650.04898358001
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1787.6099044799996,
+      "micro": 101656.03314564005,
+      "small": 164900.61629682005,
+      "medium": 87815.95994552993,
+      "financing": 356160.21929247
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 521.8656897400001,
+      "micro": 60074.86799697004,
+      "small": 106954.75715665007,
+      "medium": 54361.76204755002,
+      "financing": 221913.25289091017
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 247.1366145300001,
+      "micro": 34353.71604751999,
+      "small": 51953.20703699999,
+      "medium": 26073.76094138999,
+      "financing": 112627.82064043997
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 40.00440309,
+      "micro": 1125.5163093400001,
+      "small": 112.4157127,
+      "medium": 175.60333124,
+      "financing": 1453.5397563699998
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 981.0133998,
+      "micro": 6468.949047339996,
+      "small": 6964.772373710002,
+      "medium": 7291.2919648900015,
+      "financing": 21706.026785740003
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1790.0201071600002,
+      "micro": 102023.04940117004,
+      "small": 165985.15228006005,
+      "medium": 87902.41828507002,
+      "financing": 357700.64007346
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 563.41761776,
+      "micro": 60701.64569206,
+      "small": 107527.60926795004,
+      "medium": 54725.880901530036,
+      "financing": 223518.55347930006
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 245.61934012,
+      "micro": 35084.751196000005,
+      "small": 52888.240039430006,
+      "medium": 26563.249052989995,
+      "financing": 114781.85962854003
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 40.02430655,
+      "micro": 1137.16661835,
+      "small": 111.27533045999999,
+      "medium": 170.64013628999996,
+      "financing": 1459.1063916499995
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 984.0826432299998,
+      "micro": 6517.2205721699975,
+      "small": 7002.79149514,
+      "medium": 7290.420546090003,
+      "financing": 21794.515256630002
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1833.1439076599997,
+      "micro": 103440.78407858002,
+      "small": 167529.91613298006,
+      "medium": 88750.19063690002,
+      "financing": 361554.03475612006
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 565.8852074600002,
+      "micro": 60529.945327379995,
+      "small": 106885.84119386999,
+      "medium": 53754.75075737999,
+      "financing": 221736.42248608998
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 245.29857579999995,
+      "micro": 35020.74458304999,
+      "small": 53136.18417981,
+      "medium": 26716.048352739996,
+      "financing": 115118.27569139998
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.99219926999999,
+      "micro": 1205.7189920499998,
+      "small": 110.37180827999998,
+      "medium": 174.46782373000002,
+      "financing": 1528.55082333
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 984.5109549500002,
+      "micro": 6555.608625009995,
+      "small": 7030.749763869998,
+      "medium": 7305.944557770002,
+      "financing": 21876.813901599995
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1833.6869374800003,
+      "micro": 103312.01752749,
+      "small": 167163.14694582997,
+      "medium": 87951.21149162,
+      "financing": 360260.06290242
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 576.8890276499999,
+      "micro": 61133.74072616997,
+      "small": 107160.3324549499,
+      "medium": 54139.28127677,
+      "financing": 223010.2434855399
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 244.69841858999993,
+      "micro": 35676.77976746001,
+      "small": 54291.36522409003,
+      "medium": 26849.592302930014,
+      "financing": 117062.43571307004
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 38.00007008,
+      "micro": 1213.10311785,
+      "small": 122.53681534,
+      "medium": 166.97318762,
+      "financing": 1540.61319089
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 981.4924965500005,
+      "micro": 6596.934994419994,
+      "small": 7089.442299850002,
+      "medium": 7226.956669129999,
+      "financing": 21894.826459949996
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1841.0800128700005,
+      "micro": 104620.55860589996,
+      "small": 168663.67679422992,
+      "medium": 88382.80343645,
+      "financing": 363508.11884945
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 577.3302212699997,
+      "micro": 62065.002119690005,
+      "small": 107678.0046400501,
+      "medium": 54354.124759509985,
+      "financing": 224674.46174052006
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 478.13767501999996,
+      "micro": 36315.78256524997,
+      "small": 55022.88329489001,
+      "medium": 27407.544801619988,
+      "financing": 119224.34833677996
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.97959805,
+      "micro": 1209.7910448100001,
+      "small": 126.71753276999999,
+      "medium": 169.78980638,
+      "financing": 1544.2779820099997
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 979.74231436,
+      "micro": 6603.331288439995,
+      "small": 7106.802837380002,
+      "medium": 7371.009678099998,
+      "financing": 22060.88611828
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2073.1898087,
+      "micro": 106193.90701818997,
+      "small": 169934.4083050901,
+      "medium": 89302.46904560996,
+      "financing": 367503.97417759016
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 573.3967378,
+      "micro": 62534.957378830004,
+      "small": 107590.39724795,
+      "medium": 53941.87945110003,
+      "financing": 224640.63081568008
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 474.92642320000004,
+      "micro": 37079.99617062,
+      "small": 55494.66374689001,
+      "medium": 27607.625430589997,
+      "financing": 120657.2117713
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 35.72950131,
+      "micro": 1260.56782264,
+      "small": 127.96635431999997,
+      "medium": 174.99648863,
+      "financing": 1599.2601668999998
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 979.5765661299997,
+      "micro": 6666.01330133,
+      "small": 7181.356637979999,
+      "medium": 7395.400510259998,
+      "financing": 22222.347015699994
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2063.6292284399997,
+      "micro": 107541.53467342,
+      "small": 170394.38398714003,
+      "medium": 89119.90188058002,
+      "financing": 369119.44976958004
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 580.7596476400003,
+      "micro": 62622.23818475003,
+      "small": 107512.53421590004,
+      "medium": 53519.29141987004,
+      "financing": 224234.82346816006
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 480.02204102999997,
+      "micro": 37476.06482030001,
+      "small": 56227.43665028,
+      "medium": 27518.571268579988,
+      "financing": 121702.09478019
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 25.70930815,
+      "micro": 1263.07986066,
+      "small": 128.23176671000002,
+      "medium": 177.05189688000002,
+      "financing": 1594.0728324
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 977.2174125400002,
+      "micro": 6727.449040699999,
+      "small": 7265.525647660001,
+      "medium": 7427.424717960001,
+      "financing": 22397.616818860002
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2063.70840936,
+      "micro": 108088.83190641004,
+      "small": 171133.72828055004,
+      "medium": 88642.33930329003,
+      "financing": 369928.6078996102
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 578.88824986,
+      "micro": 62719.518125819974,
+      "small": 107987.69575172004,
+      "medium": 53837.25167399,
+      "financing": 225123.35380139004
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 485.0214185599999,
+      "micro": 38813.28299141999,
+      "small": 56878.50889976,
+      "medium": 28465.868092270015,
+      "financing": 124642.68140201001
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 33.71967827,
+      "micro": 1147.5176938099999,
+      "small": 131.92040523,
+      "medium": 181.24304644000003,
+      "financing": 1494.40082375
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 970.3382140100003,
+      "micro": 6772.025883579997,
+      "small": 7406.24377542,
+      "medium": 7331.868561770001,
+      "financing": 22480.476434779997
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2067.9675607000004,
+      "micro": 109452.34469462998,
+      "small": 172404.36883213004,
+      "medium": 89816.23137447004,
+      "financing": 373740.9124619302
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 579.7175953899998,
+      "micro": 61827.16602275,
+      "small": 108346.2358677301,
+      "medium": 54281.022847989996,
+      "financing": 225034.1423338601
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 492.2480661300002,
+      "micro": 40475.33841169002,
+      "small": 57945.20964907,
+      "medium": 28958.70345773,
+      "financing": 127871.49958462003
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.096440539999996,
+      "micro": 1157.7208128500001,
+      "small": 135.52752205,
+      "medium": 178.08737969999993,
+      "financing": 1503.4321551400003
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 968.23973766,
+      "micro": 6825.813988379996,
+      "small": 7473.81256647,
+      "medium": 7362.527141169996,
+      "financing": 22630.393433679998
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2072.3018397200003,
+      "micro": 110286.03923567002,
+      "small": 173900.78560532007,
+      "medium": 90780.34082658999,
+      "financing": 377039.4675073
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 585.6789618700001,
+      "micro": 62149.18335033998,
+      "small": 109131.71811045,
+      "medium": 54503.31693135001,
+      "financing": 226369.89735401
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 488.85486237,
+      "micro": 41524.363496990016,
+      "small": 58581.00636276002,
+      "medium": 29129.551632519993,
+      "financing": 129723.77635463998
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.0723864,
+      "micro": 1176.8052512699999,
+      "small": 141.48609867000002,
+      "medium": 177.96865133000006,
+      "financing": 1528.3323876700006
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 965.74609565,
+      "micro": 6852.800625569996,
+      "small": 7496.984107919998,
+      "medium": 7461.120525730001,
+      "financing": 22776.65135487
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2072.3523062900003,
+      "micro": 111703.15272416998,
+      "small": 175351.1946798,
+      "medium": 91271.95774093001,
+      "financing": 380398.65745118994
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 590.3096008699997,
+      "micro": 62999.96969422004,
+      "small": 110091.84686676002,
+      "medium": 54936.6815975,
+      "financing": 228618.8077593501
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 485.73919892999993,
+      "micro": 42567.39581076002,
+      "small": 60270.45405683,
+      "medium": 29679.615578540004,
+      "financing": 133003.20464506003
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 42.09351023,
+      "micro": 1100.69902448,
+      "small": 111.35481899,
+      "medium": 178.13176947000002,
+      "financing": 1432.27912317
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 970.3992033200003,
+      "micro": 6880.346830809997,
+      "small": 7686.94197367,
+      "medium": 7516.200152599999,
+      "financing": 23053.888160399998
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 2088.54151335,
+      "micro": 113548.41136027005,
+      "small": 178160.59771625002,
+      "medium": 92310.62909811,
+      "financing": 386108.1796879801
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 590.7633194499999,
+      "micro": 63307.950263109975,
+      "small": 110760.61689846005,
+      "medium": 55012.653287580004,
+      "financing": 229671.9837686001
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 258.22522485999997,
+      "micro": 42659.312152449966,
+      "small": 60828.305955020005,
+      "medium": 29404.946244160004,
+      "financing": 133150.78957649
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.83326084,
+      "micro": 1077.0317600399999,
+      "small": 143.51610117999996,
+      "medium": 184.3852767500001,
+      "financing": 1437.7663988100003
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 968.7401403899997,
+      "micro": 6886.178676849999,
+      "small": 7577.672225760001,
+      "medium": 7537.366280870004,
+      "financing": 22969.957323870003
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1850.5619455399997,
+      "micro": 113930.47285244995,
+      "small": 179310.11118042003,
+      "medium": 92139.35108936002,
+      "financing": 387230.4970677701
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 577.0730867099998,
+      "micro": 64029.261090960055,
+      "small": 110424.85901886997,
+      "medium": 54603.563095139994,
+      "financing": 229634.75629168
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 259.6357965600001,
+      "micro": 42934.02594343002,
+      "small": 61525.37133799999,
+      "medium": 29696.926762940002,
+      "financing": 134415.95984093
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.77694921,
+      "micro": 1061.44123658,
+      "small": 131.07159174,
+      "medium": 186.91942956,
+      "financing": 1412.2092070899996
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 967.4078273199998,
+      "micro": 6958.296417289997,
+      "small": 7688.92957918,
+      "medium": 7528.00660692,
+      "financing": 23142.640430709995
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1836.8936597999998,
+      "micro": 114983.02468826008,
+      "small": 179770.23152779,
+      "medium": 92015.41589455999,
+      "financing": 388605.56577041006
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 569.1639662499999,
+      "micro": 65728.85711352002,
+      "small": 111518.90471336003,
+      "medium": 55699.09760750999,
+      "financing": 233516.02340064003
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 260.6995604400001,
+      "micro": 43260.07507255998,
+      "small": 62468.09422673999,
+      "medium": 29955.44180779999,
+      "financing": 135944.31066753998
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.78385803,
+      "micro": 1089.1217871300003,
+      "small": 132.38856936000002,
+      "medium": 188.55861289,
+      "financing": 1442.8528274100006
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 966.6550635800002,
+      "micro": 7003.585570899997,
+      "small": 7753.309114139999,
+      "medium": 7564.35389593,
+      "financing": 23287.903644549995
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1829.3024483,
+      "micro": 117081.63954410999,
+      "small": 181872.69662360003,
+      "medium": 93407.45192412997,
+      "financing": 394191.09054013994
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 585.7388039499999,
+      "micro": 65794.55948468999,
+      "small": 110698.81066737007,
+      "medium": 55894.07477029999,
+      "financing": 232973.1837263101
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 256.03816073,
+      "micro": 43638.942746450004,
+      "small": 62971.11075609003,
+      "medium": 29904.11324990001,
+      "financing": 136770.20491317002
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.20389299,
+      "micro": 1087.01096385,
+      "small": 134.12129403999998,
+      "medium": 215.21816158000001,
+      "financing": 1467.5543124600001
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 971.4061382200005,
+      "micro": 7033.655813800001,
+      "small": 7668.21949889,
+      "medium": 7709.664472140002,
+      "financing": 23382.945923050003
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1844.3869958900004,
+      "micro": 117554.16900879,
+      "small": 181472.26221639008,
+      "medium": 93723.07065392,
+      "financing": 394593.8888749901
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 575.45396195,
+      "micro": 65837.64589198002,
+      "small": 111165.94885394,
+      "medium": 56163.28237659001,
+      "financing": 233742.33108446
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 259.43465198,
+      "micro": 44257.20886946,
+      "small": 62991.93781871001,
+      "medium": 30324.525059960004,
+      "financing": 137833.10640010997
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.215816520000004,
+      "micro": 1089.46552139,
+      "small": 129.16535448,
+      "medium": 215.75127708000002,
+      "financing": 1465.59796947
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 969.2896810299997,
+      "micro": 7077.137978270004,
+      "small": 7666.445540550002,
+      "medium": 7715.820913719997,
+      "financing": 23428.69411357
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1835.3941114799995,
+      "micro": 118261.45826110002,
+      "small": 181953.49756768,
+      "medium": 94419.37962735,
+      "financing": 396469.72956761
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 587.9038599099999,
+      "micro": 66190.23162671003,
+      "small": 112360.45691706003,
+      "medium": 59054.19359466002,
+      "financing": 238192.78599834008
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 260.61549496,
+      "micro": 44807.01990020999,
+      "small": 63665.925905220014,
+      "medium": 30658.276489650005,
+      "financing": 139391.83779004
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.44720415,
+      "micro": 1106.03625637,
+      "small": 136.6001396,
+      "medium": 237.95869537,
+      "financing": 1513.04229549
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 964.55393,
+      "micro": 7093.396572279999,
+      "small": 7714.098927510004,
+      "medium": 7669.120583000002,
+      "financing": 23441.170012790008
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1845.52048902,
+      "micro": 119196.68435557,
+      "small": 183877.08188939004,
+      "medium": 97619.54936268002,
+      "financing": 402538.8360966601
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 570.2384756299999,
+      "micro": 65751.86111001005,
+      "small": 112025.35288434,
+      "medium": 57755.391622970004,
+      "financing": 236102.84409295002
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 263.5792632,
+      "micro": 42555.592322799996,
+      "small": 64044.77552540001,
+      "medium": 31127.55323919,
+      "financing": 137991.50035059004
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 30.788238779999997,
+      "micro": 1128.3805708700002,
+      "small": 137.01309386,
+      "medium": 238.078479,
+      "financing": 1534.26038251
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 960.50050294,
+      "micro": 7051.331207129992,
+      "small": 7753.981460809999,
+      "medium": 7646.149233669997,
+      "financing": 23411.962404549984
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1825.1064805499998,
+      "micro": 116487.16521081002,
+      "small": 183961.12296441,
+      "medium": 96767.17257483001,
+      "financing": 399040.56723059993
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 570.6317576399999,
+      "micro": 66155.24118929998,
+      "small": 112375.49850941004,
+      "medium": 58971.61332944997,
+      "financing": 238072.98478579998
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 266.98704208000004,
+      "micro": 42450.95758661999,
+      "small": 64992.83592222,
+      "medium": 31127.372723569995,
+      "financing": 138838.15327449
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 30.76894753,
+      "micro": 1156.1018093200003,
+      "small": 129.93169436,
+      "medium": 240.43096840999996,
+      "financing": 1557.23341962
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 946.17262196,
+      "micro": 7095.157457759996,
+      "small": 7807.106896980001,
+      "medium": 7819.603147000002,
+      "financing": 23668.0401237
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1814.56036921,
+      "micro": 116857.45804299996,
+      "small": 185305.37302297004,
+      "medium": 98159.02016842997,
+      "financing": 402136.4116036099
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 567.1392173500003,
+      "micro": 66826.22796379,
+      "small": 112799.79818125005,
+      "medium": 58719.196075749955,
+      "financing": 238912.36143813998
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 270.3034983899999,
+      "micro": 42112.91803037001,
+      "small": 65677.57856112,
+      "medium": 31307.170092789966,
+      "financing": 139367.97018267002
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 30.75974642,
+      "micro": 1151.25045723,
+      "small": 146.93772796000002,
+      "medium": 234.42485273000003,
+      "financing": 1563.3727843399997
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 934.6754803599994,
+      "micro": 7132.234416199998,
+      "small": 8182.1323444699965,
+      "medium": 7947.269778070001,
+      "financing": 24196.312019099998
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1802.87794252,
+      "micro": 117222.63086759002,
+      "small": 186806.44681480006,
+      "medium": 98208.06079933992,
+      "financing": 404040.01642424986
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 568.00145117,
+      "micro": 67568.34478207004,
+      "small": 112732.15534738,
+      "medium": 59132.73547579,
+      "financing": 240001.23705641003
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 273.37031182999993,
+      "micro": 42116.12970202,
+      "small": 66179.92187859997,
+      "medium": 31642.753274109993,
+      "financing": 140212.17516655996
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 29.10401021,
+      "micro": 1143.7044128299997,
+      "small": 144.32200795999998,
+      "medium": 234.53352298,
+      "financing": 1551.6639539799996
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 920.88678105,
+      "micro": 7088.995982110005,
+      "small": 8306.674125059999,
+      "medium": 8038.340423279998,
+      "financing": 24354.8973115
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1791.3625542599998,
+      "micro": 117917.17487903005,
+      "small": 187363.073359,
+      "medium": 99048.36269616,
+      "financing": 406119.97348845
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 649.1082427399999,
+      "micro": 68540.30738091,
+      "small": 113295.71140367998,
+      "medium": 58989.365678569964,
+      "financing": 241474.49270589993
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 243.44596691000018,
+      "micro": 42425.361601110024,
+      "small": 66690.13988661,
+      "medium": 32017.18937631999,
+      "financing": 141376.13683095
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 39.120346399999995,
+      "micro": 1138.2449838,
+      "small": 166.07512368999997,
+      "medium": 234.70255019000004,
+      "financing": 1578.1430040799999
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 909.5969883899994,
+      "micro": 7143.754672459993,
+      "small": 8307.65247247,
+      "medium": 8114.702081320003,
+      "financing": 24475.706214639995
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1841.2715444399996,
+      "micro": 119247.66863828001,
+      "small": 188459.57888644998,
+      "medium": 99355.95968639996,
+      "financing": 408904.4787555699
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 636.99758051,
+      "micro": 70271.04710099997,
+      "small": 113953.86931876995,
+      "medium": 59618.870591360006,
+      "financing": 244480.78459163997
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 247.01992329,
+      "micro": 42446.171303759984,
+      "small": 68197.66402258001,
+      "medium": 32511.201753179994,
+      "financing": 143402.05700281
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 39.058857599999996,
+      "micro": 1157.21202062,
+      "small": 171.30303396000002,
+      "medium": 233.75992148000006,
+      "financing": 1601.33383366
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 899.2738379600003,
+      "micro": 7176.403804710002,
+      "small": 8649.905166849998,
+      "medium": 7381.646121459996,
+      "financing": 24107.22893098
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1822.35019936,
+      "micro": 121050.83423008997,
+      "small": 190972.74154216,
+      "medium": 99745.47838747999,
+      "financing": 413591.40435908985
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 632.5663775099999,
+      "micro": 71790.62104392998,
+      "small": 114751.66387892996,
+      "medium": 58668.656249640015,
+      "financing": 245843.50755001
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 244.98899007999995,
+      "micro": 42457.81187924,
+      "small": 68385.07564343001,
+      "medium": 32498.635082489996,
+      "financing": 143586.51159524
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.32671322,
+      "micro": 1096.0736429300002,
+      "small": 173.78274169000002,
+      "medium": 255.07207777000002,
+      "financing": 1562.2551756100006
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 875.60657746,
+      "micro": 7146.397103630003,
+      "small": 8571.511880750002,
+      "medium": 7342.018223280004,
+      "financing": 23935.533785120002
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1790.48865827,
+      "micro": 122490.90366972997,
+      "small": 191882.03414479998,
+      "medium": 98764.38163318002,
+      "financing": 414927.8081059801
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 637.3834297999996,
+      "micro": 71573.93525182002,
+      "small": 114555.71284141004,
+      "medium": 57355.39345223003,
+      "financing": 244122.4249752601
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 243.31024447000007,
+      "micro": 42198.82440434,
+      "small": 69240.77510127997,
+      "medium": 32822.295903700004,
+      "financing": 144505.20565378998
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.310692659999994,
+      "micro": 1096.61697357,
+      "small": 167.10929548,
+      "medium": 230.34465024999992,
+      "financing": 1531.3816119599999
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 861.6972019299998,
+      "micro": 7213.500277590003,
+      "small": 8621.11486238,
+      "medium": 7357.989286029996,
+      "financing": 24054.30162792999
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1779.7015688599997,
+      "micro": 122082.87690732002,
+      "small": 192584.71210055,
+      "medium": 97766.02329221004,
+      "financing": 414213.31386894
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 652.84451575,
+      "micro": 72381.38556660003,
+      "small": 115451.85557560007,
+      "medium": 58201.252559169996,
+      "financing": 246687.33821712012
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 244.28410678999998,
+      "micro": 42735.68301442998,
+      "small": 69895.96070918003,
+      "medium": 33389.3760557,
+      "financing": 146265.30388610004
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 37.3161833,
+      "micro": 1110.7823751499996,
+      "small": 164.23823899999996,
+      "medium": 229.33407257,
+      "financing": 1541.67087002
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 850.9011656300002,
+      "micro": 7287.752644270005,
+      "small": 8618.933258779998,
+      "medium": 7371.846039089998,
+      "financing": 24129.43310777
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1785.34597147,
+      "micro": 123515.60360045003,
+      "small": 194130.98778256009,
+      "medium": 99191.80872653,
+      "financing": 418623.74608101015
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 665.0333882299997,
+      "micro": 73020.32291721001,
+      "small": 115247.47056952,
+      "medium": 57806.93287308,
+      "financing": 246739.75974803997
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 250.32703584999996,
+      "micro": 42841.80171158999,
+      "small": 70089.81407473997,
+      "medium": 33494.764731920004,
+      "financing": 146676.7075541
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 36.00102426,
+      "micro": 1173.2348392200004,
+      "small": 166.92414209000003,
+      "medium": 228.43242454999998,
+      "financing": 1604.59243012
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 839.8521693199995,
+      "micro": 7202.061960230008,
+      "small": 8690.458196879994,
+      "medium": 7306.775733579997,
+      "financing": 24039.148060009997
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1791.2136176599993,
+      "micro": 124237.42142825,
+      "small": 194194.66698322995,
+      "medium": 98836.90576313001,
+      "financing": 419060.2077922698
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 668.00143693,
+      "micro": 74323.93786014004,
+      "small": 114840.45785411996,
+      "medium": 57181.89797744001,
+      "financing": 247014.29512863
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 252.08539027000003,
+      "micro": 42767.45761111002,
+      "small": 70622.82250780003,
+      "medium": 33765.962023410015,
+      "financing": 147408.32753259005
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 35.99067115,
+      "micro": 1192.2481900899998,
+      "small": 167.64636464,
+      "medium": 225.82210148000001,
+      "financing": 1621.70732736
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 834.58235914,
+      "micro": 7192.522557940004,
+      "small": 8688.96092091,
+      "medium": 7373.182401870001,
+      "financing": 24089.248239860008
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1790.6598574899997,
+      "micro": 125476.16621928006,
+      "small": 194319.88764746996,
+      "medium": 98546.86450420003,
+      "financing": 420133.57822844014
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 706.05492048,
+      "micro": 75409.24216416002,
+      "small": 117020.87850116994,
+      "medium": 57529.477815270024,
+      "financing": 250665.65340108
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 247.2181164299999,
+      "micro": 43916.21614173001,
+      "small": 71579.49007717002,
+      "medium": 34399.197941939994,
+      "financing": 150142.12227727
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 35.980408229999995,
+      "micro": 1227.53693016,
+      "small": 189.7443362,
+      "medium": 228.45916685,
+      "financing": 1681.7208414400006
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 812.4452090399999,
+      "micro": 7168.512194900009,
+      "small": 8708.425361769998,
+      "medium": 7483.798219130002,
+      "financing": 24173.180984840008
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1801.6986541799997,
+      "micro": 127721.50743095005,
+      "small": 197498.53827630993,
+      "medium": 99640.93314319004,
+      "financing": 426662.6775046301
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 734.4228713099997,
+      "micro": 76563.48342246997,
+      "small": 116510.98732869005,
+      "medium": 57446.67995035002,
+      "financing": 251255.57357282008
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 255.18672744999986,
+      "micro": 43000.99177886999,
+      "small": 72471.72720193997,
+      "medium": 34996.23234196003,
+      "financing": 150724.13805022
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 35.96536097,
+      "micro": 1233.8202071399996,
+      "small": 192.61387329000002,
+      "medium": 228.88901518,
+      "financing": 1691.28845658
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 804.28970285,
+      "micro": 7146.107858949985,
+      "small": 8771.62231613,
+      "medium": 7511.317844349997,
+      "financing": 24233.33772227998
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1829.8646625799995,
+      "micro": 127944.40326742994,
+      "small": 197946.95072005002,
+      "medium": 100183.11915184006,
+      "financing": 427904.3378018999
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 749.6732441900006,
+      "micro": 77979.00055352002,
+      "small": 116319.59257688,
+      "medium": 57659.08269225999,
+      "financing": 252707.34906685003
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 254.15095111000002,
+      "micro": 43405.254644299996,
+      "small": 73541.98766114001,
+      "medium": 35413.43282299999,
+      "financing": 152614.82607955002
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 35.934039430000006,
+      "micro": 1179.446868,
+      "small": 266.63529152,
+      "medium": 223.98528536000003,
+      "financing": 1706.0014843100003
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 795.5115578099993,
+      "micro": 7131.416617429999,
+      "small": 8902.943340740005,
+      "medium": 7170.277719320001,
+      "financing": 24000.1492353
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1835.26979254,
+      "micro": 129695.11868325001,
+      "small": 199031.15887028002,
+      "medium": 100466.77851993997,
+      "financing": 431028.3258660099
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 758.7406631400004,
+      "micro": 76595.57414080999,
+      "small": 117309.73715109003,
+      "medium": 59088.46261695001,
+      "financing": 253752.51457199006
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 252.09217619,
+      "micro": 43494.126272880014,
+      "small": 74110.51563281001,
+      "medium": 35782.26973674,
+      "financing": 153639.00381862003
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 35.921568269999995,
+      "micro": 1211.48840409,
+      "small": 253.43090480000004,
+      "medium": 253.17462271999997,
+      "financing": 1754.01549988
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 785.5859418599999,
+      "micro": 7325.96575034,
+      "small": 8746.388906850001,
+      "medium": 7132.006347000003,
+      "financing": 23989.946946050008
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1832.3403494600002,
+      "micro": 128627.15456812,
+      "small": 200420.07259555004,
+      "medium": 102255.91332341002,
+      "financing": 433135.48083654017
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 772.6506922200008,
+      "micro": 76394.05507571001,
+      "small": 117241.95544555005,
+      "medium": 59011.12894209003,
+      "financing": 253419.79015557008
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 255.28801573000007,
+      "micro": 43903.64755336001,
+      "small": 74836.37806306001,
+      "medium": 35754.73652705,
+      "financing": 154750.05015920004
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.79029803,
+      "micro": 1195.1731254000001,
+      "small": 246.71691721,
+      "medium": 233.0072902500001,
+      "financing": 1707.6876308900003
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 785.9884588299996,
+      "micro": 7431.608887999996,
+      "small": 8779.58394444,
+      "medium": 7152.936528059998,
+      "financing": 24150.117819329993
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1846.7174648100004,
+      "micro": 128924.48464247001,
+      "small": 201104.63437026006,
+      "medium": 102151.80928745003,
+      "financing": 434027.6457649902
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 778.2770374399997,
+      "micro": 76556.57495411995,
+      "small": 117098.53546940001,
+      "medium": 59714.035064999975,
+      "financing": 254147.42252595996
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 255.01186763999996,
+      "micro": 45367.44821226999,
+      "small": 74762.44702862002,
+      "medium": 35313.68783492,
+      "financing": 155698.59494345
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.80601863,
+      "micro": 1184.2270698700002,
+      "small": 250.38027196000002,
+      "medium": 233.26145610000006,
+      "financing": 1700.6748165600002
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 786.9566584400001,
+      "micro": 7451.0068053899995,
+      "small": 8855.868328239998,
+      "medium": 7235.588510689997,
+      "financing": 24329.420302759994
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1853.0515821499998,
+      "micro": 130559.25704164994,
+      "small": 200967.23109822004,
+      "medium": 102496.57286670996,
+      "financing": 435876.11258872994
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 799.4306868300002,
+      "micro": 75973.93517535999,
+      "small": 117094.93761428993,
+      "medium": 59911.24890061999,
+      "financing": 253779.55237709996
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 255.91728061,
+      "micro": 46187.88650665,
+      "small": 75898.01908453998,
+      "medium": 35805.893360409995,
+      "financing": 158147.71623221
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 32.79311342,
+      "micro": 1280.3286471499998,
+      "small": 285.87726259,
+      "medium": 234.95266147000007,
+      "financing": 1833.9516846299998
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 786.2198994000001,
+      "micro": 7495.388697399998,
+      "small": 8826.225966079994,
+      "medium": 7041.770567469999,
+      "financing": 24149.60513034999
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1874.3609802600004,
+      "micro": 130937.53902655999,
+      "small": 202105.0599274999,
+      "medium": 102993.86548996999,
+      "financing": 437910.82542429
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 800.0169461399998,
+      "micro": 76551.46393665003,
+      "small": 117506.01245303998,
+      "medium": 58520.31994147,
+      "financing": 253377.81327730004
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 255.38741615,
+      "micro": 47148.24797609998,
+      "small": 76225.97520970998,
+      "medium": 35548.65017249001,
+      "financing": 159178.26077444997
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.08648097,
+      "micro": 1289.0599582899997,
+      "small": 280.85777427999994,
+      "medium": 238.58540749000002,
+      "financing": 1839.5896210299998
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 785.5450835099999,
+      "micro": 7482.715485320006,
+      "small": 8913.94379075,
+      "medium": 6893.384977800001,
+      "financing": 24075.58933738001
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1872.0359267699996,
+      "micro": 132471.48735636,
+      "small": 202926.78922777995,
+      "medium": 101200.94049925,
+      "financing": 438471.25301016006
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 788.5918405599996,
+      "micro": 76205.79320261005,
+      "small": 117338.26387526002,
+      "medium": 59150.36686686,
+      "financing": 253483.01578529004
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 253.09221922999996,
+      "micro": 47377.706942100005,
+      "small": 77744.88183479999,
+      "medium": 36175.525183420024,
+      "financing": 161551.20617955
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.068886489999997,
+      "micro": 1285.1282317900002,
+      "small": 291.92059117,
+      "medium": 234.32272841,
+      "financing": 1842.4404378600004
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 786.2174273800008,
+      "micro": 7412.662035770009,
+      "small": 8917.88205698,
+      "medium": 6541.440371560001,
+      "financing": 23658.20189169001
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1858.9703736600004,
+      "micro": 132281.29041227006,
+      "small": 204292.94835821,
+      "medium": 102101.65515025004,
+      "financing": 440534.86429439
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 798.1350529000003,
+      "micro": 76877.14125872002,
+      "small": 118254.18468441996,
+      "medium": 60032.39360849003,
+      "financing": 255961.85460452994
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 249.83214826999995,
+      "micro": 47197.07529843004,
+      "small": 78305.72227419005,
+      "medium": 36636.765935189986,
+      "financing": 162389.39565608013
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 31.077425450000003,
+      "micro": 1251.5459276800002,
+      "small": 303.92613835,
+      "medium": 210.09485123000002,
+      "financing": 1796.6443427099998
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 787.9330756700007,
+      "micro": 7280.126430910001,
+      "small": 9177.40145761,
+      "medium": 6109.118092630001,
+      "financing": 23354.57905682
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1866.977702290001,
+      "micro": 132605.88891574004,
+      "small": 206041.23455457,
+      "medium": 102988.37248754001,
+      "financing": 443502.4736601401
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank perdagangan / Commercial banks",
+      "individual_for_business": 802.8078412099999,
+      "micro": 76861.49429391003,
+      "small": 118049.19586197993,
+      "medium": 60186.548405589994,
+      "financing": 255900.04640269
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank Islam / Islamic banks",
+      "individual_for_business": 246.99160953999996,
+      "micro": 44654.97246454001,
+      "small": 78408.33878242,
+      "medium": 37006.68145458001,
+      "financing": 160316.98431108
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Bank-bank pelaburan / Investment banks",
+      "individual_for_business": 29.76686147,
+      "micro": 1187.77938268,
+      "small": 302.90151811000004,
+      "medium": 215.71921038000002,
+      "financing": 1736.16697264
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Institusi kewangan pembangunan / Development financial institutions",
+      "individual_for_business": 789.0225812900006,
+      "micro": 7296.458480879997,
+      "small": 9083.1362074,
+      "medium": 6161.779222470001,
+      "financing": 23330.396492039992
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "sme_size": "Jumlah / Total",
+      "individual_for_business": 1868.5888935100006,
+      "micro": 130000.70462201005,
+      "small": 205843.5723699099,
+      "medium": 103570.72829302,
+      "financing": 441283.59417844994
+    }
+  ]
+}

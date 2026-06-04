@@ -1,0 +1,1400 @@
+{
+  "metadata": {
+    "category": "financial_markets",
+    "subcategory": "money_market_activity",
+    "dataset": "foreign_currency_market_transactions_turnover",
+    "source_table": "m_2_17_fx_market_turnover",
+    "exported_at": "2026-06-04T04:55:17.076756+00:00",
+    "total_rows": 172,
+    "date_min": "2012-01-01",
+    "date_max": "2026-04-01",
+    "columns": [
+      "date",
+      "frequency",
+      "fx_spot",
+      "fx_swap",
+      "fx_forward",
+      "fx_options"
+    ],
+    "source": "Bank Negara Malaysia Monthly Highlights Statistics",
+    "url": "https://www.bnm.gov.my/publications/mhs"
+  },
+  "data": [
+    {
+      "date": "2012-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 130305.77,
+      "fx_swap": 39398.4,
+      "fx_forward": 14295.94,
+      "fx_options": 681.44
+    },
+    {
+      "date": "2012-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 150649.32,
+      "fx_swap": 37795.29,
+      "fx_forward": 18697.33,
+      "fx_options": 633.37
+    },
+    {
+      "date": "2012-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 161300.67,
+      "fx_swap": 50540.56,
+      "fx_forward": 18772.29,
+      "fx_options": 1050.7
+    },
+    {
+      "date": "2012-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 117120.14,
+      "fx_swap": 48437.44,
+      "fx_forward": 15169.59,
+      "fx_options": 778.21
+    },
+    {
+      "date": "2012-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 155541.43,
+      "fx_swap": 54328.2,
+      "fx_forward": 20113.51,
+      "fx_options": 763.05
+    },
+    {
+      "date": "2012-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 142841.32,
+      "fx_swap": 51568.29,
+      "fx_forward": 16649.94,
+      "fx_options": 559.51
+    },
+    {
+      "date": "2012-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 157361.21,
+      "fx_swap": 58836.48,
+      "fx_forward": 21126.46,
+      "fx_options": 565.17
+    },
+    {
+      "date": "2012-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 176967.67,
+      "fx_swap": 67178.32,
+      "fx_forward": 16649.36,
+      "fx_options": 940.9
+    },
+    {
+      "date": "2012-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 177709.31,
+      "fx_swap": 54426.79,
+      "fx_forward": 13217.12,
+      "fx_options": 639.92
+    },
+    {
+      "date": "2012-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 170345.06,
+      "fx_swap": 55654.33,
+      "fx_forward": 10151.06,
+      "fx_options": 1181.53
+    },
+    {
+      "date": "2012-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 146540.516048385,
+      "fx_swap": 45248.601155334996,
+      "fx_forward": 9871.256641254999,
+      "fx_options": 898.27959863
+    },
+    {
+      "date": "2012-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 150908.68378646002,
+      "fx_swap": 50122.050514229995,
+      "fx_forward": 10441.859266294998,
+      "fx_options": 351.9305471899999
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 176899.58107436,
+      "fx_swap": 49776.552586660015,
+      "fx_forward": 12061.90618053,
+      "fx_options": 1288.43171865
+    },
+    {
+      "date": "2013-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 115791.2,
+      "fx_swap": 38440.3,
+      "fx_forward": 10382.6,
+      "fx_options": 866.8
+    },
+    {
+      "date": "2013-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 127931.83772736501,
+      "fx_swap": 47676.677678145,
+      "fx_forward": 11897.15435405,
+      "fx_options": 998.056213875
+    },
+    {
+      "date": "2013-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 168404.92191819998,
+      "fx_swap": 54332.90116337,
+      "fx_forward": 11006.421910535,
+      "fx_options": 1540.04808988
+    },
+    {
+      "date": "2013-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 112422.70952023502,
+      "fx_swap": 41870.24024646499,
+      "fx_forward": 5975.51940251,
+      "fx_options": 1053.22180475
+    },
+    {
+      "date": "2013-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 167017.0580302,
+      "fx_swap": 58674.40046477501,
+      "fx_forward": 13588.522116914999,
+      "fx_options": 1325.3240839300001
+    },
+    {
+      "date": "2013-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 153992.22170999003,
+      "fx_swap": 59940.00490010998,
+      "fx_forward": 10819.08791511,
+      "fx_options": 1269.70826373
+    },
+    {
+      "date": "2013-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 142184.41672011997,
+      "fx_swap": 49913.08559041,
+      "fx_forward": 12892.474032355,
+      "fx_options": 1225.3088907900003
+    },
+    {
+      "date": "2013-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 134967.58524547998,
+      "fx_swap": 52892.16358219498,
+      "fx_forward": 10424.94969984,
+      "fx_options": 1418.1437043600001
+    },
+    {
+      "date": "2013-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 137375.76407239,
+      "fx_swap": 53633.50791976,
+      "fx_forward": 9774.439863085001,
+      "fx_options": 1495.54499785
+    },
+    {
+      "date": "2013-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 146312.699892935,
+      "fx_swap": 45713.642865375004,
+      "fx_forward": 8441.334436660001,
+      "fx_options": 1530.84218449
+    },
+    {
+      "date": "2013-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 126846.52273876999,
+      "fx_swap": 54538.50388830499,
+      "fx_forward": 8840.839165039999,
+      "fx_options": 1026.85380644
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 128646.824978865,
+      "fx_swap": 61724.4487527,
+      "fx_forward": 10410.267013154998,
+      "fx_options": 1427.81046625
+    },
+    {
+      "date": "2014-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 122306.56080356002,
+      "fx_swap": 62532.61898836002,
+      "fx_forward": 15189.010349,
+      "fx_options": 2004.96953761
+    },
+    {
+      "date": "2014-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 128909.930546585,
+      "fx_swap": 75533.826228395,
+      "fx_forward": 18830.741145704997,
+      "fx_options": 2553.454625065
+    },
+    {
+      "date": "2014-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 151315.78696956503,
+      "fx_swap": 78045.50613905,
+      "fx_forward": 16652.40993371,
+      "fx_options": 2010.9545313499998
+    },
+    {
+      "date": "2014-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 167120.65556854501,
+      "fx_swap": 77880.749761495,
+      "fx_forward": 10571.227816064998,
+      "fx_options": 1995.1440078399999
+    },
+    {
+      "date": "2014-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 169561.47807021497,
+      "fx_swap": 96456.908205075,
+      "fx_forward": 9135.526824385,
+      "fx_options": 2112.60406877
+    },
+    {
+      "date": "2014-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 167017.56563347497,
+      "fx_swap": 95056.90612760998,
+      "fx_forward": 11386.563550375,
+      "fx_options": 2044.419169275
+    },
+    {
+      "date": "2014-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 157670.90889137998,
+      "fx_swap": 86037.18145776,
+      "fx_forward": 10571.571761645,
+      "fx_options": 2059.10598222
+    },
+    {
+      "date": "2014-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 152598.255728395,
+      "fx_swap": 92513.306971335,
+      "fx_forward": 13930.147534579999,
+      "fx_options": 2213.86305316
+    },
+    {
+      "date": "2014-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 145002.56669796503,
+      "fx_swap": 89518.45403158499,
+      "fx_forward": 9275.681161179999,
+      "fx_options": 1677.22964282
+    },
+    {
+      "date": "2014-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 130579.60832067498,
+      "fx_swap": 79699.73313791,
+      "fx_forward": 9482.45418776,
+      "fx_options": 2302.41045655
+    },
+    {
+      "date": "2014-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 126163.23033149997,
+      "fx_swap": 81635.895058835,
+      "fx_forward": 10380.76550241,
+      "fx_options": 1604.4109153100003
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 137267.81181518498,
+      "fx_swap": 79546.37586407502,
+      "fx_forward": 9423.796322265,
+      "fx_options": 2560.6670546299997
+    },
+    {
+      "date": "2015-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 104899.56860148,
+      "fx_swap": 59392.398277035005,
+      "fx_forward": 6958.945025100001,
+      "fx_options": 1757.4310578200002
+    },
+    {
+      "date": "2015-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 148532.62659086002,
+      "fx_swap": 94680.49908397504,
+      "fx_forward": 12138.532233865,
+      "fx_options": 2241.40599373
+    },
+    {
+      "date": "2015-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 179415.023527135,
+      "fx_swap": 84676.26648321499,
+      "fx_forward": 10478.028682965,
+      "fx_options": 3006.29141904
+    },
+    {
+      "date": "2015-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 160671.707745975,
+      "fx_swap": 77455.83204219499,
+      "fx_forward": 8420.548205215,
+      "fx_options": 1731.6324716599997
+    },
+    {
+      "date": "2015-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 164209.438407155,
+      "fx_swap": 101060.26336197,
+      "fx_forward": 9857.32021112,
+      "fx_options": 1598.3707797250001
+    },
+    {
+      "date": "2015-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 116033.13166551999,
+      "fx_swap": 102609.550361755,
+      "fx_forward": 11436.631781299999,
+      "fx_options": 2323.6012909550004
+    },
+    {
+      "date": "2015-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 78185.35696583001,
+      "fx_swap": 94900.750291605,
+      "fx_forward": 10030.98134337,
+      "fx_options": 1969.7977088299997
+    },
+    {
+      "date": "2015-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 69024.63909098998,
+      "fx_swap": 104303.86887264001,
+      "fx_forward": 9525.811541475003,
+      "fx_options": 1273.0470437650001
+    },
+    {
+      "date": "2015-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 65848.43271841499,
+      "fx_swap": 84315.12110677,
+      "fx_forward": 9660.133541445,
+      "fx_options": 1596.5316700399999
+    },
+    {
+      "date": "2015-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 53367.470901435,
+      "fx_swap": 80319.28565737,
+      "fx_forward": 9623.444493800002,
+      "fx_options": 1692.2896360950003
+    },
+    {
+      "date": "2015-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 57015.78881724,
+      "fx_swap": 81804.72716068,
+      "fx_forward": 9076.830555085002,
+      "fx_options": 1087.2009521050002
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 71595.647262295,
+      "fx_swap": 82299.8117913,
+      "fx_forward": 12145.732480635,
+      "fx_options": 1818.29900256
+    },
+    {
+      "date": "2016-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 58305.544070075004,
+      "fx_swap": 65942.05854739,
+      "fx_forward": 10152.037847875,
+      "fx_options": 1841.5941221699995
+    },
+    {
+      "date": "2016-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 78451.67770271501,
+      "fx_swap": 71356.43542799499,
+      "fx_forward": 11728.062226170001,
+      "fx_options": 1816.2380073800002
+    },
+    {
+      "date": "2016-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 69271.14501497499,
+      "fx_swap": 84049.838608045,
+      "fx_forward": 10382.398834025,
+      "fx_options": 1930.837997105
+    },
+    {
+      "date": "2016-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 67300.68199530001,
+      "fx_swap": 85588.59626138,
+      "fx_forward": 10384.710694405001,
+      "fx_options": 2013.3612962700001
+    },
+    {
+      "date": "2016-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 73898.21880275999,
+      "fx_swap": 88869.183144105,
+      "fx_forward": 12113.72651949,
+      "fx_options": 1848.33567764
+    },
+    {
+      "date": "2016-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 65834.54752619499,
+      "fx_swap": 78927.97490764501,
+      "fx_forward": 10565.212236075,
+      "fx_options": 1649.9269216100001
+    },
+    {
+      "date": "2016-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 59154.549806435,
+      "fx_swap": 90401.38362867,
+      "fx_forward": 10804.25394856,
+      "fx_options": 2023.4393655550002
+    },
+    {
+      "date": "2016-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 65438.297645815,
+      "fx_swap": 90370.67745855999,
+      "fx_forward": 12293.504070114997,
+      "fx_options": 1798.39558735
+    },
+    {
+      "date": "2016-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 64692.28455761,
+      "fx_swap": 89337.56241723,
+      "fx_forward": 9662.375278425001,
+      "fx_options": 1713.9117495
+    },
+    {
+      "date": "2016-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 73054.35747771499,
+      "fx_swap": 84415.72386114999,
+      "fx_forward": 13166.817468745,
+      "fx_options": 1531.3434618449999
+    },
+    {
+      "date": "2016-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 74609.41842507501,
+      "fx_swap": 94148.302953515,
+      "fx_forward": 10810.373489285,
+      "fx_options": 1048.9685859850001
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 80900.84183087498,
+      "fx_swap": 89745.76448578502,
+      "fx_forward": 8365.30049282,
+      "fx_options": 1632.10557429
+    },
+    {
+      "date": "2017-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 75856.33785905,
+      "fx_swap": 72387.04915713001,
+      "fx_forward": 9434.192439085002,
+      "fx_options": 1097.26906166
+    },
+    {
+      "date": "2017-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 106107.10375036499,
+      "fx_swap": 107212.10580558497,
+      "fx_forward": 15633.069398610001,
+      "fx_options": 1807.87168773
+    },
+    {
+      "date": "2017-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 79316.07161967999,
+      "fx_swap": 96923.396579165,
+      "fx_forward": 10325.699067615002,
+      "fx_options": 2110.954526415
+    },
+    {
+      "date": "2017-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 88876.27228957502,
+      "fx_swap": 94709.839680785,
+      "fx_forward": 11494.88445825,
+      "fx_options": 1884.8504709699998
+    },
+    {
+      "date": "2017-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 79272.70058560999,
+      "fx_swap": 98840.326270125,
+      "fx_forward": 13735.534863315,
+      "fx_options": 1771.0940722100001
+    },
+    {
+      "date": "2017-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 78409.68998782,
+      "fx_swap": 114745.02222451998,
+      "fx_forward": 13439.685614895001,
+      "fx_options": 2019.83767649
+    },
+    {
+      "date": "2017-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 83391.68446998001,
+      "fx_swap": 114232.16553602999,
+      "fx_forward": 13852.633606309999,
+      "fx_options": 1917.59441227
+    },
+    {
+      "date": "2017-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 84753.75421700499,
+      "fx_swap": 109955.40516587,
+      "fx_forward": 17621.77353538,
+      "fx_options": 1693.81114468
+    },
+    {
+      "date": "2017-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 80021.23310956499,
+      "fx_swap": 102102.78789510502,
+      "fx_forward": 15342.81838867,
+      "fx_options": 1282.63511734
+    },
+    {
+      "date": "2017-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 83841.82534458999,
+      "fx_swap": 115536.609596165,
+      "fx_forward": 20241.303170994994,
+      "fx_options": 1490.357219835
+    },
+    {
+      "date": "2017-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 70655.7473625,
+      "fx_swap": 100812.29620264,
+      "fx_forward": 15074.27769572,
+      "fx_options": 1169.237873345
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 91607.33472298499,
+      "fx_swap": 112111.44297585,
+      "fx_forward": 17954.75683117,
+      "fx_options": 1792.163855745
+    },
+    {
+      "date": "2018-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 88781.35285438501,
+      "fx_swap": 102924.89261898499,
+      "fx_forward": 17952.159568885,
+      "fx_options": 1407.1620876099998
+    },
+    {
+      "date": "2018-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 100831.53364151,
+      "fx_swap": 120874.64954427,
+      "fx_forward": 20328.435381589996,
+      "fx_options": 2432.96118629
+    },
+    {
+      "date": "2018-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 95757.906983595,
+      "fx_swap": 124679.59789981999,
+      "fx_forward": 20141.073910374995,
+      "fx_options": 2425.6864552
+    },
+    {
+      "date": "2018-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 108822.93225305,
+      "fx_swap": 110857.99978438002,
+      "fx_forward": 24985.207185745,
+      "fx_options": 2096.728738465
+    },
+    {
+      "date": "2018-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 99777.33097964,
+      "fx_swap": 120257.00985258998,
+      "fx_forward": 19033.892291015,
+      "fx_options": 2061.569661425
+    },
+    {
+      "date": "2018-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 88131.88209958501,
+      "fx_swap": 135849.24991502496,
+      "fx_forward": 22513.244778445,
+      "fx_options": 2185.984378475
+    },
+    {
+      "date": "2018-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 86956.76606255499,
+      "fx_swap": 142526.869363735,
+      "fx_forward": 20998.232150099997,
+      "fx_options": 2426.15522636
+    },
+    {
+      "date": "2018-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 70158.94207077501,
+      "fx_swap": 121723.79140841002,
+      "fx_forward": 16879.02450124,
+      "fx_options": 1537.0763562900001
+    },
+    {
+      "date": "2018-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 80694.97538889002,
+      "fx_swap": 140580.50482821997,
+      "fx_forward": 17155.649245695,
+      "fx_options": 1979.32230967
+    },
+    {
+      "date": "2018-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 70476.09984078498,
+      "fx_swap": 123200.922778155,
+      "fx_forward": 18421.56452105,
+      "fx_options": 1520.506936375
+    },
+    {
+      "date": "2018-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 61221.823705185,
+      "fx_swap": 133053.36940561002,
+      "fx_forward": 17341.566760055,
+      "fx_options": 1108.959001435
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 83840.006167915,
+      "fx_swap": 167899.80122553496,
+      "fx_forward": 21457.827332785004,
+      "fx_options": 2405.94486225
+    },
+    {
+      "date": "2019-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 64831.36988776999,
+      "fx_swap": 118206.94569011999,
+      "fx_forward": 14576.565740185,
+      "fx_options": 2640.61135743
+    },
+    {
+      "date": "2019-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 76360.09966811001,
+      "fx_swap": 155463.26759654004,
+      "fx_forward": 19750.22968967,
+      "fx_options": 3528.50575203
+    },
+    {
+      "date": "2019-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 77671.97620603499,
+      "fx_swap": 156035.74876061498,
+      "fx_forward": 20748.582427985002,
+      "fx_options": 3456.772465375
+    },
+    {
+      "date": "2019-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 83453.96847174,
+      "fx_swap": 153949.24310858996,
+      "fx_forward": 21284.23239693,
+      "fx_options": 2392.114141955
+    },
+    {
+      "date": "2019-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 72165.90690732999,
+      "fx_swap": 128314.361900665,
+      "fx_forward": 18061.729557169998,
+      "fx_options": 2343.66271459
+    },
+    {
+      "date": "2019-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 73948.98714138998,
+      "fx_swap": 161034.29216661,
+      "fx_forward": 19909.81115255,
+      "fx_options": 4759.36528983
+    },
+    {
+      "date": "2019-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 88262.94342065,
+      "fx_swap": 162240.558172665,
+      "fx_forward": 23107.295678505,
+      "fx_options": 4170.197292625
+    },
+    {
+      "date": "2019-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 74442.28300004001,
+      "fx_swap": 138957.10744859,
+      "fx_forward": 18866.433815739998,
+      "fx_options": 2770.8758318999994
+    },
+    {
+      "date": "2019-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 71624.330874075,
+      "fx_swap": 162852.14483262,
+      "fx_forward": 16711.14160705,
+      "fx_options": 2604.090900485
+    },
+    {
+      "date": "2019-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 66899.24292067,
+      "fx_swap": 143076.92521647998,
+      "fx_forward": 17909.46288204,
+      "fx_options": 1865.030213575
+    },
+    {
+      "date": "2019-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 63496.42589596,
+      "fx_swap": 154911.29483720497,
+      "fx_forward": 18984.840692070004,
+      "fx_options": 2392.0589177750003
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 77476.201778895,
+      "fx_swap": 166035.86100083002,
+      "fx_forward": 19163.621850505002,
+      "fx_options": 3302.36107858
+    },
+    {
+      "date": "2020-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 89462.44903520001,
+      "fx_swap": 156358.33509240998,
+      "fx_forward": 22091.14272773,
+      "fx_options": 4396.75695022
+    },
+    {
+      "date": "2020-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 91863.86319501999,
+      "fx_swap": 176057.41621239498,
+      "fx_forward": 21076.94313166,
+      "fx_options": 3493.32031065
+    },
+    {
+      "date": "2020-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 56591.755844390005,
+      "fx_swap": 150556.69516533,
+      "fx_forward": 14534.73951835,
+      "fx_options": 2193.3953126600004
+    },
+    {
+      "date": "2020-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 47520.692946595,
+      "fx_swap": 107908.48335042999,
+      "fx_forward": 15080.967699185,
+      "fx_options": 2959.15369661
+    },
+    {
+      "date": "2020-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 69718.191324035,
+      "fx_swap": 132454.85484528498,
+      "fx_forward": 16359.010014005002,
+      "fx_options": 2479.48232924
+    },
+    {
+      "date": "2020-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 68573.22652858999,
+      "fx_swap": 148227.33244592499,
+      "fx_forward": 18725.178960915,
+      "fx_options": 2412.76723592
+    },
+    {
+      "date": "2020-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 67503.92356977999,
+      "fx_swap": 145518.41760244002,
+      "fx_forward": 18646.341141655004,
+      "fx_options": 2260.79195255
+    },
+    {
+      "date": "2020-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 76473.17775736,
+      "fx_swap": 160168.16317139,
+      "fx_forward": 20871.036283125,
+      "fx_options": 2985.49880753
+    },
+    {
+      "date": "2020-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 63924.462426595004,
+      "fx_swap": 149945.35172505502,
+      "fx_forward": 21066.542338205003,
+      "fx_options": 2211.0455624
+    },
+    {
+      "date": "2020-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 68380.161177665,
+      "fx_swap": 142906.19222646998,
+      "fx_forward": 21860.091424625,
+      "fx_options": 2273.1551366500007
+    },
+    {
+      "date": "2020-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 60760.94203664499,
+      "fx_swap": 161736.18206873498,
+      "fx_forward": 22912.275888480002,
+      "fx_options": 1866.4025465800003
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 65853.30202408499,
+      "fx_swap": 134774.73174029498,
+      "fx_forward": 22437.77772563,
+      "fx_options": 3012.843135615
+    },
+    {
+      "date": "2021-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 62978.157246395,
+      "fx_swap": 122876.77839671996,
+      "fx_forward": 20353.956635795,
+      "fx_options": 3180.1104923300004
+    },
+    {
+      "date": "2021-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 81737.601045895,
+      "fx_swap": 165472.7750149,
+      "fx_forward": 25590.46393938,
+      "fx_options": 2506.219224965
+    },
+    {
+      "date": "2021-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 66988.478266945,
+      "fx_swap": 146346.32109355502,
+      "fx_forward": 22770.295820195,
+      "fx_options": 2291.1572627250002
+    },
+    {
+      "date": "2021-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 57864.29645428,
+      "fx_swap": 122195.90341320499,
+      "fx_forward": 20228.49661307,
+      "fx_options": 1781.10684057
+    },
+    {
+      "date": "2021-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 65816.95763335499,
+      "fx_swap": 139239.67822075504,
+      "fx_forward": 24406.462837550003,
+      "fx_options": 1870.562387095
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 64017.941492449994,
+      "fx_swap": 136044.934010315,
+      "fx_forward": 22509.912727685,
+      "fx_options": 2335.98802798
+    },
+    {
+      "date": "2021-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 55932.870619285,
+      "fx_swap": 137236.294601415,
+      "fx_forward": 23640.926276600003,
+      "fx_options": 1970.1312188900001
+    },
+    {
+      "date": "2021-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 63179.15642954501,
+      "fx_swap": 145780.659952015,
+      "fx_forward": 22336.522752039997,
+      "fx_options": 1736.3535182449998
+    },
+    {
+      "date": "2021-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 60759.827220989995,
+      "fx_swap": 141659.69794701503,
+      "fx_forward": 21731.634930455002,
+      "fx_options": 1648.41225562
+    },
+    {
+      "date": "2021-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 69888.106750695,
+      "fx_swap": 137735.37908392496,
+      "fx_forward": 24492.04752555,
+      "fx_options": 1551.3473809000002
+    },
+    {
+      "date": "2021-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 74869.544310885,
+      "fx_swap": 146414.34185815504,
+      "fx_forward": 24272.635152395,
+      "fx_options": 1863.9629452
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 69962.66738444501,
+      "fx_swap": 156306.43330411,
+      "fx_forward": 23939.823853800004,
+      "fx_options": 2552.04904642
+    },
+    {
+      "date": "2022-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 65848.06950176001,
+      "fx_swap": 131174.76786079,
+      "fx_forward": 22625.378300135002,
+      "fx_options": 2734.86322021
+    },
+    {
+      "date": "2022-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 95337.60733783501,
+      "fx_swap": 168051.40789202997,
+      "fx_forward": 31209.292287709995,
+      "fx_options": 2096.40173654
+    },
+    {
+      "date": "2022-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 80380.37640267999,
+      "fx_swap": 148110.521077395,
+      "fx_forward": 28602.156678569998,
+      "fx_options": 1793.1102080550002
+    },
+    {
+      "date": "2022-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 74544.77743158,
+      "fx_swap": 142160.07376201998,
+      "fx_forward": 24927.69687341,
+      "fx_options": 1461.51615505
+    },
+    {
+      "date": "2022-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 88890.559905315,
+      "fx_swap": 167654.50120249996,
+      "fx_forward": 28138.260838680002,
+      "fx_options": 2834.0057980700003
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 83670.75493961001,
+      "fx_swap": 148106.07468688,
+      "fx_forward": 26298.935630174998,
+      "fx_options": 2874.97285688
+    },
+    {
+      "date": "2022-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 80209.72688734,
+      "fx_swap": 172715.089071665,
+      "fx_forward": 25417.415967560002,
+      "fx_options": 2907.16207329
+    },
+    {
+      "date": "2022-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 104326.29122745499,
+      "fx_swap": 207734.32560140998,
+      "fx_forward": 32309.17830634,
+      "fx_options": 2817.09865477
+    },
+    {
+      "date": "2022-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 79847.99128118501,
+      "fx_swap": 189848.142720355,
+      "fx_forward": 27929.839682505,
+      "fx_options": 2622.03881848
+    },
+    {
+      "date": "2022-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 76772.35234832502,
+      "fx_swap": 170586.92955047498,
+      "fx_forward": 30527.45532737,
+      "fx_options": 2541.69765078
+    },
+    {
+      "date": "2022-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 73390.42009665,
+      "fx_swap": 177181.75036059,
+      "fx_forward": 32204.932363599997,
+      "fx_options": 2601.01957009
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 83778.882656995,
+      "fx_swap": 169290.73199358003,
+      "fx_forward": 28140.051004644996,
+      "fx_options": 3182.836531335
+    },
+    {
+      "date": "2023-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 85840.92946416498,
+      "fx_swap": 167403.65558751498,
+      "fx_forward": 26889.413645609995,
+      "fx_options": 3575.5993324250003
+    },
+    {
+      "date": "2023-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 99354.789963655,
+      "fx_swap": 223143.273356295,
+      "fx_forward": 31294.03484732,
+      "fx_options": 3585.34885694
+    },
+    {
+      "date": "2023-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 70370.59967743001,
+      "fx_swap": 162258.49856305998,
+      "fx_forward": 23268.040157214997,
+      "fx_options": 3006.516237625
+    },
+    {
+      "date": "2023-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 90140.47857102501,
+      "fx_swap": 184989.78415684504,
+      "fx_forward": 26020.608505565004,
+      "fx_options": 3939.523841215
+    },
+    {
+      "date": "2023-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 88455.23605351498,
+      "fx_swap": 195764.13889996504,
+      "fx_forward": 26065.979163930002,
+      "fx_options": 3080.952471445
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 107861.852804705,
+      "fx_swap": 194299.846240745,
+      "fx_forward": 27612.682122925,
+      "fx_options": 4007.377840985
+    },
+    {
+      "date": "2023-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 92844.18861091998,
+      "fx_swap": 229109.60607466998,
+      "fx_forward": 25328.848635575,
+      "fx_options": 4693.692447575
+    },
+    {
+      "date": "2023-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 84244.75550745001,
+      "fx_swap": 195582.894138075,
+      "fx_forward": 26307.993826554997,
+      "fx_options": 4752.724347495
+    },
+    {
+      "date": "2023-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 86771.19932992,
+      "fx_swap": 234092.33133422994,
+      "fx_forward": 25072.497156259997,
+      "fx_options": 3810.54172935
+    },
+    {
+      "date": "2023-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 86877.90629778002,
+      "fx_swap": 226293.20415656507,
+      "fx_forward": 31211.08252022,
+      "fx_options": 2845.2874182749997
+    },
+    {
+      "date": "2023-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 79368.51583857999,
+      "fx_swap": 200194.83497708003,
+      "fx_forward": 31551.68078476,
+      "fx_options": 1827.3311002099997
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 84868.54228782999,
+      "fx_swap": 189685.44962993503,
+      "fx_forward": 27885.365850015005,
+      "fx_options": 3239.8024417750003
+    },
+    {
+      "date": "2024-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 73914.51628817499,
+      "fx_swap": 200399.94812991997,
+      "fx_forward": 27144.62602001,
+      "fx_options": 2497.64886411
+    },
+    {
+      "date": "2024-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 90459.573280885,
+      "fx_swap": 236246.23734936502,
+      "fx_forward": 29528.231621625,
+      "fx_options": 3067.4820360649996
+    },
+    {
+      "date": "2024-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 87249.05879988999,
+      "fx_swap": 220327.07173354,
+      "fx_forward": 35602.93221105,
+      "fx_options": 2909.87130295
+    },
+    {
+      "date": "2024-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 91396.0781969,
+      "fx_swap": 235999.62233461495,
+      "fx_forward": 32601.610918055,
+      "fx_options": 2781.018998915
+    },
+    {
+      "date": "2024-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 80781.09178103501,
+      "fx_swap": 217619.22210931007,
+      "fx_forward": 28549.0622593,
+      "fx_options": 2772.4047721200004
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 100379.23786879999,
+      "fx_swap": 273248.337525485,
+      "fx_forward": 33915.390572035,
+      "fx_options": 3986.1858970450007
+    },
+    {
+      "date": "2024-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 103069.479861295,
+      "fx_swap": 276959.99565316,
+      "fx_forward": 33215.66573134001,
+      "fx_options": 3645.8487231850004
+    },
+    {
+      "date": "2024-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 101227.518340635,
+      "fx_swap": 244572.75601114501,
+      "fx_forward": 30309.934842749997,
+      "fx_options": 2818.45933479
+    },
+    {
+      "date": "2024-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 97223.60041181,
+      "fx_swap": 251647.1911084,
+      "fx_forward": 36530.786497115,
+      "fx_options": 3090.377664925
+    },
+    {
+      "date": "2024-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 95734.74103203,
+      "fx_swap": 233526.7357545,
+      "fx_forward": 36788.353045225005,
+      "fx_options": 2631.5114936349996
+    },
+    {
+      "date": "2024-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 88403.985953125,
+      "fx_swap": 224152.57704716,
+      "fx_forward": 35881.933601245,
+      "fx_options": 2603.001408915
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 95190.91166956,
+      "fx_swap": 215110.27282773,
+      "fx_forward": 32918.90871,
+      "fx_options": 2466.94905092
+    },
+    {
+      "date": "2025-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 92884.797195885,
+      "fx_swap": 227381.998284735,
+      "fx_forward": 32332.6086957,
+      "fx_options": 2317.0693163549995
+    },
+    {
+      "date": "2025-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 99450.132785335,
+      "fx_swap": 258265.801483755,
+      "fx_forward": 34765.432828485,
+      "fx_options": 3288.163517585
+    },
+    {
+      "date": "2025-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 120670.70463538001,
+      "fx_swap": 252978.44808010999,
+      "fx_forward": 39659.756851995,
+      "fx_options": 3251.70433579
+    },
+    {
+      "date": "2025-05-01",
+      "frequency": "Monthly",
+      "fx_spot": 118401.523509885,
+      "fx_swap": 245217.929002955,
+      "fx_forward": 39771.25325631,
+      "fx_options": 3093.2989084899996
+    },
+    {
+      "date": "2025-06-01",
+      "frequency": "Monthly",
+      "fx_spot": 99240.08473076,
+      "fx_swap": 248606.77560446993,
+      "fx_forward": 34041.88753151,
+      "fx_options": 5072.98471363
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Monthly",
+      "fx_spot": 113765.70417839002,
+      "fx_swap": 301139.304799385,
+      "fx_forward": 36575.04765909,
+      "fx_options": 3061.629496585
+    },
+    {
+      "date": "2025-08-01",
+      "frequency": "Monthly",
+      "fx_spot": 119518.026451775,
+      "fx_swap": 276592.81404663,
+      "fx_forward": 35758.13110502,
+      "fx_options": 2659.76071122
+    },
+    {
+      "date": "2025-09-01",
+      "frequency": "Monthly",
+      "fx_spot": 98491.946801995,
+      "fx_swap": 250718.70623022004,
+      "fx_forward": 38480.08888209,
+      "fx_options": 2256.28018927
+    },
+    {
+      "date": "2025-10-01",
+      "frequency": "Monthly",
+      "fx_spot": 109279.40841676501,
+      "fx_swap": 291865.6507129301,
+      "fx_forward": 37570.77556996499,
+      "fx_options": 3043.5905731599996
+    },
+    {
+      "date": "2025-11-01",
+      "frequency": "Monthly",
+      "fx_spot": 99372.66432308,
+      "fx_swap": 262120.43012719997,
+      "fx_forward": 36346.091085060005,
+      "fx_options": 2420.74408256
+    },
+    {
+      "date": "2025-12-01",
+      "frequency": "Monthly",
+      "fx_spot": 108942.72934889136,
+      "fx_swap": 278088.86726943,
+      "fx_forward": 36562.24378706465,
+      "fx_options": 2371.0538886100003
+    },
+    {
+      "date": "2026-01-01",
+      "frequency": "Monthly",
+      "fx_spot": 129385.82694808001,
+      "fx_swap": 274342.44014695997,
+      "fx_forward": 42250.15077593,
+      "fx_options": 2419.2479634499996
+    },
+    {
+      "date": "2026-02-01",
+      "frequency": "Monthly",
+      "fx_spot": 103063.32164765001,
+      "fx_swap": 234105.09000240997,
+      "fx_forward": 40081.69888011,
+      "fx_options": 2031.05079771
+    },
+    {
+      "date": "2026-03-01",
+      "frequency": "Monthly",
+      "fx_spot": 134774.25218149967,
+      "fx_swap": 294434.4410186041,
+      "fx_forward": 53696.3709323309,
+      "fx_options": 2668.0041491234997
+    },
+    {
+      "date": "2026-04-01",
+      "frequency": "Monthly",
+      "fx_spot": 122928.4933129854,
+      "fx_swap": 276079.1960931236,
+      "fx_forward": 53793.8978113376,
+      "fx_options": 4187.4184547513
+    }
+  ]
+}

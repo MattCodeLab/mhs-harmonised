@@ -4,7 +4,7 @@ __pycache__/
 .DS_Store
 *.duckdb
 *.duckdb.wal
-outputs/
+# outputs/
 logs/
 .venv/
-uv.lock
+# uv.lock

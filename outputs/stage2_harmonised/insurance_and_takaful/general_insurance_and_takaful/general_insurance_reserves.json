@@ -1,0 +1,706 @@
+{
+  "metadata": {
+    "category": "insurance_and_takaful",
+    "subcategory": "general_insurance_and_takaful",
+    "dataset": "general_insurance_reserves",
+    "source_table": "m_4_7_c_general_insurance_technical_reserves",
+    "exported_at": "2026-06-04T04:55:17.372579+00:00",
+    "total_rows": 68,
+    "date_min": "2009-01-01",
+    "date_max": "2025-07-01",
+    "columns": [
+      "date",
+      "frequency",
+      "business_within_malaysia",
+      "premium_liabilities_premium_percentage_of_net_premium",
+      "claims_liabilities_rm_million",
+      "claims_liabilities_premium_percentage_of_net_premium",
+      "technical_reserves_rm_million",
+      "technical_reserves_premium_percentage_of_net_premium"
+    ],
+    "source": "Bank Negara Malaysia Monthly Highlights Statistics",
+    "url": "https://www.bnm.gov.my/publications/mhs"
+  },
+  "data": [
+    {
+      "date": "2009-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4539.5,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9722,
+      "claims_liabilities_rm_million": 8581.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.8379,
+      "technical_reserves_rm_million": 13121.2,
+      "technical_reserves_premium_percentage_of_net_premium": 2.81
+    },
+    {
+      "date": "2009-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4818.9,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.967,
+      "claims_liabilities_rm_million": 9232.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.8527,
+      "technical_reserves_rm_million": 14051.4,
+      "technical_reserves_premium_percentage_of_net_premium": 2.8198
+    },
+    {
+      "date": "2009-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4463.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.476,
+      "claims_liabilities_rm_million": 8501.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9067,
+      "technical_reserves_rm_million": 12965.4,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3827
+    },
+    {
+      "date": "2009-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4789.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4743,
+      "claims_liabilities_rm_million": 9226.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9137,
+      "technical_reserves_rm_million": 14015.4,
+      "technical_reserves_premium_percentage_of_net_premium": 1.388
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4878.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8964,
+      "claims_liabilities_rm_million": 9414.1,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7297,
+      "technical_reserves_rm_million": 14292.8,
+      "technical_reserves_premium_percentage_of_net_premium": 2.626
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4632.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9064,
+      "claims_liabilities_rm_million": 8613.9,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.6854,
+      "technical_reserves_rm_million": 13246.6,
+      "technical_reserves_premium_percentage_of_net_premium": 2.5919
+    },
+    {
+      "date": "2010-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4678.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4619,
+      "claims_liabilities_rm_million": 8902.4,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.879,
+      "technical_reserves_rm_million": 13580.8,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3409
+    },
+    {
+      "date": "2010-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 4963.3,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4558,
+      "claims_liabilities_rm_million": 9733.1,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8938,
+      "technical_reserves_rm_million": 14696.4,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3496
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5028.0,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9102,
+      "claims_liabilities_rm_million": 8973.0,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.6244,
+      "technical_reserves_rm_million": 14001.0,
+      "technical_reserves_premium_percentage_of_net_premium": 2.5347
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5329.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9004,
+      "claims_liabilities_rm_million": 9864.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.6667,
+      "technical_reserves_rm_million": 15193.8,
+      "technical_reserves_premium_percentage_of_net_premium": 2.567
+    },
+    {
+      "date": "2011-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5029.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.463,
+      "claims_liabilities_rm_million": 9275.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.854,
+      "technical_reserves_rm_million": 14305.1,
+      "technical_reserves_premium_percentage_of_net_premium": 1.317
+    },
+    {
+      "date": "2011-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5368.9,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4608,
+      "claims_liabilities_rm_million": 10738.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9216,
+      "technical_reserves_rm_million": 16107.8,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3824
+    },
+    {
+      "date": "2012-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5370.9,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9088,
+      "claims_liabilities_rm_million": 9644.9,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.632,
+      "technical_reserves_rm_million": 15015.8,
+      "technical_reserves_premium_percentage_of_net_premium": 2.5408
+    },
+    {
+      "date": "2012-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5760.3,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8921,
+      "claims_liabilities_rm_million": 11094.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7183,
+      "technical_reserves_rm_million": 16855.0,
+      "technical_reserves_premium_percentage_of_net_premium": 2.6104
+    },
+    {
+      "date": "2012-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5475.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4644,
+      "claims_liabilities_rm_million": 9922.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8416,
+      "technical_reserves_rm_million": 15397.5,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3059
+    },
+    {
+      "date": "2012-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5875.5,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.454,
+      "claims_liabilities_rm_million": 11498.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8885,
+      "technical_reserves_rm_million": 17373.7,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3426
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5924.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.907,
+      "claims_liabilities_rm_million": 10377.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.5888,
+      "technical_reserves_rm_million": 16301.4,
+      "technical_reserves_premium_percentage_of_net_premium": 2.4959
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6368.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8925,
+      "claims_liabilities_rm_million": 12042.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.6878,
+      "technical_reserves_rm_million": 18410.8,
+      "technical_reserves_premium_percentage_of_net_premium": 2.5804
+    },
+    {
+      "date": "2013-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6368.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4448,
+      "claims_liabilities_rm_million": 12455.1,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.87,
+      "technical_reserves_rm_million": 18823.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3148
+    },
+    {
+      "date": "2013-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5843.5,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4519,
+      "claims_liabilities_rm_million": 10692.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8269,
+      "technical_reserves_rm_million": 16536.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.2788
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6352.0,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9002,
+      "claims_liabilities_rm_million": 11231.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.5917,
+      "technical_reserves_rm_million": 17583.8,
+      "technical_reserves_premium_percentage_of_net_premium": 2.4919
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6881.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8766,
+      "claims_liabilities_rm_million": 12994.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.6554,
+      "technical_reserves_rm_million": 19875.7,
+      "technical_reserves_premium_percentage_of_net_premium": 2.5321
+    },
+    {
+      "date": "2014-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6879.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4468,
+      "claims_liabilities_rm_million": 13442.0,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.873,
+      "technical_reserves_rm_million": 20321.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3198
+    },
+    {
+      "date": "2014-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6230.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4551,
+      "claims_liabilities_rm_million": 11593.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8468,
+      "technical_reserves_rm_million": 17823.9,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3019
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7187.8,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8789,
+      "claims_liabilities_rm_million": 14227.9,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7398,
+      "technical_reserves_rm_million": 21415.7,
+      "technical_reserves_premium_percentage_of_net_premium": 2.6187
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6552.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9044,
+      "claims_liabilities_rm_million": 12477.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7224,
+      "technical_reserves_rm_million": 19029.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.6268
+    },
+    {
+      "date": "2015-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7087.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4477,
+      "claims_liabilities_rm_million": 15086.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9529,
+      "technical_reserves_rm_million": 22174.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4006
+    },
+    {
+      "date": "2015-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6392.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4587,
+      "claims_liabilities_rm_million": 12911.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9265,
+      "technical_reserves_rm_million": 19303.9,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3852
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7325.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9011,
+      "claims_liabilities_rm_million": 14889.4,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.8316,
+      "technical_reserves_rm_million": 22215.0,
+      "technical_reserves_premium_percentage_of_net_premium": 2.7328
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6626.9,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9163,
+      "claims_liabilities_rm_million": 12703.0,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7565,
+      "technical_reserves_rm_million": 19329.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.6728
+    },
+    {
+      "date": "2016-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7204.8,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4456,
+      "claims_liabilities_rm_million": 15130.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9358,
+      "technical_reserves_rm_million": 22335.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3814
+    },
+    {
+      "date": "2016-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6389.3,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4547,
+      "claims_liabilities_rm_million": 12585.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8956,
+      "technical_reserves_rm_million": 18975.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3503
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6647.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.917,
+      "claims_liabilities_rm_million": 12625.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7415,
+      "technical_reserves_rm_million": 19272.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.6585
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7378.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9016,
+      "claims_liabilities_rm_million": 15430.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.8855,
+      "technical_reserves_rm_million": 22808.8,
+      "technical_reserves_premium_percentage_of_net_premium": 2.7871
+    },
+    {
+      "date": "2017-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6430.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4543,
+      "claims_liabilities_rm_million": 12514.4,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8842,
+      "technical_reserves_rm_million": 18944.8,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3385
+    },
+    {
+      "date": "2017-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7090.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4364,
+      "claims_liabilities_rm_million": 15429.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9495,
+      "technical_reserves_rm_million": 22519.8,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3859
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7365.0,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8863,
+      "claims_liabilities_rm_million": 15410.9,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.8544,
+      "technical_reserves_rm_million": 22775.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.7407
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6748.9,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9058,
+      "claims_liabilities_rm_million": 12672.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7009,
+      "technical_reserves_rm_million": 19421.4,
+      "technical_reserves_premium_percentage_of_net_premium": 2.6067
+    },
+    {
+      "date": "2018-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6663.0,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4512,
+      "claims_liabilities_rm_million": 12943.1,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.8765,
+      "technical_reserves_rm_million": 19606.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3277
+    },
+    {
+      "date": "2018-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7171.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4329,
+      "claims_liabilities_rm_million": 15535.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9378,
+      "technical_reserves_rm_million": 22706.7,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3707
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6725.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9136,
+      "claims_liabilities_rm_million": 13120.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.7824,
+      "technical_reserves_rm_million": 19845.3,
+      "technical_reserves_premium_percentage_of_net_premium": 2.696
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7263.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8672,
+      "claims_liabilities_rm_million": 15703.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.875,
+      "technical_reserves_rm_million": 22966.4,
+      "technical_reserves_premium_percentage_of_net_premium": 2.7422
+    },
+    {
+      "date": "2019-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7153.8,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.431,
+      "claims_liabilities_rm_million": 15795.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9516,
+      "technical_reserves_rm_million": 22949.0,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3826
+    },
+    {
+      "date": "2019-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6593.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.456,
+      "claims_liabilities_rm_million": 13055.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.903,
+      "technical_reserves_rm_million": 19649.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.3591
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7274.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8542,
+      "claims_liabilities_rm_million": 16849.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.9787,
+      "technical_reserves_rm_million": 24123.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.8329
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6520.8,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9366,
+      "claims_liabilities_rm_million": 13890.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.9952,
+      "technical_reserves_rm_million": 20411.3,
+      "technical_reserves_premium_percentage_of_net_premium": 2.9318
+    },
+    {
+      "date": "2020-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7442.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4319,
+      "claims_liabilities_rm_million": 16952.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9837,
+      "technical_reserves_rm_million": 24394.7,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4156
+    },
+    {
+      "date": "2020-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6694.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.469,
+      "claims_liabilities_rm_million": 13984.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 0.9798,
+      "technical_reserves_rm_million": 20679.4,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4488
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7660.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.811,
+      "claims_liabilities_rm_million": 17958.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.9011,
+      "technical_reserves_rm_million": 25619.0,
+      "technical_reserves_premium_percentage_of_net_premium": 2.7121
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6630.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9282,
+      "claims_liabilities_rm_million": 14525.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.0336,
+      "technical_reserves_rm_million": 21155.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.9619
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7881.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4175,
+      "claims_liabilities_rm_million": 19376.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0263,
+      "technical_reserves_rm_million": 27258.4,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4438
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6744.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4721,
+      "claims_liabilities_rm_million": 15233.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0663,
+      "technical_reserves_rm_million": 21978.1,
+      "technical_reserves_premium_percentage_of_net_premium": 1.5383
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7471.8,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9029,
+      "claims_liabilities_rm_million": 18576.0,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.2448,
+      "technical_reserves_rm_million": 26047.8,
+      "technical_reserves_premium_percentage_of_net_premium": 3.1477
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7068.5,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9183,
+      "claims_liabilities_rm_million": 15550.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.0203,
+      "technical_reserves_rm_million": 22619.0,
+      "technical_reserves_premium_percentage_of_net_premium": 2.9386
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7612.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4532078076530632,
+      "claims_liabilities_rm_million": 18511.2,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.1020444087163577,
+      "technical_reserves_rm_million": 26123.8,
+      "technical_reserves_premium_percentage_of_net_premium": 1.555252216369421
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7193.4,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4651451994516876,
+      "claims_liabilities_rm_million": 15687.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0143997220555847,
+      "technical_reserves_rm_million": 22880.8,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4795449215072722
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7512.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9393909992225838,
+      "claims_liabilities_rm_million": 16234.9,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.030145056635102,
+      "technical_reserves_rm_million": 23747.1,
+      "technical_reserves_premium_percentage_of_net_premium": 2.9695360558576858
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7873.2,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.8958836910392024,
+      "claims_liabilities_rm_million": 19170.6,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.181392591058466,
+      "technical_reserves_rm_million": 27043.8,
+      "technical_reserves_premium_percentage_of_net_premium": 3.0772762820976687
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7693.8,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.47669671610787756,
+      "claims_liabilities_rm_million": 16356.5,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0134251759408188,
+      "technical_reserves_rm_million": 24050.4,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4901218920486967
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8077.0,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4572753397400467,
+      "claims_liabilities_rm_million": 19221.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0882084625227169,
+      "technical_reserves_rm_million": 27298.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.5454838022627637
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8086.7,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9574447923177464,
+      "claims_liabilities_rm_million": 17055.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.019291411878169,
+      "technical_reserves_rm_million": 25142.0,
+      "technical_reserves_premium_percentage_of_net_premium": 2.9767362041959156
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8439.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9164223263678445,
+      "claims_liabilities_rm_million": 19887.4,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.1596235319347157,
+      "technical_reserves_rm_million": 28326.4,
+      "technical_reserves_premium_percentage_of_net_premium": 3.0760458583025603
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8196.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4808068241910627,
+      "claims_liabilities_rm_million": 17353.4,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0180082564785153,
+      "technical_reserves_rm_million": 25549.5,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4988150806695781
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8506.5,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.4603678105052336,
+      "claims_liabilities_rm_million": 19981.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.081398325513052,
+      "technical_reserves_rm_million": 28488.2,
+      "technical_reserves_premium_percentage_of_net_premium": 1.5417661360182855
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8523.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9627217104014526,
+      "claims_liabilities_rm_million": 17989.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.0318428178209,
+      "technical_reserves_rm_million": 26512.9,
+      "technical_reserves_premium_percentage_of_net_premium": 2.994564528222352
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8811.1,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.9333463825521778,
+      "claims_liabilities_rm_million": 20554.8,
+      "claims_liabilities_premium_percentage_of_net_premium": 2.177339899422401,
+      "technical_reserves_rm_million": 29365.9,
+      "technical_reserves_premium_percentage_of_net_premium": 3.110686281974579
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8715.9,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.485603984134284,
+      "claims_liabilities_rm_million": 18033.3,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0047229986215631,
+      "technical_reserves_rm_million": 26749.1,
+      "technical_reserves_premium_percentage_of_net_premium": 1.4903269827558472
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9038.6,
+      "premium_liabilities_premium_percentage_of_net_premium": 0.47113912831348265,
+      "claims_liabilities_rm_million": 20460.7,
+      "claims_liabilities_premium_percentage_of_net_premium": 1.0665125772865067,
+      "technical_reserves_rm_million": 29499.3,
+      "technical_reserves_premium_percentage_of_net_premium": 1.5376517055999894
+    }
+  ]
+}

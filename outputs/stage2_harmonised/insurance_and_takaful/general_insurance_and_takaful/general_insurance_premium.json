@@ -1,0 +1,568 @@
+{
+  "metadata": {
+    "category": "insurance_and_takaful",
+    "subcategory": "general_insurance_and_takaful",
+    "dataset": "general_insurance_premium",
+    "source_table": "m_4_7_general_insurance_premium",
+    "exported_at": "2026-06-04T04:55:17.387799+00:00",
+    "total_rows": 68,
+    "date_min": "2009-01-01",
+    "date_max": "2025-07-01",
+    "columns": [
+      "date",
+      "frequency",
+      "business_within_malaysia",
+      "premium_gross_direct_premiums",
+      "premium_net_premiums",
+      "retention_ratio"
+    ],
+    "source": "Bank Negara Malaysia Monthly Highlights Statistics",
+    "url": "https://www.bnm.gov.my/publications/mhs"
+  },
+  "data": [
+    {
+      "date": "2009-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5100.7,
+      "premium_gross_direct_premiums": 5948.2,
+      "premium_net_premiums": 4669.4,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2009-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5460.7,
+      "premium_gross_direct_premiums": 6055.0,
+      "premium_net_premiums": 4983.2,
+      "retention_ratio": 91.3
+    },
+    {
+      "date": "2009-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 10184.1,
+      "premium_gross_direct_premiums": 11531.2,
+      "premium_net_premiums": 9376.9,
+      "retention_ratio": 92.1
+    },
+    {
+      "date": "2009-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 10985.0,
+      "premium_gross_direct_premiums": 11751.5,
+      "premium_net_premiums": 10097.8,
+      "retention_ratio": 91.9
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5946.2,
+      "premium_gross_direct_premiums": 6646.2,
+      "premium_net_premiums": 5442.8,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5575.4,
+      "premium_gross_direct_premiums": 6547.5,
+      "premium_net_premiums": 5110.8,
+      "retention_ratio": 91.7
+    },
+    {
+      "date": "2010-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 10981.1,
+      "premium_gross_direct_premiums": 12584.7,
+      "premium_net_premiums": 10127.9,
+      "retention_ratio": 92.2
+    },
+    {
+      "date": "2010-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 11811.9,
+      "premium_gross_direct_premiums": 12768.3,
+      "premium_net_premiums": 10889.8,
+      "retention_ratio": 92.2
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 5995.3,
+      "premium_gross_direct_premiums": 7092.2,
+      "premium_net_premiums": 5523.8,
+      "retention_ratio": 92.1
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6426.6,
+      "premium_gross_direct_premiums": 7189.3,
+      "premium_net_premiums": 5918.8,
+      "retention_ratio": 92.1
+    },
+    {
+      "date": "2011-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 11733.4,
+      "premium_gross_direct_premiums": 13604.9,
+      "premium_net_premiums": 10861.7,
+      "retention_ratio": 92.6
+    },
+    {
+      "date": "2011-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 12692.4,
+      "premium_gross_direct_premiums": 13794.3,
+      "premium_net_premiums": 11651.9,
+      "retention_ratio": 91.8
+    },
+    {
+      "date": "2012-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 6443.4,
+      "premium_gross_direct_premiums": 7663.1,
+      "premium_net_premiums": 5909.8,
+      "retention_ratio": 91.7
+    },
+    {
+      "date": "2012-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7058.5,
+      "premium_gross_direct_premiums": 7759.4,
+      "premium_net_premiums": 6456.7,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2012-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 12792.8,
+      "premium_gross_direct_premiums": 14692.2,
+      "premium_net_premiums": 11790.3,
+      "retention_ratio": 92.2
+    },
+    {
+      "date": "2012-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 14119.8,
+      "premium_gross_direct_premiums": 14873.7,
+      "premium_net_premiums": 12940.6,
+      "retention_ratio": 91.6
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7038.6,
+      "premium_gross_direct_premiums": 8123.4,
+      "premium_net_premiums": 6531.4,
+      "retention_ratio": 92.8
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7804.0,
+      "premium_gross_direct_premiums": 8214.9,
+      "premium_net_premiums": 7134.9,
+      "retention_ratio": 91.4
+    },
+    {
+      "date": "2013-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15528.8,
+      "premium_gross_direct_premiums": 15911.0,
+      "premium_net_premiums": 14316.2,
+      "retention_ratio": 92.2
+    },
+    {
+      "date": "2013-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 13833.7,
+      "premium_gross_direct_premiums": 15725.2,
+      "premium_net_premiums": 12930.7,
+      "retention_ratio": 93.5
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7519.6,
+      "premium_gross_direct_premiums": 8647.4,
+      "premium_net_premiums": 7056.3,
+      "retention_ratio": 93.8
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8518.0,
+      "premium_gross_direct_premiums": 8753.9,
+      "premium_net_premiums": 7849.6,
+      "retention_ratio": 92.2
+    },
+    {
+      "date": "2014-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 16824.1,
+      "premium_gross_direct_premiums": 16896.0,
+      "premium_net_premiums": 15396.7,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2014-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 14737.2,
+      "premium_gross_direct_premiums": 16677.7,
+      "premium_net_premiums": 13690.9,
+      "retention_ratio": 92.9
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8894.5,
+      "premium_gross_direct_premiums": 8979.4,
+      "premium_net_premiums": 8178.1,
+      "retention_ratio": 91.9
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7770.0,
+      "premium_gross_direct_premiums": 8887.2,
+      "premium_net_premiums": 7244.5,
+      "retention_ratio": 93.2
+    },
+    {
+      "date": "2015-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 17271.1,
+      "premium_gross_direct_premiums": 17225.9,
+      "premium_net_premiums": 15831.6,
+      "retention_ratio": 91.7
+    },
+    {
+      "date": "2015-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 14977.2,
+      "premium_gross_direct_premiums": 17088.5,
+      "premium_net_premiums": 13935.5,
+      "retention_ratio": 93.0
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8887.2,
+      "premium_gross_direct_premiums": 9162.5,
+      "premium_net_premiums": 8129.2,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7830.6,
+      "premium_gross_direct_premiums": 9120.3,
+      "premium_net_premiums": 7232.2,
+      "retention_ratio": 92.4
+    },
+    {
+      "date": "2016-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 17672.4,
+      "premium_gross_direct_premiums": 17321.4,
+      "premium_net_premiums": 16167.9,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2016-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15228.2,
+      "premium_gross_direct_premiums": 17246.6,
+      "premium_net_premiums": 14052.9,
+      "retention_ratio": 92.3
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7949.2,
+      "premium_gross_direct_premiums": 8954.7,
+      "premium_net_premiums": 7249.6,
+      "retention_ratio": 91.2
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9076.7,
+      "premium_gross_direct_premiums": 8989.8,
+      "premium_net_premiums": 8183.6,
+      "retention_ratio": 90.2
+    },
+    {
+      "date": "2017-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15513.4,
+      "premium_gross_direct_premiums": 17233.5,
+      "premium_net_premiums": 14153.9,
+      "retention_ratio": 91.2
+    },
+    {
+      "date": "2017-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 17957.8,
+      "premium_gross_direct_premiums": 17299.8,
+      "premium_net_premiums": 16249.3,
+      "retention_ratio": 90.5
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9130.0,
+      "premium_gross_direct_premiums": 9071.4,
+      "premium_net_premiums": 8310.3,
+      "retention_ratio": 91.0
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8064.4,
+      "premium_gross_direct_premiums": 9038.2,
+      "premium_net_premiums": 7450.6,
+      "retention_ratio": 92.4
+    },
+    {
+      "date": "2018-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15847.6,
+      "premium_gross_direct_premiums": 17551.5,
+      "premium_net_premiums": 14623.1,
+      "retention_ratio": 92.3
+    },
+    {
+      "date": "2018-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 17968.4,
+      "premium_gross_direct_premiums": 17626.8,
+      "premium_net_premiums": 16421.0,
+      "retention_ratio": 91.4
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7861.7,
+      "premium_gross_direct_premiums": 8915.4,
+      "premium_net_premiums": 7360.9,
+      "retention_ratio": 93.6
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9035.8,
+      "premium_gross_direct_premiums": 8964.3,
+      "premium_net_premiums": 8375.2,
+      "retention_ratio": 92.7
+    },
+    {
+      "date": "2019-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 17899.7,
+      "premium_gross_direct_premiums": 17510.7,
+      "premium_net_premiums": 16598.9,
+      "retention_ratio": 92.7
+    },
+    {
+      "date": "2019-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15465.2,
+      "premium_gross_direct_premiums": 17414.1,
+      "premium_net_premiums": 14457.8,
+      "retention_ratio": 93.5
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9236.2,
+      "premium_gross_direct_premiums": 8651.6,
+      "premium_net_premiums": 8515.6,
+      "retention_ratio": 92.2
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7518.5,
+      "premium_gross_direct_premiums": 8597.8,
+      "premium_net_premiums": 6962.0,
+      "retention_ratio": 92.6
+    },
+    {
+      "date": "2020-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 18649.6,
+      "premium_gross_direct_premiums": 17342.1,
+      "premium_net_premiums": 17233.1,
+      "retention_ratio": 92.4
+    },
+    {
+      "date": "2020-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15409.1,
+      "premium_gross_direct_premiums": 17243.5,
+      "premium_net_premiums": 14273.1,
+      "retention_ratio": 92.6
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 10250.9,
+      "premium_gross_direct_premiums": 8951.3,
+      "premium_net_premiums": 9446.1,
+      "retention_ratio": 92.1
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 7837.4,
+      "premium_gross_direct_premiums": 8895.7,
+      "premium_net_premiums": 7142.8,
+      "retention_ratio": 91.1
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 20631.7,
+      "premium_gross_direct_premiums": 17767.2,
+      "premium_net_premiums": 18880.2,
+      "retention_ratio": 91.5
+    },
+    {
+      "date": "2021-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 15683.4,
+      "premium_gross_direct_premiums": 17663.1,
+      "premium_net_premiums": 14287.0,
+      "retention_ratio": 91.1
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 11739.5,
+      "premium_gross_direct_premiums": 9865.8,
+      "premium_net_premiums": 8275.3,
+      "retention_ratio": 70.5
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 8524.2,
+      "premium_gross_direct_premiums": 9808.9,
+      "premium_net_premiums": 7697.2,
+      "retention_ratio": 90.3
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 23524.6,
+      "premium_gross_direct_premiums": 19547.5,
+      "premium_net_premiums": 16797.1,
+      "retention_ratio": 71.4
+    },
+    {
+      "date": "2022-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 17202.9,
+      "premium_gross_direct_premiums": 19428.8,
+      "premium_net_premiums": 15464.8,
+      "retention_ratio": 89.9
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9105.878303,
+      "premium_gross_direct_premiums": 10526.886532,
+      "premium_net_premiums": 7996.895276,
+      "retention_ratio": 87.82124041088231
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 12089.198744,
+      "premium_gross_direct_premiums": 10598.564877,
+      "premium_net_premiums": 8788.227158,
+      "retention_ratio": 72.69486873447003
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 18206.225016,
+      "premium_gross_direct_premiums": 21030.594294,
+      "premium_net_premiums": 16139.85753,
+      "retention_ratio": 88.65021450529127
+    },
+    {
+      "date": "2023-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 23944.875805,
+      "premium_gross_direct_premiums": 21168.914701,
+      "premium_net_premiums": 17663.217388,
+      "retention_ratio": 73.76616831026408
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 9845.619657,
+      "premium_gross_direct_premiums": 11594.493134,
+      "premium_net_premiums": 8446.158686,
+      "retention_ratio": 85.78595335027983
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 12801.197433,
+      "premium_gross_direct_premiums": 11668.777801,
+      "premium_net_premiums": 9208.712238,
+      "retention_ratio": 71.9363347545989
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 19622.565392,
+      "premium_gross_direct_premiums": 22501.781918,
+      "premium_net_premiums": 17046.459182,
+      "retention_ratio": 86.87171550438423
+    },
+    {
+      "date": "2024-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 25043.603628,
+      "premium_gross_direct_premiums": 22641.787087,
+      "premium_net_premiums": 18477.64298,
+      "retention_ratio": 73.7818856042789
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 10402.134529,
+      "premium_gross_direct_premiums": 12086.326769,
+      "premium_net_premiums": 8853.669188,
+      "retention_ratio": 85.11396543966
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 12668.412254,
+      "premium_gross_direct_premiums": 12160.854945,
+      "premium_net_premiums": 9440.324983,
+      "retention_ratio": 74.51861207010575
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 20691.805979,
+      "premium_gross_direct_premiums": 23620.016987,
+      "premium_net_premiums": 17948.500051,
+      "retention_ratio": 86.7420662518092
+    },
+    {
+      "date": "2025-07-01",
+      "frequency": "Semi-annual",
+      "business_within_malaysia": 25443.165125,
+      "premium_gross_direct_premiums": 23761.246346,
+      "premium_net_premiums": 19184.663669,
+      "retention_ratio": 75.40203262741669
+    }
+  ]
+}
