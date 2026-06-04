@@ -4,7 +4,7 @@
     "subcategory": "exchange_rates",
     "dataset": "monthly_exchange_rates",
     "source_table": "m_2_6_exchange_rates_myr",
-    "exported_at": "2026-06-04T04:55:16.970844+00:00",
+    "exported_at": "2026-06-04T07:19:35.152029+00:00",
     "total_rows": 352,
     "date_min": "1997-01-01",
     "date_max": "2026-04-01",

@@ -4,7 +4,7 @@
     "subcategory": "balance_sheets",
     "dataset": "insurance_capital_adequacy_ratio",
     "source_table": "m_4_4_insurance_capital_adequacy",
-    "exported_at": "2026-06-04T04:55:17.291247+00:00",
+    "exported_at": "2026-06-04T07:19:36.285837+00:00",
     "total_rows": 44,
     "date_min": "2009-01-01",
     "date_max": "2025-10-01",

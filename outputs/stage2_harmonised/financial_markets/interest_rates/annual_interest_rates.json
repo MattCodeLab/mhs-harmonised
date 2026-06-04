@@ -4,7 +4,7 @@
     "subcategory": "interest_rates",
     "dataset": "annual_interest_rates",
     "source_table": "s_interest_rates_banking",
-    "exported_at": "2026-06-04T04:55:16.865141+00:00",
+    "exported_at": "2026-06-04T07:19:34.934999+00:00",
     "total_rows": 46,
     "date_min": "1980-01-01",
     "date_max": "2025-01-01",

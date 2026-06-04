@@ -4,7 +4,7 @@
     "subcategory": "derivatives",
     "dataset": "derivatives_transactions_turnover",
     "source_table": "m_2_15_derivatives_turnover",
-    "exported_at": "2026-06-04T04:55:17.174495+00:00",
+    "exported_at": "2026-06-04T07:19:35.850130+00:00",
     "total_rows": 172,
     "date_min": "2012-01-01",
     "date_max": "2026-04-01",

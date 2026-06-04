@@ -4,7 +4,7 @@
     "subcategory": "payments",
     "dataset": "payment_instruments_cheques",
     "source_table": "s_cheques_statistics",
-    "exported_at": "2026-06-04T04:55:16.634979+00:00",
+    "exported_at": "2026-06-04T07:19:34.089884+00:00",
     "total_rows": 299,
     "date_min": "1995-01-01",
     "date_max": "2026-04-01",
@@ -114,9 +114,9 @@
     },
     {
       "date": "2004-01-01",
-      "frequency": "Annual",
-      "no_million": 183.76745799999998,
-      "rm_billion": 1226.8766199000002,
+      "frequency": "Monthly",
+      "no_million": 14.661825,
+      "rm_billion": 105.5610471,
       "no_000_no_000": null,
       "rm_milion_rm_million": null,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": null,
@@ -124,9 +124,9 @@
     },
     {
       "date": "2004-01-01",
-      "frequency": "Monthly",
-      "no_million": 14.661825,
-      "rm_billion": 105.5610471,
+      "frequency": "Annual",
+      "no_million": 183.76745799999998,
+      "rm_billion": 1226.8766199000002,
       "no_000_no_000": null,
       "rm_milion_rm_million": null,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": null,
@@ -634,9 +634,9 @@
     },
     {
       "date": "2008-01-01",
-      "frequency": "Annual",
-      "no_million": 191.700096,
-      "rm_billion": 1604.1080109598702,
+      "frequency": "Monthly",
+      "no_million": 17.744096,
+      "rm_billion": 153.95593894267,
       "no_000_no_000": null,
       "rm_milion_rm_million": null,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": null,
@@ -644,9 +644,9 @@
     },
     {
       "date": "2008-01-01",
-      "frequency": "Monthly",
-      "no_million": 17.744096,
-      "rm_billion": 153.95593894267,
+      "frequency": "Annual",
+      "no_million": 191.700096,
+      "rm_billion": 1604.1080109598702,
       "no_000_no_000": null,
       "rm_milion_rm_million": null,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": null,
@@ -894,16 +894,6 @@
     },
     {
       "date": "2010-01-01",
-      "frequency": "Monthly",
-      "no_million": 16.92252,
-      "rm_billion": 147.258224812,
-      "no_000_no_000": 139.415,
-      "rm_milion_rm_million": 1005.92550933,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 30.369,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 196.16721029
-    },
-    {
-      "date": "2010-01-01",
       "frequency": "Annual",
       "no_million": 206.74544,
       "rm_billion": 1842.18915758258,
@@ -911,6 +901,16 @@
       "rm_milion_rm_million": 13377.19999721,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 366.72799999999995,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3184.0044169099997
+    },
+    {
+      "date": "2010-01-01",
+      "frequency": "Monthly",
+      "no_million": 16.92252,
+      "rm_billion": 147.258224812,
+      "no_000_no_000": 139.415,
+      "rm_milion_rm_million": 1005.92550933,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 30.369,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 196.16721029
     },
     {
       "date": "2010-02-01",
@@ -1284,16 +1284,6 @@
     },
     {
       "date": "2013-01-01",
-      "frequency": "Monthly",
-      "no_million": 17.936277,
-      "rm_billion": 188.59364312071,
-      "no_000_no_000": 151.805,
-      "rm_milion_rm_million": 1424.57744381,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 29.331,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 315.65289575
-    },
-    {
-      "date": "2013-01-01",
       "frequency": "Annual",
       "no_million": 199.57739100000003,
       "rm_billion": 2089.8600716783403,
@@ -1301,6 +1291,16 @@
       "rm_milion_rm_million": 16615.44539349,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 336.41700000000003,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3517.6496290600003
+    },
+    {
+      "date": "2013-01-01",
+      "frequency": "Monthly",
+      "no_million": 17.936277,
+      "rm_billion": 188.59364312071,
+      "no_000_no_000": 151.805,
+      "rm_milion_rm_million": 1424.57744381,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 29.331,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 315.65289575
     },
     {
       "date": "2013-02-01",
@@ -1544,16 +1544,6 @@
     },
     {
       "date": "2015-01-01",
-      "frequency": "Monthly",
-      "no_million": 13.57224,
-      "rm_billion": 159.44307469109,
-      "no_000_no_000": 120.288,
-      "rm_milion_rm_million": 1417.7098156,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 25.874,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 340.12315026
-    },
-    {
-      "date": "2015-01-01",
       "frequency": "Annual",
       "no_million": 148.012196,
       "rm_billion": 1794.93667952142,
@@ -1561,6 +1551,16 @@
       "rm_milion_rm_million": 16325.427331580002,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 292.077,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3660.4661116800003
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Monthly",
+      "no_million": 13.57224,
+      "rm_billion": 159.44307469109,
+      "no_000_no_000": 120.288,
+      "rm_milion_rm_million": 1417.7098156,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 25.874,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 340.12315026
     },
     {
       "date": "2015-02-01",
@@ -1674,16 +1674,6 @@
     },
     {
       "date": "2016-01-01",
-      "frequency": "Monthly",
-      "no_million": 11.578486,
-      "rm_billion": 151.33058794317,
-      "no_000_no_000": 103.887,
-      "rm_milion_rm_million": 1404.75236196,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 20.147,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 320.66267824
-    },
-    {
-      "date": "2016-01-01",
       "frequency": "Annual",
       "no_million": 134.90535899999998,
       "rm_billion": 1664.8696481132797,
@@ -1691,6 +1681,16 @@
       "rm_milion_rm_million": 17902.68765134,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 251.57,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3581.9510759500004
+    },
+    {
+      "date": "2016-01-01",
+      "frequency": "Monthly",
+      "no_million": 11.578486,
+      "rm_billion": 151.33058794317,
+      "no_000_no_000": 103.887,
+      "rm_milion_rm_million": 1404.75236196,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 20.147,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 320.66267824
     },
     {
       "date": "2016-02-01",
@@ -1804,16 +1804,6 @@
     },
     {
       "date": "2017-01-01",
-      "frequency": "Annual",
-      "no_million": 118.27607,
-      "rm_billion": 1612.9116893609298,
-      "no_000_no_000": 1033.3310000000001,
-      "rm_milion_rm_million": 16125.32543585,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 216.56000000000003,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3166.63575572
-    },
-    {
-      "date": "2017-01-01",
       "frequency": "Monthly",
       "no_million": 11.642074,
       "rm_billion": 154.5936116611,
@@ -1821,6 +1811,16 @@
       "rm_milion_rm_million": 1519.47596067,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 19.496,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 251.01065064
+    },
+    {
+      "date": "2017-01-01",
+      "frequency": "Annual",
+      "no_million": 118.27607,
+      "rm_billion": 1612.9116893609298,
+      "no_000_no_000": 1033.3310000000001,
+      "rm_milion_rm_million": 16125.32543585,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 216.56000000000003,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3166.63575572
     },
     {
       "date": "2017-02-01",
@@ -2064,16 +2064,6 @@
     },
     {
       "date": "2019-01-01",
-      "frequency": "Monthly",
-      "no_million": 8.683212,
-      "rm_billion": 135.030863104,
-      "no_000_no_000": 77.719,
-      "rm_milion_rm_million": 1409.42581857,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 14.551,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 403.42024092
-    },
-    {
-      "date": "2019-01-01",
       "frequency": "Annual",
       "no_million": 84.35732099999998,
       "rm_billion": 1267.37244252232,
@@ -2081,6 +2071,16 @@
       "rm_milion_rm_million": 17329.022301689998,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 148.919,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 3241.67085682
+    },
+    {
+      "date": "2019-01-01",
+      "frequency": "Monthly",
+      "no_million": 8.683212,
+      "rm_billion": 135.030863104,
+      "no_000_no_000": 77.719,
+      "rm_milion_rm_million": 1409.42581857,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 14.551,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 403.42024092
     },
     {
       "date": "2019-02-01",
@@ -2194,16 +2194,6 @@
     },
     {
       "date": "2020-01-01",
-      "frequency": "Monthly",
-      "no_million": 6.785114,
-      "rm_billion": 107.91058709407001,
-      "no_000_no_000": 62.66,
-      "rm_milion_rm_million": 1319.66733549,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 11.534,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 220.65241569
-    },
-    {
-      "date": "2020-01-01",
       "frequency": "Annual",
       "no_million": 59.85246899999999,
       "rm_billion": 980.05753217093,
@@ -2211,6 +2201,16 @@
       "rm_milion_rm_million": 11591.56482303,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 88.058,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 2238.52642293
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Monthly",
+      "no_million": 6.785114,
+      "rm_billion": 107.91058709407001,
+      "no_000_no_000": 62.66,
+      "rm_milion_rm_million": 1319.66733549,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 11.534,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 220.65241569
     },
     {
       "date": "2020-02-01",
@@ -2324,16 +2324,6 @@
     },
     {
       "date": "2021-01-01",
-      "frequency": "Annual",
-      "no_million": 49.470621,
-      "rm_billion": 927.67683897137,
-      "no_000_no_000": 404.26899999999995,
-      "rm_milion_rm_million": 9784.18426387,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 59.22200000000001,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 1621.9198316900001
-    },
-    {
-      "date": "2021-01-01",
       "frequency": "Monthly",
       "no_million": 4.401964,
       "rm_billion": 80.28823961038,
@@ -2341,6 +2331,16 @@
       "rm_milion_rm_million": 950.01770478,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 5.725,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 119.83433088
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Annual",
+      "no_million": 49.470621,
+      "rm_billion": 927.67683897137,
+      "no_000_no_000": 404.26899999999995,
+      "rm_milion_rm_million": 9784.18426387,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 59.22200000000001,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 1621.9198316900001
     },
     {
       "date": "2021-02-01",
@@ -2454,16 +2454,6 @@
     },
     {
       "date": "2022-01-01",
-      "frequency": "Annual",
-      "no_million": 46.144788999999996,
-      "rm_billion": 940.96364497019,
-      "no_000_no_000": 412.791,
-      "rm_milion_rm_million": 11011.655725139999,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 67.426,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 1817.1507422999998
-    },
-    {
-      "date": "2022-01-01",
       "frequency": "Monthly",
       "no_million": 4.480407,
       "rm_billion": 88.56269205955,
@@ -2471,6 +2461,16 @@
       "rm_milion_rm_million": 946.63969609,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 5.097,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 164.87258763
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Annual",
+      "no_million": 46.144788999999996,
+      "rm_billion": 940.96364497019,
+      "no_000_no_000": 412.791,
+      "rm_milion_rm_million": 11011.655725139999,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 67.426,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 1817.1507422999998
     },
     {
       "date": "2022-02-01",
@@ -2584,16 +2584,6 @@
     },
     {
       "date": "2023-01-01",
-      "frequency": "Monthly",
-      "no_million": 3.82956,
-      "rm_billion": 79.71055692101,
-      "no_000_no_000": 37.73,
-      "rm_milion_rm_million": 936.53430185,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 6.065,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 138.59528693000001
-    },
-    {
-      "date": "2023-01-01",
       "frequency": "Annual",
       "no_million": 40.850353,
       "rm_billion": 879.4928632456101,
@@ -2601,6 +2591,16 @@
       "rm_milion_rm_million": 10393.847156110001,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 69.828,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 1811.7068657599998
+    },
+    {
+      "date": "2023-01-01",
+      "frequency": "Monthly",
+      "no_million": 3.82956,
+      "rm_billion": 79.71055692101,
+      "no_000_no_000": 37.73,
+      "rm_milion_rm_million": 936.53430185,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 6.065,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 138.59528693000001
     },
     {
       "date": "2023-02-01",
@@ -2844,16 +2844,6 @@
     },
     {
       "date": "2025-01-01",
-      "frequency": "Monthly",
-      "no_million": 3.310464,
-      "rm_billion": 82.32829574635001,
-      "no_000_no_000": 36.389,
-      "rm_milion_rm_million": 1118.4900618499998,
-      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 5.318,
-      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 150.34665133000001
-    },
-    {
-      "date": "2025-01-01",
       "frequency": "Annual",
       "no_million": 31.423387000000005,
       "rm_billion": 802.3643723754899,
@@ -2861,6 +2851,16 @@
       "rm_milion_rm_million": 12644.870711630001,
       "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 56.016999999999996,
       "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 1863.76169265
+    },
+    {
+      "date": "2025-01-01",
+      "frequency": "Monthly",
+      "no_million": 3.310464,
+      "rm_billion": 82.32829574635001,
+      "no_000_no_000": 36.389,
+      "rm_milion_rm_million": 1118.4900618499998,
+      "of_which_returned_cheques_due_to_insufficient_funds_no_000_no_000": 5.318,
+      "of_which_returned_cheques_due_to_insufficient_funds_rm_milion_rm_million": 150.34665133000001
     },
     {
       "date": "2025-02-01",

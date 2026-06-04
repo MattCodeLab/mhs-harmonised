@@ -6820,7 +6820,7 @@ RENAME: dict[str, dict[str, str]] = {
     },
     # Banking System: Loans by MFRS 9 Stages and Provisions
     "1.21": {
-        "industry": "industry",
+        "industry": "bank",
         "banking_system_total_loan_financing_by_malaysian_financial_reporting_standards_9_mfrs_9_stages_and_total_provisions_rm_million_total_loan_financing_jumlah_total": "total_loan_financing",
         "12_months_expected_credit_losses_stage_1": "stage_1_ecl",
         "lifetime_expected_credit_losses_not_credit_impaired_stage_2": "stage_2_ecl_not_impaired",
@@ -6831,7 +6831,7 @@ RENAME: dict[str, dict[str, str]] = {
     },
     # Islamic Banking: Financing by MFRS 9 Stages and Provisions
     "1.21.1": {
-        "industry": "industry",
+        "industry": "bank",
         "islamic_banking_system_total_financing_by_mfrs_9_stages_and_total_provisions_rm_million_total_financing_jumlah_total": "total_financing",
         "12_months_expected_credit_losses_stage_1": "stage_1_ecl",
         "lifetime_expected_credit_losses_not_credit_impaired_stage_2": "stage_2_ecl_not_impaired",
@@ -8153,12 +8153,12 @@ RENAME: dict[str, dict[str, str]] = {
     },
     # Financial Institution: SME Loan/Financing by Loan Size
     "1.36": {
-        "loan_size": "loan_size",
-        "rm": "rm",
-        "rm1_million": "rm1_million",
-        "rm1_juta_hingga_rm5_juta_rm5_million": "rm1_rm5_million",
-        "rm5_juta_rm5_million": "rm5_million",
-        "total_outstanding_loan_financing": "total_outstanding_loan_financing",
+        "loan_size": "bank",
+        "rm": "less_than_500k",
+        "rm1_million": "500k_to_1m",
+        "rm1_juta_hingga_rm5_juta_rm5_million": "1m_to_5m",
+        "rm5_juta_rm5_million": "more_than_5m",
+        "total_outstanding_loan_financing": "total_outstanding",
     },
     # BNM: Statement of Assets
     "1.4": {
@@ -8832,18 +8832,18 @@ RENAME: dict[str, dict[str, str]] = {
     },
     # Credit to the Private Non-Financial Sector
     "2.18": {
-        "outstanding_rm_million": "outstanding_rm_million",
-        "of_which_household_a": "of_which_household_a",
-        "of_which_business_b": "of_which_business_b",
-        "credit_to_the_private_non_financial_sector_outstanding_corporate_bonds_issued_by_the_private_non_financial_sector_c": "outstanding_corporate_bonds_issued_by_private_non_financial_sector",
-        "total_credit_to_the_private_non_financial_sector_total_a_b_c": "total_credit_to_private_non_financial_sector",
-        "of_which_credit_to_businesses_b_c": "credit_to_businesses",
-        "annual_growth": "annual_growth",
-        "outstanding_loans_to_the_private_non_financial_sector_of_which_household_a": "outstanding_loans_to_the_private_non_financial_sector_of_which_household_a",
-        "outstanding_loans_to_the_private_non_financial_sector_of_which_business_b": "outstanding_loans_to_the_private_non_financial_sector_of_which_business_b",
-        "kredit_kepada_sektor_swasta_bukan_kewangan_credit_to_the_private_non_financial_sector_outstanding_corporate_bonds_issued_by_the_private_non_financial_sector_c": "outstanding_corporate_bonds_issued_by_private_non_financial_sector",
-        "credit_to_the_private_non_financial_sector_total_credit_to_the_private_non_financial_sector_total_a_b_c": "total_credit_to_private_non_financial_sector",
-        "total_credit_to_the_private_non_financial_sector_of_which_credit_to_businesses_b_c": "credit_to_businesses",
+        "outstanding_rm_million": "outstanding_total_abs",
+        "of_which_household_a": "outstanding_household_abs",
+        "of_which_business_b": "outstanding_business_abs",
+        "credit_to_the_private_non_financial_sector_outstanding_corporate_bonds_issued_by_the_private_non_financial_sector_c": "outstanding_private_non_financial_abs",
+        "total_credit_to_the_private_non_financial_sector_total_a_b_c": "credit_total_abs",
+        "of_which_credit_to_businesses_b_c": "credit_business_abs",
+        "annual_growth": "outstanding_total_yoy",
+        "outstanding_loans_to_the_private_non_financial_sector_of_which_household_a": "outstanding_household_yoy",
+        "outstanding_loans_to_the_private_non_financial_sector_of_which_business_b": "outstanding_business_yoy",
+        "kredit_kepada_sektor_swasta_bukan_kewangan_credit_to_the_private_non_financial_sector_outstanding_corporate_bonds_issued_by_the_private_non_financial_sector_c": "outstanding_private_non_financial_yoy",
+        "credit_to_the_private_non_financial_sector_total_credit_to_the_private_non_financial_sector_total_a_b_c": "credit_total_yoy",
+        "total_credit_to_the_private_non_financial_sector_of_which_credit_to_businesses_b_c": "credit_business_yoy",
     },
     # Net Financing through Banking, DFIs and Corporate Bonds (prev)
     "2.18a": {

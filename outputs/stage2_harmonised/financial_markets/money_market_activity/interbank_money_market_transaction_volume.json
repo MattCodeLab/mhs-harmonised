@@ -4,7 +4,7 @@
     "subcategory": "money_market_activity",
     "dataset": "interbank_money_market_transaction_volume",
     "source_table": "m_2_7_interbank_money_market_volume",
-    "exported_at": "2026-06-04T04:55:17.003596+00:00",
+    "exported_at": "2026-06-04T07:19:35.266031+00:00",
     "total_rows": 407,
     "date_min": "1995-01-01",
     "date_max": "2026-04-01",

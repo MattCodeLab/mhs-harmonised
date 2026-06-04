@@ -4,7 +4,7 @@
     "subcategory": "balance_sheets",
     "dataset": "assets_capital_and_liabilities_banking_system",
     "source_table": "s_banking_capital_liabilities",
-    "exported_at": "2026-06-04T04:55:16.221509+00:00",
+    "exported_at": "2026-06-04T07:19:32.776413+00:00",
     "total_rows": 232,
     "date_min": "2007-01-01",
     "date_max": "2026-04-01",

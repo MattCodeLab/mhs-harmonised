@@ -4,7 +4,7 @@
     "subcategory": "liquidity_and_reserves",
     "dataset": "reserve_money",
     "source_table": "m_1_1_reserve_money",
-    "exported_at": "2026-06-04T04:55:16.116949+00:00",
+    "exported_at": "2026-06-04T07:19:32.372436+00:00",
     "total_rows": 363,
     "date_min": "1975-01-01",
     "date_max": "2026-04-01",

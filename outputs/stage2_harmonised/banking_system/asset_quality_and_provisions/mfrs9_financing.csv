@@ -1,4 +1,4 @@
-date,frequency,industry,total_loan_financing,stage_1_ecl,stage_2_ecl_not_impaired,stage_3_ecl_impaired,total_provisions,gross_impaired_ratio,net_impaired_ratio
+date,frequency,bank,total_loan_financing,stage_1_ecl,stage_2_ecl_not_impaired,stage_3_ecl_impaired,total_provisions,gross_impaired_ratio,net_impaired_ratio
 2021-07-01,Monthly,Bank-bank Perdagangan / Commercial Banks,1175989.4995178294,1027315.9475204195,125754.46396227003,22919.088035139976,22426.254688,1.9489194456699734,1.2836261195573433
 2021-07-01,Monthly,Bank-bank Islam / Islamic Banks,680175.7650235601,606797.0749537502,62792.93355185997,10585.756517949994,11980.13106,1.5563266235431545,0.9857609846093592
 2021-07-01,Monthly,Bank-bank Pelaburan / Investment/Merchant Banks,7990.167233989997,7418.522772049997,297.96289079,273.68157114999997,134.497662,3.425229574492065,2.248920729015409

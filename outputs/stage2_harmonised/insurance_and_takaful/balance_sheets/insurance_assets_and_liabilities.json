@@ -4,7 +4,7 @@
     "subcategory": "balance_sheets",
     "dataset": "insurance_assets_and_liabilities",
     "source_table": "m_4_2_insurance_assets_liabilities",
-    "exported_at": "2026-06-04T04:55:17.246116+00:00",
+    "exported_at": "2026-06-04T07:19:36.114907+00:00",
     "total_rows": 306,
     "date_min": "2009-01-01",
     "date_max": "2025-10-01",

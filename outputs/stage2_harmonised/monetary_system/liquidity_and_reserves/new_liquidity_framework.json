@@ -4,7 +4,7 @@
     "subcategory": "liquidity_and_reserves",
     "dataset": "new_liquidity_framework",
     "source_table": "m_1_28_new_liquidity_framework",
-    "exported_at": "2026-06-04T04:55:16.177413+00:00",
+    "exported_at": "2026-06-04T07:19:32.609441+00:00",
     "total_rows": 101,
     "date_min": "2007-01-01",
     "date_max": "2015-05-01",

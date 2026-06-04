@@ -4,7 +4,7 @@
     "subcategory": "currency_in_circulation",
     "dataset": "annual_currency_in_circulation_by_denomination",
     "source_table": "m_1_2_currency_circulation_by_denom",
-    "exported_at": "2026-06-04T04:55:16.073586+00:00",
+    "exported_at": "2026-06-04T07:19:32.202744+00:00",
     "total_rows": 51,
     "date_min": "1975-01-01",
     "date_max": "2025-01-01",

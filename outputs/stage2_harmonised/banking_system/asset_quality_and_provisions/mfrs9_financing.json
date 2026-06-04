@@ -4,14 +4,14 @@
     "subcategory": "asset_quality_and_provisions",
     "dataset": "mfrs9_financing",
     "source_table": "m_1_21_loans_mfrs9_stages_provisions",
-    "exported_at": "2026-06-04T04:55:16.784569+00:00",
+    "exported_at": "2026-06-04T07:19:34.652088+00:00",
     "total_rows": 232,
     "date_min": "2021-07-01",
     "date_max": "2026-04-01",
     "columns": [
       "date",
       "frequency",
-      "industry",
+      "bank",
       "total_loan_financing",
       "stage_1_ecl",
       "stage_2_ecl_not_impaired",
@@ -27,7 +27,7 @@
     {
       "date": "2021-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1175989.4995178294,
       "stage_1_ecl": 1027315.9475204195,
       "stage_2_ecl_not_impaired": 125754.46396227003,
@@ -39,7 +39,7 @@
     {
       "date": "2021-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 680175.7650235601,
       "stage_1_ecl": 606797.0749537502,
       "stage_2_ecl_not_impaired": 62792.93355185997,
@@ -51,7 +51,7 @@
     {
       "date": "2021-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7990.167233989997,
       "stage_1_ecl": 7418.522772049997,
       "stage_2_ecl_not_impaired": 297.96289079,
@@ -63,7 +63,7 @@
     {
       "date": "2021-07-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1864155.4317753797,
       "stage_1_ecl": 1641531.5452462197,
       "stage_2_ecl_not_impaired": 188845.36040491998,
@@ -75,7 +75,7 @@
     {
       "date": "2021-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1173124.9285792299,
       "stage_1_ecl": 1015526.1697672802,
       "stage_2_ecl_not_impaired": 134611.29950564977,
@@ -87,7 +87,7 @@
     {
       "date": "2021-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 680472.6508640404,
       "stage_1_ecl": 604633.2356030304,
       "stage_2_ecl_not_impaired": 65149.09009286992,
@@ -99,7 +99,7 @@
     {
       "date": "2021-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7935.47452125,
       "stage_1_ecl": 7371.66071102,
       "stage_2_ecl_not_impaired": 298.9571485,
@@ -111,7 +111,7 @@
     {
       "date": "2021-08-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1861533.0539645203,
       "stage_1_ecl": 1627531.0660813306,
       "stage_2_ecl_not_impaired": 200059.34674701968,
@@ -123,7 +123,7 @@
     {
       "date": "2021-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1183115.2149911406,
       "stage_1_ecl": 1020224.4884479205,
       "stage_2_ecl_not_impaired": 140242.03894356993,
@@ -135,7 +135,7 @@
     {
       "date": "2021-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 687724.2016501506,
       "stage_1_ecl": 611499.7994283605,
       "stage_2_ecl_not_impaired": 66649.39460889003,
@@ -147,7 +147,7 @@
     {
       "date": "2021-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7943.688742519997,
       "stage_1_ecl": 7342.456565859996,
       "stage_2_ecl_not_impaired": 336.07745269000014,
@@ -159,7 +159,7 @@
     {
       "date": "2021-09-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1878783.1053838108,
       "stage_1_ecl": 1639066.744442141,
       "stage_2_ecl_not_impaired": 207227.51100514995,
@@ -171,7 +171,7 @@
     {
       "date": "2021-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1184798.1681529284,
       "stage_1_ecl": 1019771.3554544083,
       "stage_2_ecl_not_impaired": 142870.28240262007,
@@ -183,7 +183,7 @@
     {
       "date": "2021-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 696030.1249805599,
       "stage_1_ecl": 619860.10648446,
       "stage_2_ecl_not_impaired": 66747.07703988999,
@@ -195,7 +195,7 @@
     {
       "date": "2021-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7948.787307039999,
       "stage_1_ecl": 7416.215850929999,
       "stage_2_ecl_not_impaired": 263.05956983000004,
@@ -207,7 +207,7 @@
     {
       "date": "2021-10-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1888777.0804405282,
       "stage_1_ecl": 1647047.6777897982,
       "stage_2_ecl_not_impaired": 209880.41901234005,
@@ -219,7 +219,7 @@
     {
       "date": "2021-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1191483.5008999486,
       "stage_1_ecl": 1028015.5625299086,
       "stage_2_ecl_not_impaired": 141596.39587053997,
@@ -231,7 +231,7 @@
     {
       "date": "2021-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 705623.86263854,
       "stage_1_ecl": 632041.9446238499,
       "stage_2_ecl_not_impaired": 64570.55290585005,
@@ -243,7 +243,7 @@
     {
       "date": "2021-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8129.9908733699995,
       "stage_1_ecl": 7471.33493338,
       "stage_2_ecl_not_impaired": 390.44478412000007,
@@ -255,7 +255,7 @@
     {
       "date": "2021-11-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1905237.3544118586,
       "stage_1_ecl": 1667528.8420871384,
       "stage_2_ecl_not_impaired": 206557.39356051,
@@ -267,7 +267,7 @@
     {
       "date": "2021-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1193302.7888873,
       "stage_1_ecl": 1027605.9945351302,
       "stage_2_ecl_not_impaired": 143446.27068416984,
@@ -279,7 +279,7 @@
     {
       "date": "2021-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 714605.63152086,
       "stage_1_ecl": 638949.9214186,
       "stage_2_ecl_not_impaired": 66088.41558166004,
@@ -291,7 +291,7 @@
     {
       "date": "2021-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7523.096804069999,
       "stage_1_ecl": 6902.898026229999,
       "stage_2_ecl_not_impaired": 356.3139460300001,
@@ -303,7 +303,7 @@
     {
       "date": "2021-12-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1915431.51721223,
       "stage_1_ecl": 1673458.8139799603,
       "stage_2_ecl_not_impaired": 209891.00021185988,
@@ -315,7 +315,7 @@
     {
       "date": "2022-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1196562.9394610587,
       "stage_1_ecl": 1033242.1063442588,
       "stage_2_ecl_not_impaired": 140990.61024047004,
@@ -327,7 +327,7 @@
     {
       "date": "2022-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 721691.9570019707,
       "stage_1_ecl": 648652.2581267208,
       "stage_2_ecl_not_impaired": 63342.04383782997,
@@ -339,7 +339,7 @@
     {
       "date": "2022-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7512.2596703699965,
       "stage_1_ecl": 6856.512212029997,
       "stage_2_ecl_not_impaired": 390.94753419000006,
@@ -351,7 +351,7 @@
     {
       "date": "2022-01-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1925767.1561333993,
       "stage_1_ecl": 1688750.8766830096,
       "stage_2_ecl_not_impaired": 204723.60161249,
@@ -363,7 +363,7 @@
     {
       "date": "2022-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1197442.2880175489,
       "stage_1_ecl": 1033686.8412786887,
       "stage_2_ecl_not_impaired": 141215.32383638006,
@@ -375,7 +375,7 @@
     {
       "date": "2022-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 723837.9582764402,
       "stage_1_ecl": 648852.7648788601,
       "stage_2_ecl_not_impaired": 65163.81624661002,
@@ -387,7 +387,7 @@
     {
       "date": "2022-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7600.617795679996,
       "stage_1_ecl": 6973.839814219996,
       "stage_2_ecl_not_impaired": 362.9069661199999,
@@ -399,7 +399,7 @@
     {
       "date": "2022-02-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1928880.864089669,
       "stage_1_ecl": 1689513.4459717688,
       "stage_2_ecl_not_impaired": 206742.0470491101,
@@ -411,7 +411,7 @@
     {
       "date": "2022-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1202205.7545447191,
       "stage_1_ecl": 1036821.312495959,
       "stage_2_ecl_not_impaired": 142880.31267181007,
@@ -423,7 +423,7 @@
     {
       "date": "2022-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 730751.2645427895,
       "stage_1_ecl": 654900.1247812395,
       "stage_2_ecl_not_impaired": 65590.14225283,
@@ -435,7 +435,7 @@
     {
       "date": "2022-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7463.249843280004,
       "stage_1_ecl": 6837.583231130005,
       "stage_2_ecl_not_impaired": 305.66535995,
@@ -447,7 +447,7 @@
     {
       "date": "2022-03-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1940420.2689307886,
       "stage_1_ecl": 1698559.0205083285,
       "stage_2_ecl_not_impaired": 208776.12028459008,
@@ -459,7 +459,7 @@
     {
       "date": "2022-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1205400.5010023897,
       "stage_1_ecl": 1043586.6489665397,
       "stage_2_ecl_not_impaired": 139074.3528509601,
@@ -471,7 +471,7 @@
     {
       "date": "2022-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 735542.50172344,
       "stage_1_ecl": 661789.0952789601,
       "stage_2_ecl_not_impaired": 63283.77344280999,
@@ -483,7 +483,7 @@
     {
       "date": "2022-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7394.240504879998,
       "stage_1_ecl": 6781.373464139998,
       "stage_2_ecl_not_impaired": 292.27308228000004,
@@ -495,7 +495,7 @@
     {
       "date": "2022-04-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1948337.24323071,
       "stage_1_ecl": 1712157.11770964,
       "stage_2_ecl_not_impaired": 202650.3993760501,
@@ -507,7 +507,7 @@
     {
       "date": "2022-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1207011.2840549776,
       "stage_1_ecl": 1046838.6977534177,
       "stage_2_ecl_not_impaired": 136873.88523711998,
@@ -519,7 +519,7 @@
     {
       "date": "2022-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 739659.7164416894,
       "stage_1_ecl": 665923.9726218095,
       "stage_2_ecl_not_impaired": 62409.27778811,
@@ -531,7 +531,7 @@
     {
       "date": "2022-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7425.553516210002,
       "stage_1_ecl": 6765.222287880002,
       "stage_2_ecl_not_impaired": 342.22712958,
@@ -543,7 +543,7 @@
     {
       "date": "2022-05-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1954096.554012877,
       "stage_1_ecl": 1719527.892663107,
       "stage_2_ecl_not_impaired": 199625.39015480995,
@@ -555,7 +555,7 @@
     {
       "date": "2022-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1211181.4594227585,
       "stage_1_ecl": 1051927.8729090884,
       "stage_2_ecl_not_impaired": 135772.43324736005,
@@ -567,7 +567,7 @@
     {
       "date": "2022-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 748379.4937833402,
       "stage_1_ecl": 674248.9829882702,
       "stage_2_ecl_not_impaired": 62311.82514428998,
@@ -579,7 +579,7 @@
     {
       "date": "2022-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7440.465641939998,
       "stage_1_ecl": 6786.329622949997,
       "stage_2_ecl_not_impaired": 342.98274819000005,
@@ -591,7 +591,7 @@
     {
       "date": "2022-06-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1967001.4188480387,
       "stage_1_ecl": 1732963.1855203086,
       "stage_2_ecl_not_impaired": 198427.24113984004,
@@ -603,7 +603,7 @@
     {
       "date": "2022-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1212744.0802881855,
       "stage_1_ecl": 1057845.9996319257,
       "stage_2_ecl_not_impaired": 131032.58018759998,
@@ -615,7 +615,7 @@
     {
       "date": "2022-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 753646.6640511798,
       "stage_1_ecl": 679177.1209416798,
       "stage_2_ecl_not_impaired": 62206.77263841997,
@@ -627,7 +627,7 @@
     {
       "date": "2022-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7398.232892079998,
       "stage_1_ecl": 6762.688871659999,
       "stage_2_ecl_not_impaired": 324.37929834000005,
@@ -639,7 +639,7 @@
     {
       "date": "2022-07-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1973788.9772314455,
       "stage_1_ecl": 1743785.8094452654,
       "stage_2_ecl_not_impaired": 193563.73212435996,
@@ -651,7 +651,7 @@
     {
       "date": "2022-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1215007.2095230876,
       "stage_1_ecl": 1061630.7094491078,
       "stage_2_ecl_not_impaired": 129568.5517593299,
@@ -663,7 +663,7 @@
     {
       "date": "2022-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 765223.8713471402,
       "stage_1_ecl": 690495.8699830001,
       "stage_2_ecl_not_impaired": 62314.043932750086,
@@ -675,7 +675,7 @@
     {
       "date": "2022-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7407.418864089997,
       "stage_1_ecl": 6792.704442379997,
       "stage_2_ecl_not_impaired": 306.23741521,
@@ -687,7 +687,7 @@
     {
       "date": "2022-08-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1987638.499734318,
       "stage_1_ecl": 1758919.283874488,
       "stage_2_ecl_not_impaired": 192188.83310728997,
@@ -699,7 +699,7 @@
     {
       "date": "2022-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1218791.609997698,
       "stage_1_ecl": 1065277.0203751079,
       "stage_2_ecl_not_impaired": 129608.07027469006,
@@ -711,7 +711,7 @@
     {
       "date": "2022-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 772737.43391685,
       "stage_1_ecl": 698338.1547818598,
       "stage_2_ecl_not_impaired": 62165.78866154009,
@@ -723,7 +723,7 @@
     {
       "date": "2022-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7558.862202370002,
       "stage_1_ecl": 6959.450792650002,
       "stage_2_ecl_not_impaired": 347.2688690199999,
@@ -735,7 +735,7 @@
     {
       "date": "2022-09-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 1999087.906116918,
       "stage_1_ecl": 1770574.6259496177,
       "stage_2_ecl_not_impaired": 192121.12780525014,
@@ -747,7 +747,7 @@
     {
       "date": "2022-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1224265.6195744264,
       "stage_1_ecl": 1076375.0635246765,
       "stage_2_ecl_not_impaired": 124030.68164164998,
@@ -759,7 +759,7 @@
     {
       "date": "2022-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 779699.1385316702,
       "stage_1_ecl": 707300.7727156802,
       "stage_2_ecl_not_impaired": 59892.068982590004,
@@ -771,7 +771,7 @@
     {
       "date": "2022-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7827.857098820001,
       "stage_1_ecl": 7248.12825415,
       "stage_2_ecl_not_impaired": 275.93207041,
@@ -783,7 +783,7 @@
     {
       "date": "2022-10-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2011792.6152049168,
       "stage_1_ecl": 1790923.9644945068,
       "stage_2_ecl_not_impaired": 184198.68269464996,
@@ -795,7 +795,7 @@
     {
       "date": "2022-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1215142.370961469,
       "stage_1_ecl": 1071387.5345740488,
       "stage_2_ecl_not_impaired": 119864.24995109992,
@@ -807,7 +807,7 @@
     {
       "date": "2022-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 787099.8488476197,
       "stage_1_ecl": 713689.9814131696,
       "stage_2_ecl_not_impaired": 60825.41973352004,
@@ -819,7 +819,7 @@
     {
       "date": "2022-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 7954.030052370002,
       "stage_1_ecl": 7383.357843530001,
       "stage_2_ecl_not_impaired": 269.34128364,
@@ -831,7 +831,7 @@
     {
       "date": "2022-11-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2010196.2498614583,
       "stage_1_ecl": 1792460.8738307483,
       "stage_2_ecl_not_impaired": 180959.01096825997,
@@ -843,7 +843,7 @@
     {
       "date": "2022-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1216058.8032289213,
       "stage_1_ecl": 1077352.9459445411,
       "stage_2_ecl_not_impaired": 116644.55919484,
@@ -855,7 +855,7 @@
     {
       "date": "2022-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 800057.3252528398,
       "stage_1_ecl": 727044.5729037299,
       "stage_2_ecl_not_impaired": 60529.58078032998,
@@ -867,7 +867,7 @@
     {
       "date": "2022-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8213.495518089996,
       "stage_1_ecl": 7661.774570479996,
       "stage_2_ecl_not_impaired": 300.962871,
@@ -879,7 +879,7 @@
     {
       "date": "2022-12-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2024329.623999851,
       "stage_1_ecl": 1812059.293418751,
       "stage_2_ecl_not_impaired": 177475.10284616996,
@@ -891,7 +891,7 @@
     {
       "date": "2023-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1212285.8463593987,
       "stage_1_ecl": 1074989.9302527187,
       "stage_2_ecl_not_impaired": 115223.46464703011,
@@ -903,7 +903,7 @@
     {
       "date": "2023-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 800564.1217499404,
       "stage_1_ecl": 726422.0087075505,
       "stage_2_ecl_not_impaired": 61525.82625295998,
@@ -915,7 +915,7 @@
     {
       "date": "2023-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8291.30833895,
       "stage_1_ecl": 7749.398363460001,
       "stage_2_ecl_not_impaired": 291.63595031999995,
@@ -927,7 +927,7 @@
     {
       "date": "2023-01-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2021141.2764482892,
       "stage_1_ecl": 1809161.3373237292,
       "stage_2_ecl_not_impaired": 177040.9268503101,
@@ -939,7 +939,7 @@
     {
       "date": "2023-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1215624.0839943488,
       "stage_1_ecl": 1092816.4778439887,
       "stage_2_ecl_not_impaired": 100723.28169354996,
@@ -951,7 +951,7 @@
     {
       "date": "2023-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 804411.7218198403,
       "stage_1_ecl": 736508.7661366102,
       "stage_2_ecl_not_impaired": 55234.85906598003,
@@ -963,7 +963,7 @@
     {
       "date": "2023-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8370.994491760002,
       "stage_1_ecl": 7691.773916810002,
       "stage_2_ecl_not_impaired": 429.28189659000003,
@@ -975,7 +975,7 @@
     {
       "date": "2023-02-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2028406.800305949,
       "stage_1_ecl": 1837017.017897409,
       "stage_2_ecl_not_impaired": 156387.42265611998,
@@ -987,7 +987,7 @@
     {
       "date": "2023-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1219383.3272094305,
       "stage_1_ecl": 1097161.6618370104,
       "stage_2_ecl_not_impaired": 100408.0402672199,
@@ -999,7 +999,7 @@
     {
       "date": "2023-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 809807.7622554192,
       "stage_1_ecl": 742138.0837087592,
       "stage_2_ecl_not_impaired": 54942.56955763001,
@@ -1011,7 +1011,7 @@
     {
       "date": "2023-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8456.860282079997,
       "stage_1_ecl": 7829.0882654399975,
       "stage_2_ecl_not_impaired": 377.81114097,
@@ -1023,7 +1023,7 @@
     {
       "date": "2023-03-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2037647.9497469293,
       "stage_1_ecl": 1847128.8338112095,
       "stage_2_ecl_not_impaired": 155728.4209658199,
@@ -1035,7 +1035,7 @@
     {
       "date": "2023-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1217226.1210173697,
       "stage_1_ecl": 1096502.8083772496,
       "stage_2_ecl_not_impaired": 98802.51117965006,
@@ -1047,7 +1047,7 @@
     {
       "date": "2023-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 812842.2338799797,
       "stage_1_ecl": 744298.2981365396,
       "stage_2_ecl_not_impaired": 55324.06507143001,
@@ -1059,7 +1059,7 @@
     {
       "date": "2023-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8479.304843150001,
       "stage_1_ecl": 7856.426182480001,
       "stage_2_ecl_not_impaired": 373.19435737,
@@ -1071,7 +1071,7 @@
     {
       "date": "2023-04-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2038547.6597404995,
       "stage_1_ecl": 1848657.5326962695,
       "stage_2_ecl_not_impaired": 154499.77060845008,
@@ -1083,7 +1083,7 @@
     {
       "date": "2023-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1223121.4321222287,
       "stage_1_ecl": 1099764.5404184388,
       "stage_2_ecl_not_impaired": 101200.09379578996,
@@ -1095,7 +1095,7 @@
     {
       "date": "2023-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 817269.703395241,
       "stage_1_ecl": 748348.0027654911,
       "stage_2_ecl_not_impaired": 55399.98424968997,
@@ -1107,7 +1107,7 @@
     {
       "date": "2023-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8506.258111560004,
       "stage_1_ecl": 7986.254713750004,
       "stage_2_ecl_not_impaired": 265.0258576499999,
@@ -1119,7 +1119,7 @@
     {
       "date": "2023-05-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2048897.3936290299,
       "stage_1_ecl": 1856098.79789768,
       "stage_2_ecl_not_impaired": 156865.10390312993,
@@ -1131,7 +1131,7 @@
     {
       "date": "2023-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1225971.0949771206,
       "stage_1_ecl": 1104137.0699723007,
       "stage_2_ecl_not_impaired": 99523.85719155996,
@@ -1143,7 +1143,7 @@
     {
       "date": "2023-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 819009.745765351,
       "stage_1_ecl": 752686.033040171,
       "stage_2_ecl_not_impaired": 53689.33029776002,
@@ -1155,7 +1155,7 @@
     {
       "date": "2023-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8682.48912171,
       "stage_1_ecl": 8184.4167698,
       "stage_2_ecl_not_impaired": 250.52873544999994,
@@ -1167,7 +1167,7 @@
     {
       "date": "2023-06-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2053663.3298641818,
       "stage_1_ecl": 1865007.5197822717,
       "stage_2_ecl_not_impaired": 153463.71622476997,
@@ -1179,7 +1179,7 @@
     {
       "date": "2023-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1224059.9713825402,
       "stage_1_ecl": 1098359.1370519903,
       "stage_2_ecl_not_impaired": 102681.54603473998,
@@ -1191,7 +1191,7 @@
     {
       "date": "2023-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 823504.7722724603,
       "stage_1_ecl": 754210.7128336004,
       "stage_2_ecl_not_impaired": 56345.78066359996,
@@ -1203,7 +1203,7 @@
     {
       "date": "2023-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8792.739019770002,
       "stage_1_ecl": 8182.311860980002,
       "stage_2_ecl_not_impaired": 332.6451028100001,
@@ -1215,7 +1215,7 @@
     {
       "date": "2023-07-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2056357.4826747705,
       "stage_1_ecl": 1860752.1617465706,
       "stage_2_ecl_not_impaired": 159359.97180114995,
@@ -1227,7 +1227,7 @@
     {
       "date": "2023-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1229590.089372058,
       "stage_1_ecl": 1104554.846758448,
       "stage_2_ecl_not_impaired": 101880.37175456,
@@ -1239,7 +1239,7 @@
     {
       "date": "2023-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 832078.8251482602,
       "stage_1_ecl": 763871.8477727203,
       "stage_2_ecl_not_impaired": 54815.09160913998,
@@ -1251,7 +1251,7 @@
     {
       "date": "2023-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8769.059307549995,
       "stage_1_ecl": 8171.539195819994,
       "stage_2_ecl_not_impaired": 320.83732022000004,
@@ -1263,7 +1263,7 @@
     {
       "date": "2023-08-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2070437.9738278682,
       "stage_1_ecl": 1876598.2337269883,
       "stage_2_ecl_not_impaired": 157016.30068391995,
@@ -1275,7 +1275,7 @@
     {
       "date": "2023-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1239255.9718638507,
       "stage_1_ecl": 1117541.1777532108,
       "stage_2_ecl_not_impaired": 99230.99215187995,
@@ -1287,7 +1287,7 @@
     {
       "date": "2023-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 838633.9115118713,
       "stage_1_ecl": 771425.0086597012,
       "stage_2_ecl_not_impaired": 54119.2425086,
@@ -1299,7 +1299,7 @@
     {
       "date": "2023-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8657.997994729998,
       "stage_1_ecl": 8008.249786969999,
       "stage_2_ecl_not_impaired": 372.31464407,
@@ -1311,7 +1311,7 @@
     {
       "date": "2023-09-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2086547.8813704518,
       "stage_1_ecl": 1896974.4361998818,
       "stage_2_ecl_not_impaired": 153722.54930454993,
@@ -1323,7 +1323,7 @@
     {
       "date": "2023-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1238225.8020950684,
       "stage_1_ecl": 1118371.5563844286,
       "stage_2_ecl_not_impaired": 97796.78998673991,
@@ -1335,7 +1335,7 @@
     {
       "date": "2023-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 845844.1238155499,
       "stage_1_ecl": 779730.8307988999,
       "stage_2_ecl_not_impaired": 52767.920074649985,
@@ -1347,7 +1347,7 @@
     {
       "date": "2023-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8805.257545389997,
       "stage_1_ecl": 8110.682033249998,
       "stage_2_ecl_not_impaired": 418.98560501,
@@ -1359,7 +1359,7 @@
     {
       "date": "2023-10-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2092875.1834560086,
       "stage_1_ecl": 1906213.0692165787,
       "stage_2_ecl_not_impaired": 150983.6956663999,
@@ -1371,7 +1371,7 @@
     {
       "date": "2023-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1244760.4931544792,
       "stage_1_ecl": 1122851.363986859,
       "stage_2_ecl_not_impaired": 99883.62020025996,
@@ -1383,7 +1383,7 @@
     {
       "date": "2023-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 855134.1307088905,
       "stage_1_ecl": 787827.8439247705,
       "stage_2_ecl_not_impaired": 54057.300211380025,
@@ -1395,7 +1395,7 @@
     {
       "date": "2023-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8733.716413870003,
       "stage_1_ecl": 8093.095394150003,
       "stage_2_ecl_not_impaired": 368.18962003000007,
@@ -1407,7 +1407,7 @@
     {
       "date": "2023-11-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2108628.3402772397,
       "stage_1_ecl": 1918772.3033057796,
       "stage_2_ecl_not_impaired": 154309.11003167,
@@ -1419,7 +1419,7 @@
     {
       "date": "2023-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1254940.5690458599,
       "stage_1_ecl": 1134509.02981047,
       "stage_2_ecl_not_impaired": 98638.39355198,
@@ -1431,7 +1431,7 @@
     {
       "date": "2023-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 868083.1855549403,
       "stage_1_ecl": 801006.1812878504,
       "stage_2_ecl_not_impaired": 53901.780433769934,
@@ -1443,7 +1443,7 @@
     {
       "date": "2023-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8718.02425951,
       "stage_1_ecl": 8066.661613130002,
       "stage_2_ecl_not_impaired": 378.2989177599998,
@@ -1455,7 +1455,7 @@
     {
       "date": "2023-12-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2131741.77886031,
       "stage_1_ecl": 1943581.8727114503,
       "stage_2_ecl_not_impaired": 152918.47290350994,
@@ -1467,7 +1467,7 @@
     {
       "date": "2024-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1258656.23704014,
       "stage_1_ecl": 1138320.69539115,
       "stage_2_ecl_not_impaired": 98455.54672567996,
@@ -1479,7 +1479,7 @@
     {
       "date": "2024-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 869545.1037295896,
       "stage_1_ecl": 801376.3080337096,
       "stage_2_ecl_not_impaired": 55374.48483822993,
@@ -1491,7 +1491,7 @@
     {
       "date": "2024-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8835.148248629996,
       "stage_1_ecl": 8148.928334839995,
       "stage_2_ecl_not_impaired": 306.21025281000004,
@@ -1503,7 +1503,7 @@
     {
       "date": "2024-01-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2137036.4890183597,
       "stage_1_ecl": 1947845.9317596997,
       "stage_2_ecl_not_impaired": 154136.2418167199,
@@ -1515,7 +1515,7 @@
     {
       "date": "2024-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1262049.2097561988,
       "stage_1_ecl": 1144752.599965469,
       "stage_2_ecl_not_impaired": 95564.72249400994,
@@ -1527,7 +1527,7 @@
     {
       "date": "2024-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 875858.2073617491,
       "stage_1_ecl": 808203.5661771091,
       "stage_2_ecl_not_impaired": 54426.18154638001,
@@ -1539,7 +1539,7 @@
     {
       "date": "2024-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8929.753319439998,
       "stage_1_ecl": 8268.73835414,
       "stage_2_ecl_not_impaired": 288.59989274000003,
@@ -1551,7 +1551,7 @@
     {
       "date": "2024-02-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2146837.170437388,
       "stage_1_ecl": 1961224.9044967182,
       "stage_2_ecl_not_impaired": 150279.50393312995,
@@ -1563,7 +1563,7 @@
     {
       "date": "2024-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1266775.8504969594,
       "stage_1_ecl": 1149551.0170241094,
       "stage_2_ecl_not_impaired": 95760.08042219005,
@@ -1575,7 +1575,7 @@
     {
       "date": "2024-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 884385.9366023899,
       "stage_1_ecl": 816447.5077271599,
       "stage_2_ecl_not_impaired": 54779.75099588996,
@@ -1587,7 +1587,7 @@
     {
       "date": "2024-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8995.77957417,
       "stage_1_ecl": 8420.37611665,
       "stage_2_ecl_not_impaired": 198.77174788999994,
@@ -1599,7 +1599,7 @@
     {
       "date": "2024-03-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2160157.566673519,
       "stage_1_ecl": 1974418.9008679192,
       "stage_2_ecl_not_impaired": 150738.60316597,
@@ -1611,7 +1611,7 @@
     {
       "date": "2024-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1267939.0325426508,
       "stage_1_ecl": 1149720.8828567509,
       "stage_2_ecl_not_impaired": 96576.78549265,
@@ -1623,7 +1623,7 @@
     {
       "date": "2024-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 884837.5727084309,
       "stage_1_ecl": 816311.121877161,
       "stage_2_ecl_not_impaired": 55252.42459967,
@@ -1635,7 +1635,7 @@
     {
       "date": "2024-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9139.630663289994,
       "stage_1_ecl": 8552.583629979994,
       "stage_2_ecl_not_impaired": 249.94566467,
@@ -1647,7 +1647,7 @@
     {
       "date": "2024-04-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2161916.235914372,
       "stage_1_ecl": 1974584.5883638917,
       "stage_2_ecl_not_impaired": 152079.15575699,
@@ -1659,7 +1659,7 @@
     {
       "date": "2024-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1269327.89680957,
       "stage_1_ecl": 1151362.31604943,
       "stage_2_ecl_not_impaired": 96554.03235677996,
@@ -1671,7 +1671,7 @@
     {
       "date": "2024-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 889297.8657454201,
       "stage_1_ecl": 820605.6417806502,
       "stage_2_ecl_not_impaired": 55189.65110157995,
@@ -1683,7 +1683,7 @@
     {
       "date": "2024-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9176.977828869998,
       "stage_1_ecl": 8458.514291939999,
       "stage_2_ecl_not_impaired": 356.1811257600001,
@@ -1695,7 +1695,7 @@
     {
       "date": "2024-05-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2167802.74038386,
       "stage_1_ecl": 1980426.4721220203,
       "stage_2_ecl_not_impaired": 152099.8645841199,
@@ -1707,7 +1707,7 @@
     {
       "date": "2024-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1277695.6736931792,
       "stage_1_ecl": 1161290.7152776993,
       "stage_2_ecl_not_impaired": 95336.9568267,
@@ -1719,7 +1719,7 @@
     {
       "date": "2024-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 898421.6986867293,
       "stage_1_ecl": 828569.1687633792,
       "stage_2_ecl_not_impaired": 56413.11743324002,
@@ -1731,7 +1731,7 @@
     {
       "date": "2024-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9154.82004564,
       "stage_1_ecl": 8301.29820085,
       "stage_2_ecl_not_impaired": 498.1175381399999,
@@ -1743,7 +1743,7 @@
     {
       "date": "2024-06-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2185272.1924255486,
       "stage_1_ecl": 1998161.1822419283,
       "stage_2_ecl_not_impaired": 152248.19179808002,
@@ -1755,7 +1755,7 @@
     {
       "date": "2024-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1276888.3399532812,
       "stage_1_ecl": 1159048.2985634513,
       "stage_2_ecl_not_impaired": 97105.21423309005,
@@ -1767,7 +1767,7 @@
     {
       "date": "2024-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 902436.3653985604,
       "stage_1_ecl": 832136.9709943604,
       "stage_2_ecl_not_impaired": 56763.075151250014,
@@ -1779,7 +1779,7 @@
     {
       "date": "2024-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9109.086359169996,
       "stage_1_ecl": 8314.597579099995,
       "stage_2_ecl_not_impaired": 489.68655966999995,
@@ -1791,7 +1791,7 @@
     {
       "date": "2024-07-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2188433.7917110114,
       "stage_1_ecl": 1999499.8671369117,
       "stage_2_ecl_not_impaired": 154357.97594401005,
@@ -1803,7 +1803,7 @@
     {
       "date": "2024-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1277501.5244881997,
       "stage_1_ecl": 1161779.0660325997,
       "stage_2_ecl_not_impaired": 94990.74810122003,
@@ -1815,7 +1815,7 @@
     {
       "date": "2024-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 908008.8771724604,
       "stage_1_ecl": 837051.4433812104,
       "stage_2_ecl_not_impaired": 57324.779544650024,
@@ -1827,7 +1827,7 @@
     {
       "date": "2024-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9146.336268800002,
       "stage_1_ecl": 8514.559456100002,
       "stage_2_ecl_not_impaired": 327.0596938499999,
@@ -1839,7 +1839,7 @@
     {
       "date": "2024-08-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2194656.73792946,
       "stage_1_ecl": 2007345.06886991,
       "stage_2_ecl_not_impaired": 152642.58733972005,
@@ -1851,7 +1851,7 @@
     {
       "date": "2024-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1279969.8877767997,
       "stage_1_ecl": 1165988.0370351996,
       "stage_2_ecl_not_impaired": 93607.56969141006,
@@ -1863,7 +1863,7 @@
     {
       "date": "2024-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 914407.8568360592,
       "stage_1_ecl": 842336.3087122493,
       "stage_2_ecl_not_impaired": 58691.01570549998,
@@ -1875,7 +1875,7 @@
     {
       "date": "2024-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9262.89615526,
       "stage_1_ecl": 8496.033897070001,
       "stage_2_ecl_not_impaired": 462.24341533999984,
@@ -1887,7 +1887,7 @@
     {
       "date": "2024-09-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2203640.640768119,
       "stage_1_ecl": 2016820.379644519,
       "stage_2_ecl_not_impaired": 152760.82881225002,
@@ -1899,7 +1899,7 @@
     {
       "date": "2024-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1287197.3103907316,
       "stage_1_ecl": 1174055.8480958915,
       "stage_2_ecl_not_impaired": 93108.17067891007,
@@ -1911,7 +1911,7 @@
     {
       "date": "2024-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 921897.2113011095,
       "stage_1_ecl": 848619.6869616595,
       "stage_2_ecl_not_impaired": 59755.78491817003,
@@ -1923,7 +1923,7 @@
     {
       "date": "2024-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9313.134018439998,
       "stage_1_ecl": 8721.916244629998,
       "stage_2_ecl_not_impaired": 287.58009841999996,
@@ -1935,7 +1935,7 @@
     {
       "date": "2024-10-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2218407.6557102813,
       "stage_1_ecl": 2031397.451302181,
       "stage_2_ecl_not_impaired": 153151.53569550012,
@@ -1947,7 +1947,7 @@
     {
       "date": "2024-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1293478.129109241,
       "stage_1_ecl": 1183078.565124071,
       "stage_2_ecl_not_impaired": 90451.61000129003,
@@ -1959,7 +1959,7 @@
     {
       "date": "2024-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 929174.60177712,
       "stage_1_ecl": 856630.77917215,
       "stage_2_ecl_not_impaired": 58973.287179450024,
@@ -1971,7 +1971,7 @@
     {
       "date": "2024-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9290.08050628999,
       "stage_1_ecl": 8767.13316298999,
       "stage_2_ecl_not_impaired": 302.1396127800001,
@@ -1983,7 +1983,7 @@
     {
       "date": "2024-11-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2231942.811392651,
       "stage_1_ecl": 2048476.477459211,
       "stage_2_ecl_not_impaired": 149727.03679352006,
@@ -1995,7 +1995,7 @@
     {
       "date": "2024-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1300649.9708073693,
       "stage_1_ecl": 1191050.8320985192,
       "stage_2_ecl_not_impaired": 90014.19199761003,
@@ -2007,7 +2007,7 @@
     {
       "date": "2024-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 939161.5921081,
       "stage_1_ecl": 868655.6246718899,
       "stage_2_ecl_not_impaired": 57822.638913740004,
@@ -2019,7 +2019,7 @@
     {
       "date": "2024-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9306.66747692,
       "stage_1_ecl": 8855.36468768,
       "stage_2_ecl_not_impaired": 230.67151906000004,
@@ -2031,7 +2031,7 @@
     {
       "date": "2024-12-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2249118.2303923895,
       "stage_1_ecl": 2068561.8214580892,
       "stage_2_ecl_not_impaired": 148067.50243041004,
@@ -2043,7 +2043,7 @@
     {
       "date": "2025-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1303917.5699612033,
       "stage_1_ecl": 1195269.930483553,
       "stage_2_ecl_not_impaired": 88895.88558757998,
@@ -2055,7 +2055,7 @@
     {
       "date": "2025-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 943660.5482583997,
       "stage_1_ecl": 873282.8055945798,
       "stage_2_ecl_not_impaired": 57417.23473660001,
@@ -2067,7 +2067,7 @@
     {
       "date": "2025-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9224.310277519997,
       "stage_1_ecl": 8804.378339789995,
       "stage_2_ecl_not_impaired": 200.11682029,
@@ -2079,7 +2079,7 @@
     {
       "date": "2025-01-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2256802.428497123,
       "stage_1_ecl": 2077357.114417923,
       "stage_2_ecl_not_impaired": 146513.23714446998,
@@ -2091,7 +2091,7 @@
     {
       "date": "2025-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1302129.82189596,
       "stage_1_ecl": 1195117.67262278,
       "stage_2_ecl_not_impaired": 87280.81830308998,
@@ -2103,7 +2103,7 @@
     {
       "date": "2025-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 947896.5928302698,
       "stage_1_ecl": 875871.6777331699,
       "stage_2_ecl_not_impaired": 59173.08817533996,
@@ -2115,7 +2115,7 @@
     {
       "date": "2025-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9249.478143110005,
       "stage_1_ecl": 8607.202482380006,
       "stage_2_ecl_not_impaired": 408.3577394899999,
@@ -2127,7 +2127,7 @@
     {
       "date": "2025-02-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2259275.89286934,
       "stage_1_ecl": 2079596.55283833,
       "stage_2_ecl_not_impaired": 146862.26421791993,
@@ -2139,7 +2139,7 @@
     {
       "date": "2025-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1309926.2681140618,
       "stage_1_ecl": 1201117.7900160819,
       "stage_2_ecl_not_impaired": 89610.07865986989,
@@ -2151,7 +2151,7 @@
     {
       "date": "2025-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 954480.9780797804,
       "stage_1_ecl": 882389.9361991003,
       "stage_2_ecl_not_impaired": 59319.44267329007,
@@ -2163,7 +2163,7 @@
     {
       "date": "2025-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9012.06378886,
       "stage_1_ecl": 8463.251136879999,
       "stage_2_ecl_not_impaired": 340.88109452000003,
@@ -2175,7 +2175,7 @@
     {
       "date": "2025-03-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2273419.309982702,
       "stage_1_ecl": 2091970.9773520622,
       "stage_2_ecl_not_impaired": 149270.40242767998,
@@ -2187,7 +2187,7 @@
     {
       "date": "2025-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1306290.7801514787,
       "stage_1_ecl": 1197630.1769938888,
       "stage_2_ecl_not_impaired": 89458.22002542998,
@@ -2199,7 +2199,7 @@
     {
       "date": "2025-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 957205.9245458903,
       "stage_1_ecl": 883448.4661347902,
       "stage_2_ecl_not_impaired": 60773.63693727002,
@@ -2211,7 +2211,7 @@
     {
       "date": "2025-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8816.692042739998,
       "stage_1_ecl": 8323.087696929997,
       "stage_2_ecl_not_impaired": 285.45145172,
@@ -2223,7 +2223,7 @@
     {
       "date": "2025-04-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2272313.396740109,
       "stage_1_ecl": 2089401.730825609,
       "stage_2_ecl_not_impaired": 150517.30841442,
@@ -2235,7 +2235,7 @@
     {
       "date": "2025-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1309115.63616056,
       "stage_1_ecl": 1201565.8173747,
       "stage_2_ecl_not_impaired": 87979.85851041996,
@@ -2247,7 +2247,7 @@
     {
       "date": "2025-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 964063.113768671,
       "stage_1_ecl": 888966.2844189411,
       "stage_2_ecl_not_impaired": 61751.28930261003,
@@ -2259,7 +2259,7 @@
     {
       "date": "2025-05-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8864.497323230004,
       "stage_1_ecl": 8323.376499210004,
       "stage_2_ecl_not_impaired": 311.3322409099999,
@@ -2271,7 +2271,7 @@
     {
       "date": "2025-05-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2282043.247252461,
       "stage_1_ecl": 2098855.4782928512,
       "stage_2_ecl_not_impaired": 150042.48005394,
@@ -2283,7 +2283,7 @@
     {
       "date": "2025-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1319036.7035711291,
       "stage_1_ecl": 1211508.897688469,
       "stage_2_ecl_not_impaired": 88033.58123937012,
@@ -2295,7 +2295,7 @@
     {
       "date": "2025-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 969213.4820029695,
       "stage_1_ecl": 893566.5075865795,
       "stage_2_ecl_not_impaired": 62681.527023389935,
@@ -2307,7 +2307,7 @@
     {
       "date": "2025-06-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8840.972761229998,
       "stage_1_ecl": 8311.63194835,
       "stage_2_ecl_not_impaired": 307.97391607000003,
@@ -2319,7 +2319,7 @@
     {
       "date": "2025-06-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2297091.158335329,
       "stage_1_ecl": 2113387.0372233987,
       "stage_2_ecl_not_impaired": 151023.08217883005,
@@ -2331,7 +2331,7 @@
     {
       "date": "2025-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1321818.5840373405,
       "stage_1_ecl": 1217062.7064784206,
       "stage_2_ecl_not_impaired": 85422.60835261998,
@@ -2343,7 +2343,7 @@
     {
       "date": "2025-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 975237.8457294196,
       "stage_1_ecl": 899515.3484021296,
       "stage_2_ecl_not_impaired": 62103.309068339986,
@@ -2355,7 +2355,7 @@
     {
       "date": "2025-07-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8897.122630230002,
       "stage_1_ecl": 8467.681635400002,
       "stage_2_ecl_not_impaired": 207.52586107999994,
@@ -2367,7 +2367,7 @@
     {
       "date": "2025-07-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2305953.55239699,
       "stage_1_ecl": 2125045.73651595,
       "stage_2_ecl_not_impaired": 147733.44328203998,
@@ -2379,7 +2379,7 @@
     {
       "date": "2025-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1323046.483799989,
       "stage_1_ecl": 1216406.310462739,
       "stage_2_ecl_not_impaired": 87572.44761368004,
@@ -2391,7 +2391,7 @@
     {
       "date": "2025-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 981458.16541052,
       "stage_1_ecl": 904113.17929776,
       "stage_2_ecl_not_impaired": 63486.48074353998,
@@ -2403,7 +2403,7 @@
     {
       "date": "2025-08-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8908.237491170004,
       "stage_1_ecl": 8485.253897990005,
       "stage_2_ecl_not_impaired": 201.36647268000002,
@@ -2415,7 +2415,7 @@
     {
       "date": "2025-08-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2313412.886701679,
       "stage_1_ecl": 2129004.743658489,
       "stage_2_ecl_not_impaired": 151260.29482990003,
@@ -2427,7 +2427,7 @@
     {
       "date": "2025-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1327267.7142951488,
       "stage_1_ecl": 1220792.496230899,
       "stage_2_ecl_not_impaired": 87717.09837451993,
@@ -2439,7 +2439,7 @@
     {
       "date": "2025-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 988462.1592877902,
       "stage_1_ecl": 909329.4716857001,
       "stage_2_ecl_not_impaired": 65323.109187850016,
@@ -2451,7 +2451,7 @@
     {
       "date": "2025-09-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8876.446336849993,
       "stage_1_ecl": 8462.205200679991,
       "stage_2_ecl_not_impaired": 193.87904764000004,
@@ -2463,7 +2463,7 @@
     {
       "date": "2025-09-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2324606.3199197887,
       "stage_1_ecl": 2138584.173117279,
       "stage_2_ecl_not_impaired": 153234.08661000992,
@@ -2475,7 +2475,7 @@
     {
       "date": "2025-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1329049.2318859894,
       "stage_1_ecl": 1221291.5324878495,
       "stage_2_ecl_not_impaired": 89184.33660098007,
@@ -2487,7 +2487,7 @@
     {
       "date": "2025-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 999333.2522948598,
       "stage_1_ecl": 921955.6037642299,
       "stage_2_ecl_not_impaired": 63624.19442524995,
@@ -2499,7 +2499,7 @@
     {
       "date": "2025-10-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8863.66963268,
       "stage_1_ecl": 8445.1382521,
       "stage_2_ecl_not_impaired": 198.88619970999997,
@@ -2511,7 +2511,7 @@
     {
       "date": "2025-10-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2337246.1538135293,
       "stage_1_ecl": 2151692.274504179,
       "stage_2_ecl_not_impaired": 153007.41722594,
@@ -2523,7 +2523,7 @@
     {
       "date": "2025-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1336344.4494334708,
       "stage_1_ecl": 1234550.457977861,
       "stage_2_ecl_not_impaired": 83052.83030730998,
@@ -2535,7 +2535,7 @@
     {
       "date": "2025-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 1003333.8440754601,
       "stage_1_ecl": 924030.9105792602,
       "stage_2_ecl_not_impaired": 65286.44260681993,
@@ -2547,7 +2547,7 @@
     {
       "date": "2025-11-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8941.84710539,
       "stage_1_ecl": 8427.569392149999,
       "stage_2_ecl_not_impaired": 295.31289361,
@@ -2559,7 +2559,7 @@
     {
       "date": "2025-11-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2348620.1406143205,
       "stage_1_ecl": 2167008.937949271,
       "stage_2_ecl_not_impaired": 148634.58580773993,
@@ -2571,7 +2571,7 @@
     {
       "date": "2025-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1335676.9816972294,
       "stage_1_ecl": 1235807.2657612495,
       "stage_2_ecl_not_impaired": 81577.15818710999,
@@ -2583,7 +2583,7 @@
     {
       "date": "2025-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 1013377.2871865005,
       "stage_1_ecl": 936515.4936540604,
       "stage_2_ecl_not_impaired": 63093.347370170006,
@@ -2595,7 +2595,7 @@
     {
       "date": "2025-12-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8986.544744700004,
       "stage_1_ecl": 8480.031827870005,
       "stage_2_ecl_not_impaired": 275.27004481999995,
@@ -2607,7 +2607,7 @@
     {
       "date": "2025-12-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2358040.8136284295,
       "stage_1_ecl": 2180802.7912431797,
       "stage_2_ecl_not_impaired": 144945.7756021,
@@ -2619,7 +2619,7 @@
     {
       "date": "2026-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1336554.621038361,
       "stage_1_ecl": 1237074.549481041,
       "stage_2_ecl_not_impaired": 81011.49678020999,
@@ -2631,7 +2631,7 @@
     {
       "date": "2026-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 1017298.0605781002,
       "stage_1_ecl": 940638.21241687,
       "stage_2_ecl_not_impaired": 62374.13686457004,
@@ -2643,7 +2643,7 @@
     {
       "date": "2026-01-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9166.856622100002,
       "stage_1_ecl": 8599.374921930003,
       "stage_2_ecl_not_impaired": 349.59481372,
@@ -2655,7 +2655,7 @@
     {
       "date": "2026-01-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2363019.5382385612,
       "stage_1_ecl": 2186312.1368198413,
       "stage_2_ecl_not_impaired": 143735.22845850003,
@@ -2667,7 +2667,7 @@
     {
       "date": "2026-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1337589.52335659,
       "stage_1_ecl": 1239944.25731341,
       "stage_2_ecl_not_impaired": 78936.83100614992,
@@ -2679,7 +2679,7 @@
     {
       "date": "2026-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 1024539.21914904,
       "stage_1_ecl": 946141.74856031,
       "stage_2_ecl_not_impaired": 63686.74586152999,
@@ -2691,7 +2691,7 @@
     {
       "date": "2026-02-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9172.540611049999,
       "stage_1_ecl": 8498.676490009999,
       "stage_2_ecl_not_impaired": 455.033567,
@@ -2703,7 +2703,7 @@
     {
       "date": "2026-02-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2371301.28311668,
       "stage_1_ecl": 2194584.6823637304,
       "stage_2_ecl_not_impaired": 143078.61043467993,
@@ -2715,7 +2715,7 @@
     {
       "date": "2026-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1354175.349725589,
       "stage_1_ecl": 1254399.938238479,
       "stage_2_ecl_not_impaired": 81223.86187627996,
@@ -2727,7 +2727,7 @@
     {
       "date": "2026-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 1032245.3042023702,
       "stage_1_ecl": 953058.1745814502,
       "stage_2_ecl_not_impaired": 64491.853633670005,
@@ -2739,7 +2739,7 @@
     {
       "date": "2026-03-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 9061.914149330001,
       "stage_1_ecl": 8508.975916930001,
       "stage_2_ecl_not_impaired": 360.73057896000006,
@@ -2751,7 +2751,7 @@
     {
       "date": "2026-03-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2395482.568077289,
       "stage_1_ecl": 2215967.088736859,
       "stage_2_ecl_not_impaired": 146076.44608890996,
@@ -2763,7 +2763,7 @@
     {
       "date": "2026-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Perdagangan / Commercial Banks",
+      "bank": "Bank-bank Perdagangan / Commercial Banks",
       "total_loan_financing": 1353395.9284596487,
       "stage_1_ecl": 1256079.9723780688,
       "stage_2_ecl_not_impaired": 78744.39697236994,
@@ -2775,7 +2775,7 @@
     {
       "date": "2026-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Islam / Islamic Banks",
+      "bank": "Bank-bank Islam / Islamic Banks",
       "total_loan_financing": 1037540.2703096695,
       "stage_1_ecl": 959268.1752086094,
       "stage_2_ecl_not_impaired": 63487.07123720001,
@@ -2787,7 +2787,7 @@
     {
       "date": "2026-04-01",
       "frequency": "Monthly",
-      "industry": "Bank-bank Pelaburan / Investment/Merchant Banks",
+      "bank": "Bank-bank Pelaburan / Investment/Merchant Banks",
       "total_loan_financing": 8951.7794168,
       "stage_1_ecl": 8392.817243689999,
       "stage_2_ecl_not_impaired": 366.1395644699999,
@@ -2799,7 +2799,7 @@
     {
       "date": "2026-04-01",
       "frequency": "Monthly",
-      "industry": "Jumlah / Total",
+      "bank": "Jumlah / Total",
       "total_loan_financing": 2399887.9781861184,
       "stage_1_ecl": 2223740.9648303683,
       "stage_2_ecl_not_impaired": 142597.60777403996,

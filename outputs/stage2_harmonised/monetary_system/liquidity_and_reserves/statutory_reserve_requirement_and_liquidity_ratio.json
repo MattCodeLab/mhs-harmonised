@@ -4,7 +4,7 @@
     "subcategory": "liquidity_and_reserves",
     "dataset": "statutory_reserve_requirement_and_liquidity_ratio",
     "source_table": "m_1_26_statutory_reserve_liquidity",
-    "exported_at": "2026-06-04T04:55:16.140218+00:00",
+    "exported_at": "2026-06-04T07:19:32.459225+00:00",
     "total_rows": 51,
     "date_min": "1965-01-01",
     "date_max": "2025-01-01",

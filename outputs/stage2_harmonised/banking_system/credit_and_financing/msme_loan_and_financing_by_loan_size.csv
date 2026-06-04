@@ -1,4 +1,4 @@
-date,frequency,loan_size,rm,rm1_million,rm1_rm5_million,rm5_million,total_outstanding_loan_financing
+date,frequency,bank,less_than_500k,500k_to_1m,1m_to_5m,more_than_5m,total_outstanding
 2021-07-01,Monthly,Bank-bank perdagangan / Commercial banks,33594.350759870016,26080.66247435,72393.59575299003,81327.54721698999,213396.15620420006
 2021-07-01,Monthly,Bank-bank Islam / Islamic banks,11860.2471301,11160.998416679999,30157.255996559987,38162.580310469995,91341.08185380998
 2021-07-01,Monthly,Bank-bank pelaburan / Investment banks,0.93566875,5.25454179,99.01300743,1253.2285939599997,1358.4318119299999

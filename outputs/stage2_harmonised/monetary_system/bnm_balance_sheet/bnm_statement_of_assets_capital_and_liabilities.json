@@ -4,7 +4,7 @@
     "subcategory": "bnm_balance_sheet",
     "dataset": "bnm_statement_of_assets_capital_and_liabilities",
     "source_table": "s_bnm_capital_liabilities",
-    "exported_at": "2026-06-04T04:55:16.093708+00:00",
+    "exported_at": "2026-06-04T07:19:32.280892+00:00",
     "total_rows": 391,
     "date_min": "1975-01-01",
     "date_max": "2026-04-01",
@@ -764,21 +764,6 @@
     },
     {
       "date": "2000-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": null,
-      "currency_in_circulation": 26956.6,
-      "financial_institutions": 67555.0,
-      "federal_government": 17850.5,
-      "deposits_others": 7619.5,
-      "bank_negara_bills_and_bonds": 378.1,
-      "allocation_of_special_drawing_rights": 724.4,
-      "other_liabilities": 3135.5,
-      "total_liabilities": 154907.3
-    },
-    {
-      "date": "2000-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -791,6 +776,21 @@
       "allocation_of_special_drawing_rights": 688.4,
       "other_liabilities": 2544.1,
       "total_liabilities": 148908.1
+    },
+    {
+      "date": "2000-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": null,
+      "currency_in_circulation": 26956.6,
+      "financial_institutions": 67555.0,
+      "federal_government": 17850.5,
+      "deposits_others": 7619.5,
+      "bank_negara_bills_and_bonds": 378.1,
+      "allocation_of_special_drawing_rights": 724.4,
+      "other_liabilities": 3135.5,
+      "total_liabilities": 154907.3
     },
     {
       "date": "2000-02-01",
@@ -1544,21 +1544,6 @@
     },
     {
       "date": "2004-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": null,
-      "currency_in_circulation": 33054.4,
-      "financial_institutions": 105822.9,
-      "federal_government": 3801.0,
-      "deposits_others": 7012.4,
-      "bank_negara_bills_and_bonds": 13390.3,
-      "allocation_of_special_drawing_rights": 785.2,
-      "other_liabilities": 6330.16,
-      "total_liabilities": 212304.76
-    },
-    {
-      "date": "2004-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -1571,6 +1556,21 @@
       "allocation_of_special_drawing_rights": 820.6,
       "other_liabilities": 29390.34,
       "total_liabilities": 285109.54
+    },
+    {
+      "date": "2004-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": null,
+      "currency_in_circulation": 33054.4,
+      "financial_institutions": 105822.9,
+      "federal_government": 3801.0,
+      "deposits_others": 7012.4,
+      "bank_negara_bills_and_bonds": 13390.3,
+      "allocation_of_special_drawing_rights": 785.2,
+      "other_liabilities": 6330.16,
+      "total_liabilities": 212304.76
     },
     {
       "date": "2004-02-01",
@@ -1934,21 +1934,6 @@
     },
     {
       "date": "2006-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": null,
-      "currency_in_circulation": 40635.0,
-      "financial_institutions": 140184.8,
-      "federal_government": 20886.3,
-      "deposits_others": 4302.2,
-      "bank_negara_bills_and_bonds": 20362.7,
-      "allocation_of_special_drawing_rights": 751.1,
-      "other_liabilities": 35220.9,
-      "total_liabilities": 298189.8
-    },
-    {
-      "date": "2006-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -1961,6 +1946,21 @@
       "allocation_of_special_drawing_rights": 736.7,
       "other_liabilities": 31668.4,
       "total_liabilities": 323028.0
+    },
+    {
+      "date": "2006-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": null,
+      "currency_in_circulation": 40635.0,
+      "financial_institutions": 140184.8,
+      "federal_government": 20886.3,
+      "deposits_others": 4302.2,
+      "bank_negara_bills_and_bonds": 20362.7,
+      "allocation_of_special_drawing_rights": 751.1,
+      "other_liabilities": 35220.9,
+      "total_liabilities": 298189.8
     },
     {
       "date": "2006-02-01",
@@ -2129,21 +2129,6 @@
     },
     {
       "date": "2007-01-01",
-      "frequency": "Annual",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": null,
-      "currency_in_circulation": 42192.729256,
-      "financial_institutions": 231591.665147,
-      "federal_government": 14274.46201,
-      "deposits_others": 2819.726945,
-      "bank_negara_bills_and_bonds": 69009.960464,
-      "allocation_of_special_drawing_rights": 726.822946,
-      "other_liabilities": 34518.924334,
-      "total_liabilities": 424881.410206
-    },
-    {
-      "date": "2007-01-01",
       "frequency": "Monthly",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -2156,6 +2141,21 @@
       "allocation_of_special_drawing_rights": 736.7,
       "other_liabilities": 40458.3,
       "total_liabilities": 339425.4
+    },
+    {
+      "date": "2007-01-01",
+      "frequency": "Annual",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": null,
+      "currency_in_circulation": 42192.729256,
+      "financial_institutions": 231591.665147,
+      "federal_government": 14274.46201,
+      "deposits_others": 2819.726945,
+      "bank_negara_bills_and_bonds": 69009.960464,
+      "allocation_of_special_drawing_rights": 726.822946,
+      "other_liabilities": 34518.924334,
+      "total_liabilities": 424881.410206
     },
     {
       "date": "2007-02-01",
@@ -2909,21 +2909,6 @@
     },
     {
       "date": "2011-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": null,
-      "currency_in_circulation": 63463.6387,
-      "financial_institutions": 168654.983837,
-      "federal_government": 12745.509825,
-      "deposits_others": 3250.243121,
-      "bank_negara_bills_and_bonds": 99135.230427,
-      "allocation_of_special_drawing_rights": 6396.555926,
-      "other_liabilities": 30335.873901,
-      "total_liabilities": 399501.745518
-    },
-    {
-      "date": "2011-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -2936,6 +2921,21 @@
       "allocation_of_special_drawing_rights": 6548.320169,
       "other_liabilities": 25844.3244,
       "total_liabilities": 472969.546576
+    },
+    {
+      "date": "2011-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": null,
+      "currency_in_circulation": 63463.6387,
+      "financial_institutions": 168654.983837,
+      "federal_government": 12745.509825,
+      "deposits_others": 3250.243121,
+      "bank_negara_bills_and_bonds": 99135.230427,
+      "allocation_of_special_drawing_rights": 6396.555926,
+      "other_liabilities": 30335.873901,
+      "total_liabilities": 399501.745518
     },
     {
       "date": "2011-02-01",
@@ -3494,21 +3494,6 @@
     },
     {
       "date": "2014-01-01",
-      "frequency": "Annual",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 71150.33490799999,
-      "currency_in_circulation": 77734.642895,
-      "financial_institutions": 141160.58766,
-      "federal_government": 5263.624767,
-      "deposits_others": 2033.678,
-      "bank_negara_bills_and_bonds": 105476.712764,
-      "allocation_of_special_drawing_rights": 6819.246401,
-      "other_liabilities": 17877.650314639995,
-      "total_liabilities": 427616.508253
-    },
-    {
-      "date": "2014-01-01",
       "frequency": "Monthly",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -3521,6 +3506,21 @@
       "allocation_of_special_drawing_rights": 6790.312388,
       "other_liabilities": 21613.823105,
       "total_liabilities": 463692.79556400003
+    },
+    {
+      "date": "2014-01-01",
+      "frequency": "Annual",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 71150.33490799999,
+      "currency_in_circulation": 77734.642895,
+      "financial_institutions": 141160.58766,
+      "federal_government": 5263.624767,
+      "deposits_others": 2033.678,
+      "bank_negara_bills_and_bonds": 105476.712764,
+      "allocation_of_special_drawing_rights": 6819.246401,
+      "other_liabilities": 17877.650314639995,
+      "total_liabilities": 427616.508253
     },
     {
       "date": "2014-02-01",
@@ -3689,21 +3689,6 @@
     },
     {
       "date": "2015-01-01",
-      "frequency": "Annual",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 131133.75396600002,
-      "currency_in_circulation": 88157.350153,
-      "financial_institutions": 157170.272372,
-      "federal_government": 10212.933427,
-      "deposits_others": 588.177209,
-      "bank_negara_bills_and_bonds": 24113.83866,
-      "allocation_of_special_drawing_rights": 8009.059759,
-      "other_liabilities": 21082.136954,
-      "total_liabilities": 440567.522499
-    },
-    {
-      "date": "2015-01-01",
       "frequency": "Monthly",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -3716,6 +3701,21 @@
       "allocation_of_special_drawing_rights": 6819.246401,
       "other_liabilities": 14465.222191,
       "total_liabilities": 406202.179366
+    },
+    {
+      "date": "2015-01-01",
+      "frequency": "Annual",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 131133.75396600002,
+      "currency_in_circulation": 88157.350153,
+      "financial_institutions": 157170.272372,
+      "federal_government": 10212.933427,
+      "deposits_others": 588.177209,
+      "bank_negara_bills_and_bonds": 24113.83866,
+      "allocation_of_special_drawing_rights": 8009.059759,
+      "other_liabilities": 21082.136954,
+      "total_liabilities": 440567.522499
     },
     {
       "date": "2015-02-01",
@@ -4274,21 +4274,6 @@
     },
     {
       "date": "2018-01-01",
-      "frequency": "Annual",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 131556.8,
-      "currency_in_circulation": 106405.049013,
-      "financial_institutions": 169132.968685,
-      "federal_government": 7955.553982,
-      "deposits_others": 858.919129,
-      "bank_negara_bills_and_bonds": 21745.525910869997,
-      "allocation_of_special_drawing_rights": 7743.43194931,
-      "other_liabilities": 2138.294841,
-      "total_liabilities": 447636.534667
-    },
-    {
-      "date": "2018-01-01",
       "frequency": "Monthly",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -4301,6 +4286,21 @@
       "allocation_of_special_drawing_rights": 7759.395868,
       "other_liabilities": 4109.671743,
       "total_liabilities": 456973.588411
+    },
+    {
+      "date": "2018-01-01",
+      "frequency": "Annual",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 131556.8,
+      "currency_in_circulation": 106405.049013,
+      "financial_institutions": 169132.968685,
+      "federal_government": 7955.553982,
+      "deposits_others": 858.919129,
+      "bank_negara_bills_and_bonds": 21745.525910869997,
+      "allocation_of_special_drawing_rights": 7743.43194931,
+      "other_liabilities": 2138.294841,
+      "total_liabilities": 447636.534667
     },
     {
       "date": "2018-02-01",
@@ -4664,21 +4664,6 @@
     },
     {
       "date": "2020-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 144339.90782158,
-      "currency_in_circulation": 118753.595014,
-      "financial_institutions": 145612.840914,
-      "federal_government": 10261.328347,
-      "deposits_others": 1223.343412,
-      "bank_negara_bills_and_bonds": 19834.13423588,
-      "allocation_of_special_drawing_rights": 7619.06980779,
-      "other_liabilities": 3205.776558,
-      "total_liabilities": 450949.99611
-    },
-    {
-      "date": "2020-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -4691,6 +4676,21 @@
       "allocation_of_special_drawing_rights": 7788.201997,
       "other_liabilities": 4810.403316,
       "total_liabilities": 488043.5675954204
+    },
+    {
+      "date": "2020-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 144339.90782158,
+      "currency_in_circulation": 118753.595014,
+      "financial_institutions": 145612.840914,
+      "federal_government": 10261.328347,
+      "deposits_others": 1223.343412,
+      "bank_negara_bills_and_bonds": 19834.13423588,
+      "allocation_of_special_drawing_rights": 7619.06980779,
+      "other_liabilities": 3205.776558,
+      "total_liabilities": 450949.99611
     },
     {
       "date": "2020-02-01",
@@ -4859,21 +4859,6 @@
     },
     {
       "date": "2021-01-01",
-      "frequency": "Annual",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 178010.7277506504,
-      "currency_in_circulation": 150064.539566,
-      "financial_institutions": 146027.458668,
-      "federal_government": 8586.669422,
-      "deposits_others": 4787.18158,
-      "bank_negara_bills_and_bonds": 7911.232184,
-      "allocation_of_special_drawing_rights": 28149.520445,
-      "other_liabilities": 5313.927116,
-      "total_liabilities": 551612.6538488204
-    },
-    {
-      "date": "2021-01-01",
       "frequency": "Monthly",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -4886,6 +4871,21 @@
       "allocation_of_special_drawing_rights": 7788.201997,
       "other_liabilities": 3617.841085,
       "total_liabilities": 490378.517866
+    },
+    {
+      "date": "2021-01-01",
+      "frequency": "Annual",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 178010.7277506504,
+      "currency_in_circulation": 150064.539566,
+      "financial_institutions": 146027.458668,
+      "federal_government": 8586.669422,
+      "deposits_others": 4787.18158,
+      "bank_negara_bills_and_bonds": 7911.232184,
+      "allocation_of_special_drawing_rights": 28149.520445,
+      "other_liabilities": 5313.927116,
+      "total_liabilities": 551612.6538488204
     },
     {
       "date": "2021-02-01",
@@ -5054,21 +5054,6 @@
     },
     {
       "date": "2022-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 178429.31071292,
-      "currency_in_circulation": 155783.371758,
-      "financial_institutions": 151221.952501,
-      "federal_government": 8280.609798,
-      "deposits_others": 5635.560182,
-      "bank_negara_bills_and_bonds": 7278.111406,
-      "allocation_of_special_drawing_rights": 28149.520445,
-      "other_liabilities": 6294.113948,
-      "total_liabilities": 541172.550751
-    },
-    {
-      "date": "2022-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -5081,6 +5066,21 @@
       "allocation_of_special_drawing_rights": 28212.760736,
       "other_liabilities": 4398.822564,
       "total_liabilities": 618937.917684
+    },
+    {
+      "date": "2022-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 178429.31071292,
+      "currency_in_circulation": 155783.371758,
+      "financial_institutions": 151221.952501,
+      "federal_government": 8280.609798,
+      "deposits_others": 5635.560182,
+      "bank_negara_bills_and_bonds": 7278.111406,
+      "allocation_of_special_drawing_rights": 28149.520445,
+      "other_liabilities": 6294.113948,
+      "total_liabilities": 541172.550751
     },
     {
       "date": "2022-02-01",
@@ -5444,21 +5444,6 @@
     },
     {
       "date": "2024-01-01",
-      "frequency": "Monthly",
-      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
-      "paid_up_capital": 100,
-      "reserves": 187026.50341382,
-      "currency_in_circulation": 166710.658592,
-      "financial_institutions": 169286.717049,
-      "federal_government": 5075.416814,
-      "deposits_others": 38986.453514,
-      "bank_negara_bills_and_bonds": 31676.006123,
-      "allocation_of_special_drawing_rights": 29738.12369,
-      "other_liabilities": 3523.375926,
-      "total_liabilities": 632123.25512182
-    },
-    {
-      "date": "2024-01-01",
       "frequency": "Annual",
       "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
       "paid_up_capital": 100,
@@ -5471,6 +5456,21 @@
       "allocation_of_special_drawing_rights": 28184.994115,
       "other_liabilities": 3120.690414,
       "total_liabilities": 621540.0607320004
+    },
+    {
+      "date": "2024-01-01",
+      "frequency": "Monthly",
+      "bank_negara_malaysia_statement_of_capital_and_liabilities": null,
+      "paid_up_capital": 100,
+      "reserves": 187026.50341382,
+      "currency_in_circulation": 166710.658592,
+      "financial_institutions": 169286.717049,
+      "federal_government": 5075.416814,
+      "deposits_others": 38986.453514,
+      "bank_negara_bills_and_bonds": 31676.006123,
+      "allocation_of_special_drawing_rights": 29738.12369,
+      "other_liabilities": 3523.375926,
+      "total_liabilities": 632123.25512182
     },
     {
       "date": "2024-02-01",

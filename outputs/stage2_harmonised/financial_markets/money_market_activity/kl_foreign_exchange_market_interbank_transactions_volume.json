@@ -4,7 +4,7 @@
     "subcategory": "money_market_activity",
     "dataset": "kl_foreign_exchange_market_interbank_transactions_volume",
     "source_table": "m_2_8_kl_fx_market_volume",
-    "exported_at": "2026-06-04T04:55:17.031627+00:00",
+    "exported_at": "2026-06-04T07:19:35.371897+00:00",
     "total_rows": 358,
     "date_min": "1993-01-01",
     "date_max": "2026-04-01",
